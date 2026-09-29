@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.7.3
+## 최신 버전 · 0.7.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.3/inMente-Setup-0.7.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.3/inMente-0.7.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.4/inMente-Setup-0.7.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.4/inMente-0.7.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.7.4:START -->
+### inMente 0.7.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.4/inMente-Setup-0.7.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.4/inMente-0.7.4.apk)
+
+- **실험 기록을 입력 칸으로** — 기록을 열면 마크다운 편집기 대신 소제목(목적 · 변인 통제 · 실험 환경 · 주의사항 · 결과 · 해석 …)마다 글 칸이 나와요. 적다가 1초쯤 멈추면 저절로 저장돼요. 파일은 전처럼 마크다운이고, 고친 소제목의 내용만 바뀌어요.
+- **변수 설정 표** — 변수 · 값 · 단위를 칸에 바로 적고, [줄 더하기]와 ✕로 줄을 더하고 지워요. 표 아래에 메모도 적을 수 있어요. 이전 기록과 견주기가 이 표를 그대로 읽어요.
+- 틀(templates 폴더)에 있는데 기록에 없는 소제목도 빈 칸으로 보여요. 마크다운을 직접 보고 싶으면 기록 화면의 [원문]으로 바꿔요(고른 쪽을 기억해요).
+<!-- INMENTE_RELEASE:0.7.4:END -->
+
 <!-- INMENTE_RELEASE:0.7.3:START -->
 ### inMente 0.7.3
 
