@@ -2,14 +2,30 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.7.1
+## 최신 버전 · 0.7.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.1/inMente-Setup-0.7.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.1/inMente-0.7.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.2/inMente-Setup-0.7.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.2/inMente-0.7.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.7.2:START -->
+### inMente 0.7.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.2/inMente-Setup-0.7.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.2/inMente-0.7.2.apk)
+
+- **실험 기록** — 왼쪽 메뉴의 실험에서 이론 · 실험 · 시뮬레이션 기록을 써요. 목록은 최근 날짜 먼저이고, 종류 · 프로젝트 · 상태로 거르고 제목으로 찾아요.
+- **[+ 기록]** — 제목 · 종류 · 프로젝트 · 날짜를 고르면 그 종류의 틀(목적 · 변수 설정 표 · 변인 통제 · 실험 환경 · 주의사항 · 이전 실험과의 변동사항 · 결과 · 해석)로 기록이 만들어지고 바로 열려요. 프로젝트는 그 자리에서 새로 만들 수 있어요(projects.yaml에 더해져요).
+- **기록 화면** — 위에서 종류 · 프로젝트 · 날짜 · 상태(계획 · 진행 중 · 완료 · 실패)를 바꾸고, 아래는 파일탐색기와 같은 편집기(편집 · 나란히 · 읽기 · 저절로 저장)예요.
+- **이전 기록과 견주기** — 같은 프로젝트 · 종류의 바로 앞 기록(또는 직접 고른 기록)과 '변수 설정' 표를 맞대어 바뀐 값 · 새 변수 · 빠진 변수를 보여 줘요. 틀은 vault의 templates 폴더에 있고, 고치면 다음 기록부터 그 틀로 만들어져요.
+- **달력이 갤럭시 캘린더처럼** — 할 일 · 내 일정 달력의 칸마다 막대로 보여요. 여러 날 일정은 이어진 날에 한 줄로 쭉 이어지고(주가 바뀌면 다음 줄에서 이어져요), 하루 종일 일정은 색을 채운 막대, 시각 있는 일정 · 할 일은 왼쪽 색 줄 막대예요. 칸이 모자라면 +N으로 알려요. 폰에서도 제목이 보여요.
+- **폰에서 할 일 · 일정 · 기록 만들기 창이 위쪽 팝업으로** — 아래에서 올라오던 창은 입력칸이 화면 아래에 붙어 치기 힘들었어요. 이제 화면 위쪽에 글 높이만큼 뜨고, 키보드가 올라와도 가려지지 않아요.
+- **논문 메모 찾기를 부드러운 모양으로** — 둥근 찾기 칸(지우기 단추) · 색이 드는 칩 · 카드를 누르면 열리고, 메모 위치 · PDF 위치 · 탐색기는 아이콘 단추로.
+- **앱 아이콘에 InMente 글씨** — 비커 그림 아래에 이름이 함께 보여요.
+<!-- INMENTE_RELEASE:0.7.2:END -->
+
 <!-- INMENTE_RELEASE:0.7.1:START -->
 ### inMente 0.7.1
 
