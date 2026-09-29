@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.7.5
+## 최신 버전 · 0.8.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.5/inMente-Setup-0.7.5.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.5/inMente-0.7.5.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.0/inMente-Setup-0.8.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.0/inMente-0.8.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.0:START -->
+### inMente 0.8.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.0/inMente-Setup-0.8.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.0/inMente-0.8.0.apk)
+
+- **샘플 관리** — 실험 페이지 위의 [기록 · 샘플]에서 샘플로 가요. 슬러리 한 번이 배치 하나, 거기서 찍은 전극들이 그 안의 한 장들이에요. 배치마다 활물질 · 활:도:바 비율 · 집전체 · 비용량을 적고, 전극마다 넓이 · 두께 · 질량 · 측정 용량을 표에 적어요.
+- **로딩 · 이론 용량을 계산해서** 표에 보여 줘요(파일에는 적은 값만 남아요). 전극은 [보관 · 폐기]로 표시하고, [전극 더하기]로 늘려요.
+- **[필드 추가]** — 필요한 칸(예: 기공률)을 언제든 더해요. 전극마다 칸인지 배치에 하나인지, 수인지 글인지 골라요. 정의에 없는 값도 지우지 않고 '기타'로 보여요.
+- **실험 기록 ↔ 샘플** — 기록 화면의 '쓴 샘플'에서 전극을 골라요. 고른 전극의 값과 계산값이 기록 화면에 함께 보이고, 샘플 쪽 표에는 그 전극을 쓴 기록이 '사용'으로 나와요. 누르면 서로 오가요.
+- 실험 기록의 상태 · 종류 · 날짜를 바꾸면 **바로** 바뀌어요(전에는 0.5초쯤 늦었어요). 상태마다 색이 생겼어요(계획 회색 · 진행 중 파랑 · 완료 초록 · 실패 주황).
+- **프로젝트 색** — 실험 머리의 [프로젝트]에서, 또는 새 프로젝트를 만들 때 색을 골라요. 목록과 고르기 메뉴에 색 점으로 보여요.
+<!-- INMENTE_RELEASE:0.8.0:END -->
+
 <!-- INMENTE_RELEASE:0.7.5:START -->
 ### inMente 0.7.5
 
