@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.0
+## 최신 버전 · 0.8.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.0/inMente-Setup-0.8.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.0/inMente-0.8.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.1/inMente-Setup-0.8.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.1/inMente-0.8.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.1:START -->
+### inMente 0.8.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.1/inMente-Setup-0.8.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.1/inMente-0.8.1.apk)
+
+- **사용 완료가 저절로** — 실험 기록의 '쓴 샘플'에 적힌 전극은 샘플 표의 상태가 '사용 완료'로 보여요. 기록에서 빼면 다시 '보관'이에요. 상태를 누르면 폐기 ↔ 되돌리기만 해요. 배치 목록에도 사용 완료 수가 보여요.
+- 전극 표 아래에 안내를 넣었어요 — '사용' 칸은 실험 기록 화면의 '쓴 샘플'에서 그 전극을 고르면 저절로 채워지고, 거기서 빼면 사라져요.
+- **실험 기록 · 배치 지우기** — 정보 줄 끝의 휴지통 단추로 지워요. 한 번 더 묻고, 지우면 달라지는 것(그 배치를 쓴 기록 수 · 풀리는 사용 완료)을 알려 줘요. 파일은 없애지 않고 휴지통(.trash)으로 옮겨서 되살릴 수 있어요.
+<!-- INMENTE_RELEASE:0.8.1:END -->
+
 <!-- INMENTE_RELEASE:0.8.0:START -->
 ### inMente 0.8.0
 
