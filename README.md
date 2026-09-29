@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.7.2
+## 최신 버전 · 0.7.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.2/inMente-Setup-0.7.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.2/inMente-0.7.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.3/inMente-Setup-0.7.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.3/inMente-0.7.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.7.3:START -->
+### inMente 0.7.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.3/inMente-Setup-0.7.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.3/inMente-0.7.3.apk)
+
+- **구글 캘린더(읽기 전용 · PC)** — 일정 화면 위에 [구글 캘린더]가 생겼어요. 설정 → 구글 캘린더에서 한 번 로그인하면 내 캘린더와 공유받은 캘린더(장비 예약 등)가 모두 달력에 막대로 보여요. 보기만 하고, 고치기는 구글 캘린더 웹에서 해요. 필요 없는 캘린더는 설정에서 꺼요. 처음 한 번 Google Cloud에서 앱 등록이 필요해요(안내서: 저장소 docs/google_calendar_setup.md).
+- **앱 아이콘이 이제 제대로 바뀌어요** — 0.7.1 · 0.7.2는 빌드가 아이콘이 바뀐 것을 알아채지 못해 실행 파일에 옛 아이콘이 들어갔어요. 이제 뇌가 가운데이고 InMente 글씨가 있는 아이콘이에요(작업 표시줄에 옛 아이콘이 남아 있으면 다시 시작하면 바뀌어요).
+- **파일탐색기 옆 칸** — 제목 · 새 노트 · 찾기는 위에 고정되고, 노트 나무와 라이브러리만 스크롤돼요. 제목의 아이콘도 inLoco 로고로 바뀌었어요.
+- **메모 찾기 결과** — 좁은 옆 칸에서 아이콘 단추가 제목과 겹치던 것을 고쳤어요. 제목은 줄을 바꿔 다 보이고, 아이콘은 카드 오른쪽 아래에 있어요.
+- **메모를 열면 PDF도 나란히(설정)** — 파일탐색기 설정 → 노트 열기에서 켜면 논문 메모를 열 때 그 PDF가 옆에 저절로 열려요(기본은 꺼짐).
+<!-- INMENTE_RELEASE:0.7.3:END -->
+
 <!-- INMENTE_RELEASE:0.7.2:START -->
 ### inMente 0.7.2
 
