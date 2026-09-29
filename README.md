@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.7.4
+## 최신 버전 · 0.7.5
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.4/inMente-Setup-0.7.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.4/inMente-0.7.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.5/inMente-Setup-0.7.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.5/inMente-0.7.5.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.7.5:START -->
+### inMente 0.7.5
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.7.5/inMente-Setup-0.7.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.7.5/inMente-0.7.5.apk)
+
+- **실험 틀 만들기** — 기록 화면의 [틀로 저장]을 누르면 지금 기록의 변수 표 · 목적 · 실험 환경 · 주의사항이 채워진 틀로 남아요. 결과 · 해석 · 변동사항은 비워서 저장해요. 같은 이름이 있으면 [덮어쓰기]를 한 번 더 눌러요.
+- **새 기록의 시작 내용** — [+ 기록]에서 기본 틀 · 저장한 틀 · 지난 기록 복사 중에 골라요. 지난 기록을 복사하면 표와 목적은 그대로, 결과 · 해석 · 변동사항은 빈 칸으로 가져오고, 프로젝트와 제목이 따라오고, 복사한 기록을 이전 기록으로 이어 둬요.
+- 고르기 메뉴가 화면 왼쪽 밖으로 잘리던 것을 고쳤어요(실험 기록의 '이전 기록' 등). 항목이 많으면 메뉴 안에서 스크롤하고, 긴 이름은 말줄임으로 보여요.
+- 구글 캘린더: 로그인할 때 늘 계정 고르기부터 떠요. 구글이 거절하면(403 등) 까닭과 할 일을 알려 줘요(예: Google Calendar API를 켜세요).
+<!-- INMENTE_RELEASE:0.7.5:END -->
+
 <!-- INMENTE_RELEASE:0.7.4:START -->
 ### inMente 0.7.4
 
