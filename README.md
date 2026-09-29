@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.1
+## 최신 버전 · 0.8.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.1/inMente-Setup-0.8.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.1/inMente-0.8.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.2/inMente-Setup-0.8.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.2/inMente-0.8.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.2:START -->
+### inMente 0.8.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.2/inMente-Setup-0.8.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.2/inMente-0.8.2.apk)
+
+- **휴지통 화면** — 설정 → 휴지통에서 지운 노트 · 실험 기록 · 샘플 배치를 지운 시각마다 모아 보여요. [되살리기]를 누르면 원래 자리로 돌아가요. 그 자리에 같은 이름이 있으면 덮지 않고 이름 뒤에 '-되살림'을 붙여요. 한 번에 지운 것은 [모두 되살리기]로.
+- 앱은 휴지통을 비우지 않아요(파일을 잃지 않게). 비우려면 Windows 탐색기에서 vault 안의 .trash 폴더를 지워요.
+- 지울 때 뜨는 안내도 '설정 → 휴지통에서 되살릴 수 있어요'로 바꿨어요.
+<!-- INMENTE_RELEASE:0.8.2:END -->
+
 <!-- INMENTE_RELEASE:0.8.1:START -->
 ### inMente 0.8.1
 
