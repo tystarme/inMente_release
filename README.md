@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.6
+## 최신 버전 · 0.8.7
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.6/inMente-Setup-0.8.6.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.6/inMente-0.8.6.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.7/inMente-Setup-0.8.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.7/inMente-0.8.7.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.7:START -->
+### inMente 0.8.7
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.7/inMente-Setup-0.8.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.7/inMente-0.8.7.apk)
+
+- **노트에 문법 도움말** — 파일탐색기에서 노트를 열면 위쪽에 ? 버튼이 있어요. 누르면 옆에 [단축키 · 문법] 창이 열려요(inLoco처럼).
+- 제목 · 강조 · 색 · 목록 · 체크박스 · 접었다 펴는 제목 · 표와 칸 너비 · 수식 · 코드 · 링크 · PDF 쪽 링크 · 그림 크기 · 알림 칸 · 숨김 메모 · 단축키를 찾아볼 수 있어요. 예: 'toggle', '표 너비'.
+- 항목마다 예제 글과 **읽기 화면에 보이는 모양**을 함께 보여 줘요. 복사 버튼으로 예제를 복사해 노트에 붙여 넣으면 돼요.
+<!-- INMENTE_RELEASE:0.8.7:END -->
+
 <!-- INMENTE_RELEASE:0.8.6:START -->
 ### inMente 0.8.6
 
