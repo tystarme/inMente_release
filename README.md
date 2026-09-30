@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.9.0
+## 최신 버전 · 0.9.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.0/inMente-Setup-0.9.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.0/inMente-0.9.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.1/inMente-Setup-0.9.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.1/inMente-0.9.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.9.1:START -->
+### inMente 0.9.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.1/inMente-Setup-0.9.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.1/inMente-0.9.1.apk)
+
+- **파일탐색기에는 파일탐색기의 것만** — 다른 페이지가 쓰는 폴더(행정 admin · 일정 inLista · schedule · 실험 experiments · samples · templates · 주간 보고 weeklyupdate)는 파일탐색기 목록에 보이지 않아요. 그 페이지에서 봐요.
+- 논문 메모 · 자료 메모 폴더와 직접 만든 노트 · 폴더는 그대로 보여요. 숨긴 폴더의 파일도 그대로 있고, 노트 안의 링크 · 그림은 그대로 열려요.
+- **\ 뒤의 기호는 글자 그대로** — \*별표\* → *별표*, \$ → $, \~ → ~ (inLoco 5.6.3과 같게). \alpha처럼 글자 앞의 \와 코드 · 수식 안의 \는 그대로예요.
+- **물결 하나 취소선** — ~이렇게~ 써도 취소선이에요(10~20처럼 짝이 없거나 빈칸으로 떨어지면 글자 그대로).
+- 문법 도움말에 '기호 그대로'와 물결 하나 취소선을 더했어요.
+<!-- INMENTE_RELEASE:0.9.1:END -->
+
 <!-- INMENTE_RELEASE:0.9.0:START -->
 ### inMente 0.9.0
 
