@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.9.2
+## 최신 버전 · 0.9.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.2/inMente-Setup-0.9.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.2/inMente-0.9.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.3/inMente-Setup-0.9.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.3/inMente-0.9.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.9.3:START -->
+### inMente 0.9.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.3/inMente-Setup-0.9.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.3/inMente-0.9.3.apk)
+
+- **정렬** — 실험 기록 · 샘플 배치 · 행정 건 · 주간 보고 목록에 [정렬]이 생겼어요: 날짜 · 최근 먼저 / 날짜 · 오래된 먼저 / 이름 · 가나다 / 이름 · 역순. 고른 것은 목록마다 이 기기에 기억해요.
+- **주간 보고 지우기** — 보고 · 메모를 펴면 [고치기] 옆에 휴지통 단추가 있어요(고치는 화면에도). 한 번 더 묻고 휴지통으로 옮겨요 — 주간 보고 설정의 휴지통에서 되살려요.
+- **지우기가 없던 곳에 지우기** — 실험의 프로젝트(프로젝트 관리 창 · 쓰는 기록 수를 먼저 알려 줘요 · 기록은 그대로), 저장한 틀(새 기록의 시작 내용에서 고르면 [틀 지우기]), 샘플의 칸([필드 추가] 아래 '칸 빼기' — 적어 둔 값은 '기타'로 남고, 계산값이 쓰는 칸은 뺄 수 없어요).
+- 주간 보고: 펼친 보고의 글머리표(•)가 보여요. 보고 제목(날짜 · 기간)을 더 크게, 달 · 날짜 표시와 펼친 칸을 둥글게 했어요.
+- 주간 보고에서 [고치기]로 연 화면의 단추(글자 크기 · 편집 · 나란히 · 읽기 · 저장)도 파일탐색기와 같은 둥근 모양이에요.
+<!-- INMENTE_RELEASE:0.9.3:END -->
+
 <!-- INMENTE_RELEASE:0.9.2:START -->
 ### inMente 0.9.2
 
