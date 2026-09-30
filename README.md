@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.2
+## 최신 버전 · 0.8.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.2/inMente-Setup-0.8.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.2/inMente-0.8.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.3/inMente-Setup-0.8.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.3/inMente-0.8.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.3:START -->
+### inMente 0.8.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.3/inMente-Setup-0.8.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.3/inMente-0.8.3.apk)
+
+- **행정 → 구매 건** — [+ 구매 건]을 만들고 과제 · 재원 유형 · 비목 · 금액 · 결제 방식 · 해외 구매에 답하면, 거쳐야 할 단계가 세로 순서도로 나와요(규정 확인 → 사전 작업 → 구매 → 수령 · 정산). 지금 할 단계가 강조되고, 단계마다 판단(예: 재량구매 가능) · 챙길 서류(체크) · 마감(예: 카드 결제 → 다음 달 15일 지출결의) · 가이드의 해당 절이 있어요.
+- 모든 건 화면 위에 '처음 해 보는 절차는 가이드를 먼저 읽고, 실행 전에 꼭 경험자와 확인'을 둬요. 앱은 행정 판단을 대신하지 않아요.
+- **규칙은 파일로** — 구매 가이드를 옮긴 규칙이 vault의 admin/rules/purchasing.yaml에 생겨요. 규정이 바뀌면 이 파일만 고치면 돼요. 진행 중인 건은 시작할 때의 규칙 판으로 계속 보이고, 새 판이 있으면 달라지는 것을 보여 준 뒤 바꿀지 물어요.
+- **[가이드 가져오기](PC)** — 가이드 원문 md를 골라 vault의 admin/guides로 가져와요(같은 이름은 덮지 않아요). 원문은 앱에 넣지 않았어요. 단계의 [가이드 …]를 누르면 그 절만 보여요.
+- **휴지통은 페이지별 설정에** — 파일탐색기 · 일정 · 실험 · 행정의 설정(⚙)에 그 페이지에서 지운 것만 보여요. 전체 설정의 휴지통은 뺐어요.
+<!-- INMENTE_RELEASE:0.8.3:END -->
+
 <!-- INMENTE_RELEASE:0.8.2:START -->
 ### inMente 0.8.2
 
