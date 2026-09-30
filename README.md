@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.7
+## 최신 버전 · 0.8.8
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.7/inMente-Setup-0.8.7.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.7/inMente-0.8.7.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.8/inMente-Setup-0.8.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.8/inMente-0.8.8.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.8:START -->
+### inMente 0.8.8
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.8/inMente-Setup-0.8.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.8/inMente-0.8.8.apk)
+
+- **새 페이지 [주간 보고]** — 왼쪽 메뉴에 생겼어요. 노션처럼 연도 → 달 → 주를 눌러 접었다 펴고, 주를 펴면 그 자리에 내용이 보여요. [고치기]로 바로 고쳐요.
+- **노션 파일을 주마다 나누기** — 주간 보고 폴더(weeklyupdate)에 노션에서 내보낸 파일이 있으면 [주마다 나누기]가 떠요. 한 번 묻고, 원래 파일은 그대로 둔 채 주마다 파일 하나(weeklyupdate/연도/연.월/)로 복사해요. 그림도 그대로 보여요.
+- **[이번 주 보고]** — 이번 주 금요일 이름(예: 261002 (260925~261001))으로 새 보고를 만들어 열어요. 지난 보고의 큰 항목을 틀로 쓰고, 지난주 '다음주 목표'는 이번 주 '이번주 목표'로 옮겨 와요. 이미 있으면 그것을 열어요.
+- **[+ 메모]** — 회의 메모 · 발표 피드백을 날짜와 이름으로 그 달에 만들어요.
+- **매주 '주간 보고 쓰기' 할 일** — 주간 보고 설정(⚙)에서 켜면 매주 고른 요일(기본 목요일)에 할 일 목록에 하나 넣어요. 이름과 분류도 고를 수 있어요. 이번 주만 빼려면 주간 보고 페이지 위의 [이번 주 건너뛰기]를 눌러요. PC와 폰이 한 주에 한 번만 넣어요.
+- 주간 보고 설정에 휴지통도 있어요(지운 주간 보고 · 회의 메모).
+<!-- INMENTE_RELEASE:0.8.8:END -->
+
 <!-- INMENTE_RELEASE:0.8.7:START -->
 ### inMente 0.8.7
 
