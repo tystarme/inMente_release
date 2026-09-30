@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.8
+## 최신 버전 · 0.9.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.8/inMente-Setup-0.8.8.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.8/inMente-0.8.8.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.0/inMente-Setup-0.9.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.0/inMente-0.9.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.9.0:START -->
+### inMente 0.9.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.0/inMente-Setup-0.9.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.0/inMente-0.9.0.apk)
+
+- **출장 건** — 행정에 [+ 출장 건]이 생겼어요. 국내 · 국외, 학회 참석, 출장 전에 카드로 먼저 결제할 것(학회 등록 · 항공 · 숙소), 날짜에 답하면 해야 할 단계와 서류가 순서도로 나와요.
+- 청구 방식(출장 전 청구 · 다녀와서 한 번에)이 저절로 정해지고, 먼저 결제했으면 '다음 달 15일 지출 처리' 마감이 보여요.
+- 학회 등록 · 항공(여정안내서) · 숙소(1박 기준 · USD 결제) · 환율 증빙(신청일 · 출장 첫날) · 학회 뱃지 사진 · 귀국 보고(귀국보고서 · 출입국사실증명원 · 명찰) · 식대 빼기 · 자가용 유류비까지 가이드 순서대로 나와요. 단계마다 가이드의 그 절을 바로 열어 볼 수 있어요.
+- **출장 서류 폴더** — 행정 설정에서 결제 서류 폴더와 따로 골라요(예: Purchasing\출장). 출장 건에서 [폴더 만들기]를 누르면 '출장_연.월.일_이름' 폴더와 그 안에 학회 등록 · 교통(국외는 항공) · 숙소 폴더를 같이 만들어요. 넣은 파일로 서류 체크를 제안해요.
+- 행정 목록에서 출장 건은 하늘색 칸(국내 출장 · 국외 출장)으로 보여요.
+- 행정 묶음을 마쳐서 가운데 번호를 올렸어요(0.8 → 0.9).
+<!-- INMENTE_RELEASE:0.9.0:END -->
+
 <!-- INMENTE_RELEASE:0.8.8:START -->
 ### inMente 0.8.8
 
