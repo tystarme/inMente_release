@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.9.1
+## 최신 버전 · 0.9.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.1/inMente-Setup-0.9.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.1/inMente-0.9.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.2/inMente-Setup-0.9.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.2/inMente-0.9.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.9.2:START -->
+### inMente 0.9.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.2/inMente-Setup-0.9.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.2/inMente-0.9.2.apk)
+
+- **vault 목록** — 설정 → vault의 '최근 vault'(5개) 대신 이 기기에서 쓴 vault가 모두 보여요. 누르면 그 vault로 바꾸고, [목록에서 빼기]를 누르면 앱이 그 폴더를 vault로 알아보지 않아요(폴더와 파일은 그대로).
+- **새 vault로 무엇을 가져올지 골라요** — 새 폴더를 vault로 만들면, 앞에서 쓰던 vault에서 전부 · 골라서(파일탐색기 노트 · 내 일정 · 실험 · 주간 보고 · 행정) · 가져오지 않기(빈 vault) 중에 골라요. 복사만 하고 원래 vault는 그대로예요. 새 vault에 같은 이름이 있으면 덮지 않아요.
+- **vault마다 서버 자리** — 동기화할 때 vault마다 서버에 따로 자리를 써서 다른 vault의 글과 섞이지 않아요(전에는 새 vault를 열면 앞 vault의 글이 서버에서 모두 내려왔어요). 지금 쓰던 vault는 원래 자리를 그대로 써요. PC에서 새로 만든 vault는 새 자리를 저절로 받아요.
+- 설정 → 동기화 → '이 vault의 서버 자리'에서 자리를 보고 바꿔요. 폰이나 예전 vault는 여기서 '서버의 자리 보기 → 이 자리와 맞추기'로 PC의 그 vault와 맞춰요.
+- 할 일 목록은 어느 vault든 같아요(할 일 서버는 계정에 하나).
+<!-- INMENTE_RELEASE:0.9.2:END -->
+
 <!-- INMENTE_RELEASE:0.9.1:START -->
 ### inMente 0.9.1
 
