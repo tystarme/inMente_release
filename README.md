@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.9.3
+## 최신 버전 · 0.10.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.9.3/inMente-Setup-0.9.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.9.3/inMente-0.9.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.0/inMente-Setup-0.10.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.0/inMente-0.10.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.10.0:START -->
+### inMente 0.10.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.0/inMente-Setup-0.10.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.0/inMente-0.10.0.apk)
+
+- **논문 묶음** — 파일탐색기 위의 [새 묶음]으로 소주제마다 판을 만들어요(collections 폴더에 저장 · 나무와 타일에 🗂️로 보여요). 왼쪽 나무의 노트를 판으로 끌어 놓으면 카드가 되고, 논문 메모면 제목 · 종류 · DOI가 보여요. 카드를 누르면 그 노트가 열려요.
+- 판에서: 빈 곳을 두 번 눌러 글 카드 · 카드를 두 번 눌러 글 고치기 · 카드 가장자리의 점을 끌어 다른 카드와 화살표로 잇기 · 끌어 옮기기 · 고른 카드는 모서리로 크기 바꾸기 · Delete로 카드 · 화살표 지우기. 묶음은 묶음 화면 맨 위의 휴지통 단추로 지워요(휴지통에서 되살림).
+- 묶음 파일은 Obsidian의 캔버스와 같은 형식이라 Obsidian에서도 열려요. Obsidian에서 넣은 색 · 묶음 · 그 밖의 칸은 그대로 지켜요.
+- **행정 절차 [그림으로]** — 구매 · 출장 건의 '절차' 위에 [목록] · [그림으로]가 생겼어요. [그림으로]는 묶음마다 한 줄로 단계 카드와 순서 화살표를 보여요: 끝낸 단계 초록 · 지금 할 단계 파랑 · 조심할 단계 빨강 · 이 건에 해당 없는 단계는 흐리게 · 질문에 답하면 정해질 단계는 점선. 보기만 하는 그림이고, 체크는 [목록]에서 해요.
+<!-- INMENTE_RELEASE:0.10.0:END -->
+
 <!-- INMENTE_RELEASE:0.9.3:START -->
 ### inMente 0.9.3
 
