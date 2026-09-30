@@ -2,14 +2,31 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.4
+## 최신 버전 · 0.8.6
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.4/inMente-Setup-0.8.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.4/inMente-0.8.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.6/inMente-Setup-0.8.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.6/inMente-0.8.6.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.6:START -->
+### inMente 0.8.6
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.6/inMente-Setup-0.8.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.6/inMente-0.8.6.apk)
+
+- **새 앱 아이콘** — 비커 안에 이름을 넣은 새 로고로 바꿔서 아이콘이 꽉 차 보여요(전에는 그림 아래 이름까지 넣어 작아 보였어요). 설정 → 앱 정보의 로고도 새로 다듬은 모양이에요.
+- **행정 · 실험에도 ⚙ 설정 버튼** — 행정은 '행정' 제목 옆, 실험은 [기록 · 샘플] 전환 오른쪽에 있어요. 누르면 그 페이지의 설정(행정: 결제 서류 폴더 · 휴지통 / 실험: 휴지통)으로 가요.
+- **결제 서류 폴더를 그림으로** — 행정 설정과 서류 폴더 칸에 ① 결제 서류 폴더(모든 건 폴더가 들어 있는 위 폴더, 예: 결제) → ② 그 바로 아래 폴더(예: 0. 견적 요청 · 0. 카드결제) → ③ 건 폴더가 그려져요. 고른 폴더가 있으면 그 이름으로 그려요.
+- 건 폴더 하나를 결제 서류 폴더로 잘못 고르면 알려요 — 고른 폴더 안에 폴더가 없을 때, 그리고 결제 서류 폴더 자체를 건 폴더로 연결하려 할 때.
+- **분류 폴더 안의 건 폴더도 연결** — 결제 서류 폴더 안이면 몇 단계 아래든(5단계까지) 이어요(예: 결제\0. 견적 요청\MTI Korea_2026.07.27_Blade saw).
+- **[폴더 만들기]에서 만들 자리를 골라요** — 결제 서류 폴더 바로 아래의 폴더가 '어디에 만들까요'에 나와요. 과제 이름이 든 폴더, 아니면 결제 방식(카드 → 카드결제 · 계좌이체 → 견적 요청)으로 먼저 골라 두고, 바꿀 수 있어요.
+- 새 폴더 이름의 날짜를 실제로 쓰는 모양(2026.07.27)으로 지어요.
+- 연결한 폴더를 다른 분류 폴더로 옮겨도, 결제 서류 폴더 안에서 같은 이름을 찾아 다시 이어요(같은 이름이 둘 이상이면 고르지 않고 알려요).
+- **큰 가이드 그림도** — 그림 하나의 상한을 10MB에서 20MB로 올렸어요. 출장 가이드의 학회 뱃지 사진(17MB)이 빠졌던 까닭이에요. 같은 가이드를 다시 가져오면 빠진 그림만 채워져요.
+<!-- INMENTE_RELEASE:0.8.6:END -->
+
 <!-- INMENTE_RELEASE:0.8.4:START -->
 ### inMente 0.8.4
 
