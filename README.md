@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.8.3
+## 최신 버전 · 0.8.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.3/inMente-Setup-0.8.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.3/inMente-0.8.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.4/inMente-Setup-0.8.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.4/inMente-0.8.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.8.4:START -->
+### inMente 0.8.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.8.4/inMente-Setup-0.8.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.8.4/inMente-0.8.4.apk)
+
+- **구매 방식이 저절로** — 재원 · 단가 · 총액을 넣으면 산단 중앙구매 기준표(가이드 3.2의 표 · 부가세 별도)대로 재량구매 · 견적구매 · 공개입찰 · 수의계약이 정해져요(민간 · 교내 과제 예외 포함). 총액이 2천만 원을 넘으면 수의계약 사유가 있는지만 물어요. 질문 칸 아래에 '구매 방식'이 보여요.
+- **새 기본 규칙으로 바꾸기** — 행정 화면에 '새 기본 규칙이 있어요'가 뜨면 [새 기본 규칙으로 바꾸기]를 눌러요. 지금 규칙은 보관본으로 남고, 진행 중인 건은 그 판으로 계속 보이다가 건마다 바꿀지 물어요.
+- **결제 서류 폴더** — 행정 설정(⚙)에서 드롭박스에 올리기 전의 로컬 폴더를 한 번 골라요. 구매 건 화면에서 [폴더 만들기]를 누르면 가이드 방식 이름(업체이름_연.월.일_구매품요약 · 장비는 _장비 안)으로 폴더가 생기고, 들어간 파일 목록과 [폴더 열기]가 보여요. 파일 이름을 보고 '폴더에 있는 것 같아요: 견적서.pdf [체크]'로 서류 체크를 제안해요(체크는 직접). 파일은 읽기만 해요.
+- **가이드 그림도 같이** — [가이드 가져오기]가 원문이 가리키는 그림(attachments 등)도 같이 가져와요. 전에 그림 없이 가져온 가이드는 같은 파일을 다시 가져오면 그림만 채워져요. (그림은 아직 폰으로 동기화되지 않아 PC에서만 보여요.)
+- 순서도의 묶음 제목(규정 확인 · 사전 작업 · 구매 · 수령 · 정산)을 번호와 띠로 크게 보여요.
+<!-- INMENTE_RELEASE:0.8.4:END -->
+
 <!-- INMENTE_RELEASE:0.8.3:START -->
 ### inMente 0.8.3
 
