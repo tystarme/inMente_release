@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.10.5
+## 최신 버전 · 0.10.6
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.5/inMente-Setup-0.10.5.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.5/inMente-0.10.5.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.6/inMente-Setup-0.10.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.6/inMente-0.10.6.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.10.6:START -->
+### inMente 0.10.6
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.6/inMente-Setup-0.10.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.6/inMente-0.10.6.apk)
+
+- **폰 홈 화면 위젯** — 홈 화면을 길게 누르고 위젯에서 'inMente 오늘'을 놓으면, 오늘 할 일이 보여요. 할 일을 누르면 체크되고, 다시 누르면 풀려요. 할 일 목록 파일에 바로 적혀서, 앱을 열거나 동기화하면 다른 기기에도 가요.
+- 위젯 위의 [할 일 | 일정]을 누르면 오늘 일정(내 일정)으로 바뀌어요. 시각 · 장소 · 여러 날 일정의 기간이 보여요. 날짜를 누르면 앱이 열려요.
+- 카테고리 색 · 남은 할 일 수 · 끝낸 것은 아래로 · 어두운 화면에서는 어두운 위젯. 자정이 지나면 위젯이 내일 것을 보여 줘요(앱이 오늘 · 내일 것을 미리 넘겨 둬요).
+- 위젯 정보는 앱을 열 때 · 할 일이나 일정을 고칠 때 · 30분마다 새로 넘겨요. 처음에는 앱을 한 번 열어 주세요. 날마다 같은 할 일이 있어도 그 날 것만 체크해요.
+<!-- INMENTE_RELEASE:0.10.6:END -->
+
 <!-- INMENTE_RELEASE:0.10.5:START -->
 ### inMente 0.10.5
 
