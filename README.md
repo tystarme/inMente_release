@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.10.4
+## 최신 버전 · 0.10.5
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.4/inMente-Setup-0.10.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.4/inMente-0.10.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.5/inMente-Setup-0.10.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.5/inMente-0.10.5.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.10.5:START -->
+### inMente 0.10.5
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.5/inMente-Setup-0.10.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.5/inMente-0.10.5.apk)
+
+- **노트 충돌 사본 고르기** — 두 기기에서 같은 노트를 고쳐 conflicts 폴더에 사본이 생기면, 파일탐색기 위와 설정 → 동기화에 [고르기]가 떠요. 사본을 열면 지금 글과 사본 글을 줄마다 견줘 보여요(지금 글에만 있는 줄은 빨강, 사본에만 있는 줄은 초록).
+- 사본마다 셋 중 하나를 골라요: 이 기기 글 그대로(사본은 휴지통으로) · 사본 글로 바꾸기(바꾸기 전 글은 휴지통에 남아요) · 둘 다 노트로(사본을 원래 노트 옆으로 꺼내요). 여러 개를 골라 한 번에 할 수도 있어요. 휴지통으로 간 것은 설정의 휴지통에서 되살려요.
+- 할 일 충돌 사본은 전처럼 일정 → 할 일 위의 [살펴보고 합치기]에서 항목별로 골라 합쳐요.
+- **폰의 실험 화면** — 좁은 화면에서 '실험' 제목과 [목록 | Workflow]가 글자 하나씩 꺾여 보이던 것을 고쳤어요. [목록 | Workflow]와 종류 고르기는 한 줄을 다 쓰게 했어요.
+<!-- INMENTE_RELEASE:0.10.5:END -->
+
 <!-- INMENTE_RELEASE:0.10.4:START -->
 ### inMente 0.10.4
 
