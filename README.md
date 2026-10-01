@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.0
+## 최신 버전 · 0.11.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.0/inMente-Setup-0.11.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.0/inMente-0.11.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.1/inMente-Setup-0.11.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.1/inMente-0.11.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.1:START -->
+### inMente 0.11.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.1/inMente-Setup-0.11.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.1/inMente-0.11.1.apk)
+
+- **논문 그래프를 나무처럼** — 인용 관계를 층으로 쌓아요. 위에는 인용된 논문(뿌리), 아래에는 그것을 인용한 논문이 오고, 선이 위에서 아래로만 흘러서 덜 엉켜요. 연구 분야도 위에 키워드, 아래에 논문이에요. 선이 하나도 없는 논문은 그림 아래에 연도 차례로 모여요.
+- **지금 폴더만** — 파일탐색기에서 고른 폴더(그 아래 폴더까지) 안의 논문만 그래프에 넣어요. 폴더를 안 골랐으면 전체예요. 그래프 맨 위에 '범위: ○○/'로 보여요.
+- **'바깥 논문' → '메모 없는 논문'** — 내 논문 여러 편이 함께 인용했지만 아직 메모가 없는 논문이에요. 그 카드의 [메모 만들기]를 누르면 PDF 없이 서지만 든 메모가 지금 폴더에 생기고, 그래프에서 바로 내 논문 카드로 바뀌어요. 나중에 그 PDF로 [서지 가져오기]를 하면 같은 메모에 PDF가 붙어요.
+<!-- INMENTE_RELEASE:0.11.1:END -->
+
 <!-- INMENTE_RELEASE:0.11.0:START -->
 ### inMente 0.11.0
 
