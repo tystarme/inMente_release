@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.10.6
+## 최신 버전 · 0.11.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.6/inMente-Setup-0.10.6.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.6/inMente-0.10.6.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.0/inMente-Setup-0.11.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.0/inMente-0.11.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.0:START -->
+### inMente 0.11.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.0/inMente-Setup-0.11.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.0/inMente-0.11.0.apk)
+
+- **논문 그래프** — 파일탐색기 위의 [논문 그래프]를 누르면 [인용 관계 | 연구 분야 | 동향]을 볼 수 있어요.
+- **인용 관계** — [인용 관계 가져오기]를 누르면 OpenAlex에서 논문마다 참고문헌을 받아, 내 논문끼리 누가 누구를 인용하는지 화살표(인용한 → 인용된)로 그려요. 내 논문 여러 편이 함께 인용한 바깥 논문도 흐린 점선 카드로 보여요(읽을거리 찾기). 기준은 '2편 이상 · 3편 이상 · 안 보기'에서 골라요. 받은 것은 이 기기에 남아서, 다시 누르면 아직 없는 것만 받아요. 누르기 전에는 인터넷에 묻지 않아요.
+- **연구 분야** — 두 편 이상에 붙은 키워드(내가 적은 것 + OpenAlex)를 가운데 두고 그 논문들을 이어요. 논문 카드의 띠 색은 연구 그룹이고, 그룹 이름은 아래에 적혀요.
+- **동향** — 연구 그룹 × 연도, 키워드 × 연도 표예요. 칸이 진할수록 그 해 논문이 많아요.
+- 논문 카드의 [열기]로 그 메모가 열리고, [← 그래프]로 돌아와요. [묶음으로 저장]을 누르면 지금 그림이 논문 묶음(collections)으로 남아서 카드를 옮기고 고칠 수 있어요(Obsidian에서도 열려요).
+<!-- INMENTE_RELEASE:0.11.0:END -->
+
 <!-- INMENTE_RELEASE:0.10.6:START -->
 ### inMente 0.10.6
 
