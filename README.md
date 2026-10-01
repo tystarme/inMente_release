@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.10.1
+## 최신 버전 · 0.10.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.1/inMente-Setup-0.10.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.1/inMente-0.10.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.2/inMente-Setup-0.10.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.2/inMente-0.10.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.10.2:START -->
+### inMente 0.10.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.2/inMente-Setup-0.10.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.2/inMente-0.10.2.apk)
+
+- **할 일 시각을 시계로** — 할 일 · 일정 고치기의 시각 칸 옆 🕒를 누르면 시계가 떠요. 오전/오후를 고르고, 시를 누르면 분으로 넘어가요. 분을 누르고 [확인]을 눌러요. 시계에서도 화살표 키 · Enter · Esc가 돼요.
+- 시각은 칸에 바로 적어도 돼요: 15:30 · 1530 · 930 · 오후 3:30 · 3시 반 · 3pm. 칸에서 ↑ · ↓는 5분씩(Shift를 같이 누르면 1시간씩) 바꿔요.
+- **보충 자료(SI) 메모** — 논문의 SI · supplement PDF는 원래 논문과 DOI가 같아 같은 논문의 사본으로 보였어요. 이제 그 PDF의 서지 칸에 [보충 자료(SI)로 따로 메모]가 있어요. 파일 이름이 SI처럼 보이면 미리 알려 줘요. 보충 자료 메모는 원래 논문 메모 옆에 '_SI'로 생기고 원래 논문과 이어져요. 원래 논문 메모는 그대로예요.
+- **논문 카드에 연도** — 묶음 판의 논문 카드 제목 앞에 연도가 보여요(예: 2020 · Creep-Enabled …). 보충 자료 메모 카드는 청록 '보충 자료' 이름표예요.
+- **카드 고치기 창 모양** — 내 카드 · 카드에 보일 글 창을 할 일 고치기 창과 같은 모양으로 바꿨어요(여백 · 둥근 입력 칸 · 아래 단추).
+<!-- INMENTE_RELEASE:0.10.2:END -->
+
 <!-- INMENTE_RELEASE:0.10.1:START -->
 ### inMente 0.10.1
 
