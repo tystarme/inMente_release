@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.10.2
+## 최신 버전 · 0.10.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.2/inMente-Setup-0.10.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.2/inMente-0.10.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.3/inMente-Setup-0.10.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.3/inMente-0.10.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.10.3:START -->
+### inMente 0.10.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.3/inMente-Setup-0.10.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.3/inMente-0.10.3.apk)
+
+- **실험 Workflow** — 실험 페이지 위의 [목록 | Workflow]에서 Workflow를 고르면, 거른 기록들이 판 위에 카드로 놓여요. 프로젝트 × 종류마다 한 줄이고, 날짜순으로 왼쪽에서 오른쪽으로 놓여요. 같은 날 기록은 아래로 쌓여요. 고른 보기는 기억해요.
+- 화살표는 이전 기록에서 와요. 회색은 같은 프로젝트 · 같은 종류의 바로 앞 기록이고, 보라 '직접'은 기록에서 직접 고른 이전 기록이에요. 카드의 띠는 프로젝트 색이에요. 카드의 [열기]나 두 번 누르기로 그 기록이 열려요. 거르기(종류 · 프로젝트 · 상태 · 찾기)와 기간(최근 1달 · 3달 · 6달 · 1년)도 판에 그대로 걸려요.
+- **보관** — Workflow의 [보관]을 누르면 지금 보이는 판이 그때 모습 그대로 보관본이 돼요. 카드마다 그때의 제목 · 날짜 · 종류 · 상태 · 결과가 글로 적혀서, 나중에 원래 기록을 고치거나 지워도 보관본은 그대로예요. 카드의 [열기]는 지금의 원래 기록으로 가요.
+- **보관본 고치기 · 기록 쌓기** — 보관본은 열어서 카드를 고치고 옮기고 이을 수 있어요(원래 기록은 그대로). [기록 남기기]를 누르면 지금 모습이 메모와 함께 한 판 쌓이고, 고친 채로 닫으면 저절로 한 판 쌓여요. [기록]에서 예전 판을 보거나 그 판으로 되돌려요. 되돌리기 전 모습도 한 판으로 남아서 아무것도 사라지지 않아요.
+- 보관본은 Workflow의 [보관본 N개]에서 열어요. 보관본 화면 맨 위의 휴지통 단추로 지우면 쌓인 판들도 함께 휴지통으로 가요(실험 설정의 휴지통에서 되살려요).
+<!-- INMENTE_RELEASE:0.10.3:END -->
+
 <!-- INMENTE_RELEASE:0.10.2:START -->
 ### inMente 0.10.2
 
