@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.10.3
+## 최신 버전 · 0.10.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.3/inMente-Setup-0.10.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.3/inMente-0.10.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.4/inMente-Setup-0.10.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.4/inMente-0.10.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.10.4:START -->
+### inMente 0.10.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.4/inMente-Setup-0.10.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.4/inMente-0.10.4.apk)
+
+- **병렬 실험 · 갈래** — 같은 날의 실험 기록은 병렬 실험으로 보고 서로 잇지 않아요. 자동 화살표는 같은 프로젝트 · 종류 · 갈래의 앞 날짜 기록에서만 와요.
+- 실험 기록 위쪽에 [갈래]가 생겼어요. 기본 갈래 · 이 프로젝트에서 쓴 갈래 · [+ 새 갈래]에서 골라요. Workflow에는 갈래마다 줄이 따로 생겨요(예: 'IEM · 실험 · 갈래 고온').
+- [이전 기록]에 '없음 — 여기서 새로 시작'이 생겼어요. 고르면 그 기록은 앞 기록과 잇지 않아요. 직접 고른 이전 기록은 보라색 '직접' 화살표로 이어져요.
+- **화살표 모양** — 화살표를 꺾인 선에 둥근 모서리로 바꿔, 머리가 몸통 방향 그대로 카드에 들어가요. Workflow처럼 보기만 하는 판에서는 카드의 파란 잇는 점이 보이지 않아요.
+- **프로젝트 이름 바꾸기** — 실험 → [프로젝트] 창에서 프로젝트마다 ✎(이름 바꾸기) · 🎨(색 바꾸기) · 휴지통(빼기)을 눌러요. 바꾸는 것은 보이는 이름이고, 짧은 이름(예: IEM)은 기록 · 샘플 · 폴더가 쓰므로 그대로예요.
+- **파일탐색기 여러 개 고르기** — 왼쪽 목록에서 Ctrl(⌘)를 누른 채 누르면 하나씩, Shift를 누른 채 누르면 사이의 것을 모두 골라요. 위의 [여러 개 고르기]를 켜면 누르기만으로 골라요(폰에서도). 고른 것은 위 띠에서 [다른 폴더로] · [휴지통으로](한 번 더 물어요) 한 번에 해요. 고른 것 하나를 끌어 놓으면 고른 것이 모두 옮겨져요. Esc로 모두 풀어요.
+<!-- INMENTE_RELEASE:0.10.4:END -->
+
 <!-- INMENTE_RELEASE:0.10.3:START -->
 ### inMente 0.10.3
 
