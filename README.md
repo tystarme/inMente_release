@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.10.0
+## 최신 버전 · 0.10.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.0/inMente-Setup-0.10.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.0/inMente-0.10.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.1/inMente-Setup-0.10.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.1/inMente-0.10.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.10.1:START -->
+### inMente 0.10.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.10.1/inMente-Setup-0.10.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.10.1/inMente-0.10.1.apk)
+
+- **묶음 카드를 끌어 옮겨요** — 이미 놓은 메모 카드도 끌어 옮겨요. 카드를 한 번 누르면 골라지고, 모서리를 끌어 크기를 바꿔요. 노트는 카드의 [열기]나 카드를 두 번 눌러 열어요.
+- **카드 종류를 색으로 가려요** — 왼쪽 띠와 이름표: 논문 메모는 파랑 · 자료 메모는 초록 · 노트는 보라 · 내 카드는 주황. 카드 여백을 줄이고 긴 제목은 세 줄까지 보여요.
+- **내 카드 틀** — 판의 빈 곳을 두 번 누르면 제목 · 개요 · 본문 칸이 열려요. 카드에는 제목과 개요가 보이고, [본문]을 누르면 본문을 봐요. 아무것도 안 적고 닫으면 빈 카드는 남지 않아요. 본문 보기에서 [카드 지우기]도 돼요.
+- **메모 카드에 보일 글** — 메모 카드의 ✎를 누르면 카드에 보일 글을 적어요. 이 글은 그 메모 맨 위 정보의 card 칸에 저장돼서, 메모에서 직접 고쳐도 되고 그 메모를 놓은 묶음마다 같은 글이 보여요.
+- **화살표가 잘 보여요** — 화살표를 굵게, 끝을 크게 했어요. 잇는 점과 크기 모서리도 키웠어요. 판 왼쪽 아래의 확대 단추(+ · − · 전체 보기)가 빈 네모로 보이던 것을 고쳤어요.
+- **뒤로 가기** — 묶음에서 연 노트는 [← 묶음]을 누르면 그 묶음 판으로 돌아가요. PDF가 있는 메모는 뒤로 단추가 PDF 띠 맨 왼쪽에 있어서, PDF를 나란히 열어도 바로 보여요.
+<!-- INMENTE_RELEASE:0.10.1:END -->
+
 <!-- INMENTE_RELEASE:0.10.0:START -->
 ### inMente 0.10.0
 
