@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.1
+## 최신 버전 · 0.11.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.1/inMente-Setup-0.11.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.1/inMente-0.11.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.2/inMente-Setup-0.11.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.2/inMente-0.11.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.2:START -->
+### inMente 0.11.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.2/inMente-Setup-0.11.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.2/inMente-0.11.2.apk)
+
+- **논문 그래프 글씨가 다 보이게** — 논문 카드를 키워서 제목이 네 줄까지 보여요(영어 제목 130자 남짓). 키워드 카드도 두 줄 제목이 위아래로 잘리지 않아요.
+- **선을 부드러운 곡선으로** — 꺾인 선은 한 층에서 나간 선들이 같은 가로줄에 겹쳐서 어느 카드끼리 이어졌는지 안 보였어요. 이제 카드마다 따로 곡선으로 이어져요.
+- **읽는 법을 그림 아래에** — '위아래는 연도가 아니라 인용 차례 — 선 위쪽 논문을 아래쪽 논문이 인용'.
+- **파일탐색기 맨 위가 잘리지 않게** — 칸이 좁으면 '파일탐색기' 글자가 세로로 꺾이고 단추가 잘렸어요. 이제 제목은 한 줄로 두고, 단추가 넘치면 다음 줄로 내려가요.
+<!-- INMENTE_RELEASE:0.11.2:END -->
+
 <!-- INMENTE_RELEASE:0.11.1:START -->
 ### inMente 0.11.1
 
