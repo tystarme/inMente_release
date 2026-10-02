@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.3
+## 최신 버전 · 0.11.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.3/inMente-Setup-0.11.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.3/inMente-0.11.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.4/inMente-Setup-0.11.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.4/inMente-0.11.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.4:START -->
+### inMente 0.11.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.4/inMente-Setup-0.11.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.4/inMente-0.11.4.apk)
+
+- **실험 Workflow 화살표를 한 가지 모양으로** — 직접 고른 이전 기록의 화살표도 자동으로 이은 화살표와 같은 회색이에요. 보라색 구분을 없앴어요.
+- 전에 만든 보관본은 그때 모습 그대로 두어서, 거기 있던 보라색 화살표는 그대로 보여요.
+<!-- INMENTE_RELEASE:0.11.4:END -->
+
 <!-- INMENTE_RELEASE:0.11.3:START -->
 ### inMente 0.11.3
 
