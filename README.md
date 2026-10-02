@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.2
+## 최신 버전 · 0.11.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.2/inMente-Setup-0.11.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.2/inMente-0.11.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.3/inMente-Setup-0.11.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.3/inMente-0.11.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.3:START -->
+### inMente 0.11.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.3/inMente-Setup-0.11.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.3/inMente-0.11.3.apk)
+
+- **실험 Workflow — 이름이 닮은 기록끼리 자동으로 이어요** — 예전에는 같은 프로젝트 · 종류에서 바로 앞 날짜의 기록에 이었고, 그날 기록이 여럿이면 파일 이름 차례로 아무거나 골랐어요. 이제는 이름이 닮은 앞 기록(예: 'Coin cell 실험 계획' → 'Coin cell 실험결과 분석')을 먼저 찾아요. 사이에 다른 실험이 끼어 있어도 이름으로 이어요.
+- '실험 · 계획 · 결과 · 분석 · 조사 · 측정' 같은 흔한 말, '2차' 같은 숫자, 프로젝트 이름은 견주지 않아요. '을 · 의 · 에' 같은 조사가 붙어도 같은 낱말로 봐요.
+- 닮은 이름이 없으면 바로 앞 날짜의 기록에 잇는데, 그날 기록이 여럿이면 어느 것인지 몰라 잇지 않아요(직접 고르면 돼요).
+- 직접 고른 이전 기록의 화살표에 붙던 '직접' 글씨를 뺐어요. 보라색 화살표로만 구분해요.
+<!-- INMENTE_RELEASE:0.11.3:END -->
+
 <!-- INMENTE_RELEASE:0.11.2:START -->
 ### inMente 0.11.2
 
