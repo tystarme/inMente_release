@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.6
+## 최신 버전 · 0.11.7
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.6/inMente-Setup-0.11.6.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.6/inMente-0.11.6.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.7/inMente-Setup-0.11.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.7/inMente-0.11.7.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.7:START -->
+### inMente 0.11.7
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.7/inMente-Setup-0.11.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.7/inMente-0.11.7.apk)
+
+- **할 일 — 오늘 빈 카드** — 오늘 아직 아무것도 적지 않았어도 오늘 카드가 떠요(이번 주처럼 여러 날을 볼 때도). 카테고리가 하나도 없으면 마지막에 쓴 카테고리 칸이 비어 있어서 +로 바로 적을 수 있어요.
+- **폰 — 논문 그래프가 보여요** — 폰에서 [논문 그래프]를 눌러도 아무것도 안 보이던 문제를 고쳤어요.
+- **폰 — 판은 보기만** — 논문 묶음 · 실험 보관본 판은 폰에서 보기만 해요(카드 옮기기 · 잇기 · 고치기는 PC). 손가락으로 끌다가 판이 바뀌던 일이 없어요. [새 묶음] · [묶음으로 저장] · 보관본 [기록 남기기] · [이 판으로]도 폰에서는 숨겼어요. 카드의 [열기]는 그대로 돼요.
+- **폰 — 화면이 좁아 깨지던 곳** — 실험 기록의 입력 칸이 거의 안 보이던 것(이제 기록 전체가 스크롤 · 입력 칸은 화면 높이만큼) · 노트의 [가 110%] 창이 화면 밖으로 나가던 것 · 아래 막대에서 '파일탐색기' 글자가 넘치던 것 · 주간 보고 제목이 세로로 꺾이던 것 · 샘플 묶음 칸이 옆으로 넘치던 것 · Workflow · 그래프 판이 아래로 잘리던 것을 고쳤어요.
+- **폰 — 그 밖** — 실험 보관본에서 뒤로 가기를 누르면 목록으로 돌아와요. 길게 눌러 나오는 '탐색기에서 보기'(폰에서는 안 되는 것)를 뺐어요.
+<!-- INMENTE_RELEASE:0.11.7:END -->
+
 <!-- INMENTE_RELEASE:0.11.6:START -->
 ### inMente 0.11.6
 
