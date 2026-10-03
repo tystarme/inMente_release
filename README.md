@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.8
+## 최신 버전 · 0.11.9
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.8/inMente-Setup-0.11.8.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.8/inMente-0.11.8.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.9/inMente-Setup-0.11.9.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.9/inMente-0.11.9.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.9:START -->
+### inMente 0.11.9
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.9/inMente-Setup-0.11.9.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.9/inMente-0.11.9.apk)
+
+- **폰에서 구글 캘린더 보기** — 폰의 일정 → [구글 캘린더] 탭에서 PC가 받아 둔 구글 일정을 볼 수 있어요(보기만 · 한 달 전 ~ 석 달 뒤). 폰에는 구글 로그인이 없어서, PC가 일정을 vault의 schedule/google.yaml에 남기면 노트처럼 동기화되어 폰에 와요.
+- PC: 설정 → 구글 캘린더 → **폰에서도 보기**(기본 켬). 켠 캘린더만 · 제목 · 시각 · 장소만 남기고, PC 앱이 떠 있는 동안 30분마다(바뀐 것이 있을 때만) 새로 써요. 끄거나 로그아웃하면 그 파일을 휴지통으로 옮겨요. PC가 둘이면 한 PC에서만 켜 두기를 권해요.
+- 서버에 SQL을 더 붙여 넣을 필요는 없어요.
+<!-- INMENTE_RELEASE:0.11.9:END -->
+
 <!-- INMENTE_RELEASE:0.11.8:START -->
 ### inMente 0.11.8
 
