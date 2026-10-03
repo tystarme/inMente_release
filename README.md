@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.7
+## 최신 버전 · 0.11.8
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.7/inMente-Setup-0.11.7.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.7/inMente-0.11.7.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.8/inMente-Setup-0.11.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.8/inMente-0.11.8.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.8:START -->
+### inMente 0.11.8
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.8/inMente-Setup-0.11.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.8/inMente-0.11.8.apk)
+
+- **할 일 — 충돌 알림이 카드에 가려지던 것** — 다른 기기와 같은 때 고쳐 생긴 '살펴보고 합치기' 알림이 할 일 카드 밑에 깔려 안 보였어요(폰). 이제 위 막대 바로 아래에 보여요.
+- **폰 — 손가락으로 누르기 쉽게** — 파일 목록 줄 · 찾기 칩 · 판 카드의 [열기] · 샘플 상태 · 쓴 샘플 · 행정 체크 상자 · 아이콘 단추 · 고르기 단추를 손가락 크기로 키웠어요(터치 화면에서만 — PC 마우스는 그대로).
+- **폰 — 그 밖** — 알림이 아래 막대를 가리지 않아요 · 쓴 샘플 표의 [빼기]가 옆으로 밀지 않아도 보여요 · 주간 보고 들여쓰기를 줄여 본문이 넓어요 · 노트 편집 │ 읽기 경계를 잡기 쉬워요.
+- **폰 — PC 전용 문구 정리** — '파일 이름' 찾기(PDF는 PC에만) · '메모를 열면 PDF도 나란히' 설정 · Ctrl 단축키 안내를 폰에서는 숨겼어요. 행정 건의 서류 폴더는 폰에서 이름만 보여요(여는 것은 PC). 움직임 설정 [Windows 따름]은 [기기 설정 따름]으로.
+<!-- INMENTE_RELEASE:0.11.8:END -->
+
 <!-- INMENTE_RELEASE:0.11.7:START -->
 ### inMente 0.11.7
 
