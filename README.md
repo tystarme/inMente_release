@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.4
+## 최신 버전 · 0.11.5
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.4/inMente-Setup-0.11.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.4/inMente-0.11.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.5/inMente-Setup-0.11.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.5/inMente-0.11.5.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.5:START -->
+### inMente 0.11.5
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.5/inMente-Setup-0.11.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.5/inMente-0.11.5.apk)
+
+- **카드를 누르면 이어진 선만 진하게** — 논문 그래프에서 카드를 누르면 그 카드에 이어진 선이 파랗고 굵어지고, 상관없는 카드와 선은 옅어져요. 빈 곳을 누르면 돌아와요.
+- **메모 없는 논문에도 연구 그룹** — 점선 카드 아래에 연구 그룹(교신저자 — 소속)이 보이고, 내 논문과 같은 그룹이면 같은 색 띠가 붙어요. 전에 받아 둔 것은 [인용 관계 가져오기]를 한 번 더 누르면 채워져요.
+- **글씨가 잘리지 않게** — 동향 표의 연구 그룹 · 키워드 이름이 '…'로 잘리지 않고 줄을 바꿔 다 보여요. 그래프 카드의 연구 그룹도 두 줄까지 보여요.
+- 그룹 범례의 '그 밖'은 '논문이 적은 그룹 · 그룹 모름'이라고 풀어 적었어요.
+<!-- INMENTE_RELEASE:0.11.5:END -->
+
 <!-- INMENTE_RELEASE:0.11.4:START -->
 ### inMente 0.11.4
 
