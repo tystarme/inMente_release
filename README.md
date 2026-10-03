@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.5
+## 최신 버전 · 0.11.6
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.5/inMente-Setup-0.11.5.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.5/inMente-0.11.5.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.6/inMente-Setup-0.11.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.6/inMente-0.11.6.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.6:START -->
+### inMente 0.11.6
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.6/inMente-Setup-0.11.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.6/inMente-0.11.6.apk)
+
+- **위젯 [↻] 새로 고침 · 동기화** — 폰 홈 화면 할 일 위젯 오른쪽 위에 [↻]가 생겼어요. 누르면 위젯에 '동기화 중…'이 뜨고, 앱이 잠깐 열려 서버와 맞춘 뒤(설정에서 켜 둔 노트 · 할 일만) 위젯을 새로 그리고 홈 화면으로 돌아가요.
+- 앱을 쓰던 중에 [↻]를 누르면 맞추기만 하고 앱은 그대로 둬요. 서버와 맞추기를 꺼 두었으면 위젯만 새로 그려요.
+<!-- INMENTE_RELEASE:0.11.6:END -->
+
 <!-- INMENTE_RELEASE:0.11.5:START -->
 ### inMente 0.11.5
 
