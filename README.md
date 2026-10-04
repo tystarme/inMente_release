@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.0
+## 최신 버전 · 1.1.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.0/inMente-Setup-1.1.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.0/inMente-1.1.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.1/inMente-Setup-1.1.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.1/inMente-1.1.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.1:START -->
+### inMente 1.1.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.1/inMente-Setup-1.1.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.1/inMente-1.1.1.apk)
+
+- **단기 목표를 장기 목표에 묶기** — 목표가 장기마다 한 묶음이 됐어요: 위에 그 장기를 이루는 단기 목표 카드들 → 감싸는 표시 → 맨 아래 장기 목표. 장기 카드에는 '단기 1/3'처럼 이룬 수가 보여요.
+- **크게 보기에서** — 맨 아래 칸에 장기 목표를 더하고, 묶음마다 '단기 목표' 칸에 적으면 그 장기에 묶여요. 단기의 [묶기]로 다른 장기에 옮기거나 묶지 않을 수 있어요. 장기를 지우면 거기 묶인 단기는 지우지 않고 '아직 장기에 묶지 않은 단기'로 옮겨요.
+- **파일** — `schedule/goals/<프로젝트>.md`에서 장기 줄 아래 들여 쓴 줄이 그 장기에 묶인 단기예요. 1.1.0에 적은 목표는 그대로 읽혀요(단기는 '아직 묶지 않은 단기'로).
+<!-- INMENTE_RELEASE:1.1.1:END -->
+
 <!-- INMENTE_RELEASE:1.1.0:START -->
 ### inMente 1.1.0
 
