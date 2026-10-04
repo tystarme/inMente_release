@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.12
+## 최신 버전 · 0.11.13
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.12/inMente-Setup-0.11.12.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.12/inMente-0.11.12.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.13/inMente-Setup-0.11.13.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.13/inMente-0.11.13.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.13:START -->
+### inMente 0.11.13
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.13/inMente-Setup-0.11.13.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.13/inMente-0.11.13.apk)
+
+- **실험 Workflow — 보관본 카드가 흐름 안에** — 보관한 기록 묶음은 따로 떨어진 줄이 아니라, 그 기록들이 있던 줄(프로젝트 · 종류)의 묶음 마지막 날짜 자리에 보관본 카드 하나로 압축돼요. '보관본 카드 → 다음 기록 → …'으로 화살표가 이어지고, 카드의 [열기]로 그 보관본을 자세히 볼 수 있어요.
+<!-- INMENTE_RELEASE:0.11.13:END -->
+
 <!-- INMENTE_RELEASE:0.11.12:START -->
 ### inMente 0.11.12
 
