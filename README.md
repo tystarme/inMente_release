@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.0.0
+## 최신 버전 · 1.1.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.0.0/inMente-Setup-1.0.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.0.0/inMente-1.0.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.0/inMente-Setup-1.1.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.0/inMente-1.1.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.0:START -->
+### inMente 1.1.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.0/inMente-Setup-1.1.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.0/inMente-1.1.0.apk)
+
+- **프로젝트별 장기 · 단기 목표** — 일정 → 할 일 화면 오른쪽 아래 '목표' 칸에 실험의 연구 프로젝트마다 장기 · 단기 목표를 마인드맵으로 보여 줘요(가운데 프로젝트 → 장기 · 단기 → 목표). 위의 단추로 프로젝트를 고르고, 칸에서 바로 체크할 수 있어요. 폰은 [이번 주 할 일 · 목표] 창에서요.
+- **크게 보기에서 고치기** — 목표 칸의 확대 단추를 누르면 옆 창에 크게 펼쳐져요(넓으면 장기는 왼쪽 · 단기는 오른쪽). 각 가지 아래 칸에 적고 Enter로 더하기 · 글을 눌러 고치기 · [단기로] · [장기로]로 옮기기 · ×로 지우기. 지운 목표는 vault의 '지운 목표' 노트(schedule 폴더)에 남아요.
+- **파일** — 목표는 프로젝트마다 vault의 `schedule/goals/<프로젝트>.md` 노트 하나(## 장기 · ## 단기 아래 체크 줄)라 다른 기기와 동기화되고 직접 열어 고쳐도 돼요. 실험 프로젝트 이름을 바꾸면 목표 노트도 함께 따라가요.
+<!-- INMENTE_RELEASE:1.1.0:END -->
+
 <!-- INMENTE_RELEASE:1.0.0:START -->
 ### inMente 1.0.0
 
