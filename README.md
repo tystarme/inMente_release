@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.9
+## 최신 버전 · 0.11.10
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.9/inMente-Setup-0.11.9.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.9/inMente-0.11.9.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.10/inMente-Setup-0.11.10.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.10/inMente-0.11.10.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.10:START -->
+### inMente 0.11.10
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.10/inMente-Setup-0.11.10.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.10/inMente-0.11.10.apk)
+
+- **할 일 — 합칠 사본에서 고르기가 안 되던 것** — 동기화 · 파일 감시로 사본 목록을 다시 읽을 때마다 고른 것이 처음 상태로 되돌아갔어요. 이제 고른 대로 남아요.
+- **위젯 [↻] — 앱이 거의 안 보이게** — 누르면 앱이 잠깐 열렸다가 곧바로 홈 화면으로 돌아가고, 동기화는 뒤에서 이어져요(앱을 쓰던 중이면 그대로).
+- **파일탐색기 맨 위(폰)** — 제목 아래 한 줄에 [새 폴더] · [논문 그래프] · [여러 개 고르기]가 나란히 있어요.
+- **실험 Workflow(폰)** — 판이 아래 막대 밑으로 잘리던 것을 고쳤어요. 화면 전체가 스크롤되고 판은 화면 높이의 70%예요. 긴 설명은 폰에서 숨겼어요.
+<!-- INMENTE_RELEASE:0.11.10:END -->
+
 <!-- INMENTE_RELEASE:0.11.9:START -->
 ### inMente 0.11.9
 
