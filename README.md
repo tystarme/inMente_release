@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.10
+## 최신 버전 · 0.11.11
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.10/inMente-Setup-0.11.10.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.10/inMente-0.11.10.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.11/inMente-Setup-0.11.11.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.11/inMente-0.11.11.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.11:START -->
+### inMente 0.11.11
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.11/inMente-Setup-0.11.11.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.11/inMente-0.11.11.apk)
+
+- **실험 프로젝트 이름 바꾸기(폴더까지)** — 실험 → [프로젝트] → ✎에서 새 이름을 넣고 [다음]을 누르면, 무엇이 바뀌는지 먼저 보여요(폴더 · 그 이름을 쓰는 기록 · 샘플 · 메모 · 행정 건 · 보관본). [바꾸기]를 누르면 폴더 이름(experiments/옛 이름 → 새 이름)과 그 파일들을 한꺼번에 바꿔요. 저장 안 한 편집이 있으면 시작하지 않아요. 노트 안에 글로 적은 이름(주간 보고 등)은 그대로예요.
+- **행정 — 구매 순서 고침(규칙 2026-08.3)** — 계좌이체의 거래명세서 · 세금계산서는 물건을 받은 뒤(수령 · 정산) 단계로 옮겼어요. 장비 중앙구매(견적 · 수의계약 · 공개입찰)는 산단이 결제하므로 '결제 서류 — 계좌이체'를 띄우지 않아요(세금계산서는 납품 뒤 단계에). 수의계약 증빙 → Tracker 등록 → 견적구매 서류 · 행정선생님께 연락 차례로 바꿨어요.
+- 행정 화면에 '새 기본 규칙으로 바꿀까요?'가 뜨면 [바꾸기]를 눌러 주세요. 옛 판은 보관본으로 남고, 진행 중인 건은 시작한 판으로 계속 보여요(새 판으로 볼지 물어요).
+<!-- INMENTE_RELEASE:0.11.11:END -->
+
 <!-- INMENTE_RELEASE:0.11.10:START -->
 ### inMente 0.11.10
 
