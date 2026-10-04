@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.14
+## 최신 버전 · 1.0.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.14/inMente-Setup-0.11.14.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.14/inMente-0.11.14.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.0.0/inMente-Setup-1.0.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.0.0/inMente-1.0.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.0.0:START -->
+### inMente 1.0.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.0.0/inMente-Setup-1.0.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.0.0/inMente-1.0.0.apk)
+
+- **inMente 1.0 — 첫 완성판** — 처음에 정한 네 가지(논문 파일탐색기 · 일정과 할 일 · 실험 관리 · 행정 관리)와 PC · 폰 동기화를 모두 갖췄어요. 폰에서 직접 써 보고 확인한 판이에요.
+- **바뀐 기능 없음** — 0.11.14와 기능은 같고, 판 번호만 1.0.0으로 올렸어요.
+<!-- INMENTE_RELEASE:1.0.0:END -->
+
 <!-- INMENTE_RELEASE:0.11.14:START -->
 ### inMente 0.11.14
 
