@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.11
+## 최신 버전 · 0.11.12
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.11/inMente-Setup-0.11.11.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.11/inMente-0.11.11.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.12/inMente-Setup-0.11.12.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.12/inMente-0.11.12.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.12:START -->
+### inMente 0.11.12
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.12/inMente-Setup-0.11.12.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.12/inMente-0.11.12.apk)
+
+- **실험 Workflow — 보관한 것은 카드 하나로** — 보관한 기록은 Workflow에서 빠지고, 맨 위 '보관본' 줄에 보관본마다 카드 하나(이름 · 기록 수 · 기간)로 보여요. 카드의 [열기]를 누르면 그 보관본이 열려 자세히 볼 수 있어요. 보관한 기록을 이어받은 기록은 그 보관본 카드에서 화살표가 나와요. [보관]은 아직 보관하지 않은 기록만 담아요.
+- **파일탐색기 맨 위(폰)** — 윗줄은 '파일탐색기'와 설정(톱니), 아랫줄은 [새 폴더] · [논문 그래프] · [여러 개 고르기]가 글자 잘림 없이 나란히 있어요(폭 360 · 412에서 확인).
+- **판 확대 단추** — +, −, 화면에 맞추기를 글자 대신 그림으로 바꿔 원에 꽉 차게 했어요. 폰에서는 판 위쪽에 있어 아래 막대에 가려지지 않아요.
+<!-- INMENTE_RELEASE:0.11.12:END -->
+
 <!-- INMENTE_RELEASE:0.11.11:START -->
 ### inMente 0.11.11
 
