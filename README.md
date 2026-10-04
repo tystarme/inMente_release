@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 0.11.13
+## 최신 버전 · 0.11.14
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.13/inMente-Setup-0.11.13.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.13/inMente-0.11.13.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.14/inMente-Setup-0.11.14.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.14/inMente-0.11.14.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:0.11.14:START -->
+### inMente 0.11.14
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v0.11.14/inMente-Setup-0.11.14.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v0.11.14/inMente-0.11.14.apk)
+
+- **논문 그래프(폰) — 글씨 겹침** — 그래프 판이 아래 범례(연구 그룹 이름)를 덮던 것을 고쳤어요. 폰에서는 그래프 화면 전체가 스크롤되고, 판은 화면 높이의 60%, 범례는 그 아래에 끝까지 보여요.
+- **파일탐색기 맨 위(PC)** — 설정(톱니)이 단추 아래에 혼자 떨어지던 것을 고쳐, PC도 폰처럼 윗줄 제목 · 설정, 아랫줄 단추예요.
+<!-- INMENTE_RELEASE:0.11.14:END -->
+
 <!-- INMENTE_RELEASE:0.11.13:START -->
 ### inMente 0.11.13
 
