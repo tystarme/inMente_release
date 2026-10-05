@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.2
+## 최신 버전 · 1.1.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.2/inMente-Setup-1.1.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.2/inMente-1.1.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.3/inMente-Setup-1.1.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.3/inMente-1.1.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.3:START -->
+### inMente 1.1.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.3/inMente-Setup-1.1.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.3/inMente-1.1.3.apk)
+
+- **주간 보고 새 틀에 summary** — [이번 주 보고]로 만드는 새 보고 맨 위에 노션 시절처럼 `**summary**`와 빈 줄 하나가 생겨요(지난 보고의 요약 제목 모양을 따라요 · 요약 글은 비워요).
+- **들여쓰기 한 칸으로** — 새 보고의 항목 아래 줄이 Tab을 두 번 누른 것처럼 깊게 들여 써지던 것을 고쳤어요(편집기의 Tab 한 칸 = 띄어쓰기 둘). 지난 보고의 '다음주 목표'에서 옮겨 오는 줄도 같은 단위로 맞추고, 그 안의 깊은 줄은 단계만큼 들여 써요.
+<!-- INMENTE_RELEASE:1.1.3:END -->
+
 <!-- INMENTE_RELEASE:1.1.2:START -->
 ### inMente 1.1.2
 
