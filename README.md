@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.1
+## 최신 버전 · 1.1.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.1/inMente-Setup-1.1.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.1/inMente-1.1.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.2/inMente-Setup-1.1.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.2/inMente-1.1.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.2:START -->
+### inMente 1.1.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.2/inMente-Setup-1.1.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.2/inMente-1.1.2.apk)
+
+- **주간 보고 할 일을 미리 넣기** — 매주 '주간 보고 쓰기' 할 일을 그 요일이 되어서가 아니라 그 주가 시작될 때(그 주에 앱을 처음 열 때) 고른 요일 날짜로 미리 넣어요. 이번 주 할 일 목록에서 미리 보여요.
+- **이번 주 건너뛰기** — 미리 넣은 뒤에도 주간 보고 페이지 위의 [이번 주 건너뛰기]로 뺄 수 있어요. 넣어 둔 할 일은 휴지통으로 옮겨요(일정 설정의 휴지통에서 되살릴 수 있어요 · 체크한 할 일은 그대로). [되돌리기]를 누르면 다시 넣어요.
+- **요일을 바꾸면** — 주간 보고 설정에서 요일을 바꾸면 이번 주에 넣어 둔 할 일도 새 요일로 옮겨요(이미 지난 요일로는 옮기지 않아요).
+<!-- INMENTE_RELEASE:1.1.2:END -->
+
 <!-- INMENTE_RELEASE:1.1.1:START -->
 ### inMente 1.1.1
 
