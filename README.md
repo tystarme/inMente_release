@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.4
+## 최신 버전 · 1.1.5
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.4/inMente-Setup-1.1.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.4/inMente-1.1.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.5/inMente-Setup-1.1.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.5/inMente-1.1.5.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.5:START -->
+### inMente 1.1.5
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.5/inMente-Setup-1.1.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.5/inMente-1.1.5.apk)
+
+- **실험 기록 칸 — 누르면 고치기 · 수식** — 칸은 평소에 그려진 모양(마크다운 · `$수식$` · `$$수식$$` · 표 · 목록 · 그림)으로 보이고, 누르면 그 칸만 글로 바뀌어 고쳐요. 밖을 누르거나 Esc면 다시 그려진 모양. 고치는 동안 수식이 있으면 아래에 미리 보기가 같이 나와요. 편집 · 읽기 단추는 없어요. 그려진 칸의 체크박스도 눌러져요.
+- **목표 보관** — 다 이룬 장기 목표(체크)에 [보관] 단추가 생겨요. 보관하면 묶인 단기와 함께 목표 창에서 빠지고, 목표 노트 맨 아래 '보관'에 날짜와 함께 남아요. 크게 보기 아래 '보관한 목표'에서 언제든 열어 보고 [되살리기]로 꺼내요.
+- **실험 → 단기 목표 잇기** — 실험 기록 위 정보 줄의 '목표'에서 그 프로젝트의 단기 목표를 고르면 그 실험이 그 목표로 이어져요(고른 것만 · 목표 글을 고쳐도 끊기지 않아요).
+- **목표 흐름 · 캔버스** — 목표 창 위의 [묶음 · 흐름]에서 [흐름]을 누르면 실험 → 단기 목표 → 장기 목표 → 프로젝트 순서도가 늘 지금 상태로 그려져요. [캔버스로 저장]으로 그때 모습을 캔버스 파일로 남기고(카드를 옮기고 고칠 수 있어요 · Obsidian에서도 열려요), 장기 목표를 보관하면 그 장기의 흐름도 저절로 남아요(보관한 목표의 [흐름]).
+- **할 일 화면 오른쪽 칸 크기** — 목록과 오른쪽 칸 사이, 이번 주 할 일과 목표 사이의 경계를 끌어 크기를 바꿔요(두 번 누르면 처음 크기). 처음 크기도 목표 칸이 더 크게 바뀌었어요.
+<!-- INMENTE_RELEASE:1.1.5:END -->
+
 <!-- INMENTE_RELEASE:1.1.4:START -->
 ### inMente 1.1.4
 
