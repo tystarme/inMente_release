@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.5
+## 최신 버전 · 1.1.6
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.5/inMente-Setup-1.1.5.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.5/inMente-1.1.5.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.6/inMente-Setup-1.1.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.6/inMente-1.1.6.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.6:START -->
+### inMente 1.1.6
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.6/inMente-Setup-1.1.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.6/inMente-1.1.6.apk)
+
+- **실험 기록의 '목표' 칸이 늘 보여요** — 프로젝트가 있는 기록이면 정보 줄에 '목표'가 늘 있어요. 그 프로젝트에 아직 단기 목표가 없으면 펼쳤을 때 '일정 → 할 일의 목표 칸에서 먼저 적어요'라고 알려 줘요(전에는 칸이 아예 숨어 있었어요).
+- **갈래를 뺐어요** — 실험 기록의 '갈래' 고르기가 없어졌어요. 이전 기록(자동 · 직접 고르기)과 같은 일을 해 헷갈렸어요. 나란히 하는 실험은 '이전 기록'으로 이으면 돼요. Workflow 줄은 프로젝트 × 종류마다예요.
+- **목표 창에서 프로젝트 이름이 두 번 나오던 것** — 묶음 위의 큰 프로젝트 이름(처음 마인드맵 모양에서 남은 것)을 뺐어요. 프로젝트가 하나뿐이라 고르는 단추가 없을 때만 보여요.
+<!-- INMENTE_RELEASE:1.1.6:END -->
+
 <!-- INMENTE_RELEASE:1.1.5:START -->
 ### inMente 1.1.5
 
