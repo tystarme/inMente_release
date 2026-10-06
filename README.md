@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.3
+## 최신 버전 · 1.1.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.3/inMente-Setup-1.1.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.3/inMente-1.1.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.4/inMente-Setup-1.1.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.4/inMente-1.1.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.4:START -->
+### inMente 1.1.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.4/inMente-Setup-1.1.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.4/inMente-1.1.4.apk)
+
+- **실험 기록 제목** — 기록을 열면 맨 위에 제목이 크게 보이고, 눌러서 고칠 수 있어요(Enter로 저장 · Esc로 취소). 무엇을 적고 있는지 늘 보여요.
+- **본문 하나로 시작 · 칸은 골라서** — 새 기록은 '본문' 칸 하나로 시작해요. 아래 [칸 더하기]에서 목적 · 가정 · 모델 · 변수 설정 · 샘플 선택 · 파라미터 · 변인 통제 · 실험 환경 · 주의사항 · 유도 · 수렴 · 이전 실험과의 변동사항 · 결과 · 해석 · 결론을 골라 더하고, 이름을 직접 지은 칸도 더할 수 있어요. 비어 있는 칸은 ×로 빼요. 이미 만든 기록은 그 기록에 있는 칸만 보여요.
+- **프리셋** — [틀로 저장]이 [프리셋으로 저장]이 됐어요. 칸을 짠 기록을 프리셋으로 저장해 두면 [기록]의 '시작 내용'에서 골라 그 칸들로 시작해요(본문 · 결과 · 해석 글은 비워서 저장). 종류마다 마지막으로 고른 시작 내용을 기억해요. 예전처럼 칸이 다 있는 '기본 틀'도 고를 수 있어요.
+<!-- INMENTE_RELEASE:1.1.4:END -->
+
 <!-- INMENTE_RELEASE:1.1.3:START -->
 ### inMente 1.1.3
 
