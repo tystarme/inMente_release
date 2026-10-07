@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.7
+## 최신 버전 · 1.1.8
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.7/inMente-Setup-1.1.7.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.7/inMente-1.1.7.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.8/inMente-Setup-1.1.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.8/inMente-1.1.8.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.8:START -->
+### inMente 1.1.8
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.8/inMente-Setup-1.1.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.8/inMente-1.1.8.apk)
+
+- **실험 기록에 '사진' 칸** — [칸 더하기] → 사진. [사진 더하기]로 고르거나(폰은 카메라로 바로 찍기도) Ctrl+V로 붙여 넣어요. 사진마다 '사진 1 · 사진 2 …' 번호가 저절로 붙고 설명을 적을 수 있어요. 앞뒤로 옮기거나 빼면 번호가 다시 매겨져요. 사진은 할 일 메모 사진과 같은 곳에 저장돼 PC · 폰에서 같이 보여요(빼면 기록에서만 빠지고, 설명을 적은 사진은 한 번 더 물어요).
+- **Workflow — 같은 날 이은 기록은 좌우로** — 같은 날짜라도 이전 기록으로 이어 두면 왼쪽 → 오른쪽으로 놓여 화살표가 옆으로 이어져요(전에는 위아래로 쌓여 화살표가 카드를 뚫고 지나갔어요). 잇지 않은 같은 날 기록은 그대로 위아래로 쌓여요.
+- **샘플 계산값 고침 · 풀이** — 활:도:바 비율은 세 칸의 합을 100으로 맞춘 몫으로 계산해요(8:1:1이면 활물질 80% — 전에는 8%로 계산됐어요). 전극 질량이 집전체 무게(넓이 × 면적 질량)보다 크지 않으면 음수 대신 '질량 확인'으로 보여요. 로딩 · 이론 용량을 누르면 그 줄 아래에 식과 넣은 숫자가 보여요.
+- **샘플 무게 계산** — 배치 물성 아래 '무게 계산'에서 기준(총 고형분 g / 총 슬러리 g) · 양 · 바인더 용액 농도(wt%) · 목표 고형분(%)을 적으면 활물질 · 도전재 · 바인더 용액(그 안의 바인더 + 용매) · 추가 용매 · 합계를 몇 g씩 달지 보여 줘요. 적은 값은 배치에 저장돼요.
+- 실험 기록의 이전 기록 옆 [열기] 단추가 앱 모양으로 보여요.
+<!-- INMENTE_RELEASE:1.1.8:END -->
+
 <!-- INMENTE_RELEASE:1.1.7:START -->
 ### inMente 1.1.7
 
