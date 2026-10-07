@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.6
+## 최신 버전 · 1.1.7
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.6/inMente-Setup-1.1.6.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.6/inMente-1.1.6.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.7/inMente-Setup-1.1.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.7/inMente-1.1.7.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.7:START -->
+### inMente 1.1.7
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.7/inMente-Setup-1.1.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.7/inMente-1.1.7.apk)
+
+- **[칸 더하기] 메뉴가 잘리지 않아요** — 실험 기록 맨 아래의 [칸 더하기]를 누르면 메뉴가 기록 칸 끝에서 잘려 안 보였어요. 이제 자리가 넓은 쪽(보통 위)으로 펼치고, 자리가 모자라면 메뉴 안에서 스크롤돼요. 다른 고르기 메뉴도 같아요.
+- **고치는 칸에서도 화살표가 바로 바뀌어요** — 실험 기록 칸에 `->` `<-` `<->` `=>` `<=>`를 치면 그 자리에서 → ← ↔ ⇒ ⇔ 글자로 바뀌어요. 전에는 `->` `<-`가 글꼴 때문에 화살표처럼 보이기만 했고, `<->`는 깨져 보였어요. 수식(`$…$`)과 코드 안은 그대로 두고, `<=`(작거나 같음)도 그대로예요.
+<!-- INMENTE_RELEASE:1.1.7:END -->
+
 <!-- INMENTE_RELEASE:1.1.6:START -->
 ### inMente 1.1.6
 
