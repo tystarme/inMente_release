@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.8
+## 최신 버전 · 1.1.9
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.8/inMente-Setup-1.1.8.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.8/inMente-1.1.8.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.9/inMente-Setup-1.1.9.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.9/inMente-1.1.9.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.9:START -->
+### inMente 1.1.9
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.9/inMente-Setup-1.1.9.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.9/inMente-1.1.9.apk)
+
+- **갈라졌다 모이는 실험** — 이전 기록을 여러 개 고를 수 있어요. 실험 2 · 3을 나란히 하고 둘 다 실험 4로 이으면 Workflow에서 화살표가 4로 모여요. 기록 위 칸에 '이전 기록' · '다음 기록'이 이름 칩으로 보이고(누르면 열기 · ×로 빼기), [+ 더하기]로 어느 쪽에서든 이을 수 있어요(다음 기록을 고르면 그 기록의 이전 기록에 적혀요). 고리가 생기는 기록은 목록에 나오지 않아요. 이전 기록이 여럿이면 변수 표를 견줄 기록을 골라요.
+- **사진 크게 보기** — 사진 칸의 사진을 누르면 화면 전체로 열려요. PC: 휠로 확대 · 끌어서 옮기기 · ← → 다음 사진 · Esc 닫기. 폰: 두 손가락으로 확대 · 옆으로 밀어 다음 사진 · 두 번 톡하면 확대 ↔ 맞춤 · 뒤로 가기로 닫기. 아래에 '사진 N. 설명'이 보여요.
+<!-- INMENTE_RELEASE:1.1.9:END -->
+
 <!-- INMENTE_RELEASE:1.1.8:START -->
 ### inMente 1.1.8
 
