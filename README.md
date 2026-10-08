@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.2.0
+## 최신 버전 · 1.2.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.2.0/inMente-Setup-1.2.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.2.0/inMente-1.2.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.2.1/inMente-Setup-1.2.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.2.1/inMente-1.2.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.2.1:START -->
+### inMente 1.2.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.2.1/inMente-Setup-1.2.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.2.1/inMente-1.2.1.apk)
+
+- **노트를 다른 폴더로 옮기면 그림도 함께** — 1.2.0부터 그림(PDF에서 잘라 낸 그림 · 실험 사진)은 노트 옆 attachments 폴더에 있어서, 노트만 옮기면 메모 속 그림이 깨졌어요. 이제 노트를 옮기면(끌어 옮기기 · 이름 바꾸기 · 여러 개 옮기기) 그 노트가 쓰는 그림을 새 폴더의 attachments로 복사해요. 같은 그림을 쓰는 다른 노트가 있을 수 있어서 옛 그림은 지우지 않아요. 복사하지 못한 그림이 있으면 옮겼다는 알림에 알려요.
+<!-- INMENTE_RELEASE:1.2.1:END -->
+
 <!-- INMENTE_RELEASE:1.2.0:START -->
 ### inMente 1.2.0
 
