@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.10
+## 최신 버전 · 1.2.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.10/inMente-Setup-1.1.10.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.10/inMente-1.1.10.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.2.0/inMente-Setup-1.2.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.2.0/inMente-1.2.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.2.0:START -->
+### inMente 1.2.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.2.0/inMente-Setup-1.2.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.2.0/inMente-1.2.0.apk)
+
+- **노트 찾기 · 바꾸기** — 노트에서 Ctrl+F(또는 머리의 돋보기)로 찾기 줄이 떠요. 몇 번째인지(3/12) 보이고, Enter는 다음 · Shift+Enter는 이전이에요. [바꾸기 펼치기]로 하나씩 또는 [전부] 바꿀 수 있고, [전부]는 Ctrl+Z 한 번에 되돌아가요. 찾은 곳은 편집 쪽과 읽기 쪽 모두 노랗게 칠해지고, 읽기 쪽도 그 자리로 굴러가요. 읽기 화면에서는 찾기만 돼요.
+- **나란히 보기에서 읽기 쪽 우클릭 → [이 위치로 이동]** — 그 글자 자리로 편집 쪽 커서가 옮겨 가요(inLoco와 같게). [복사] · [모두 선택]도 있어요.
+- **PDF에서 Alt+끌기로 아무 곳이나** — 그림 · 표 · 수식 영역을 Alt를 누른 채 끌어 고르고 [메모에 인용]을 누르면, 그 영역 그림이 메모 옆 attachments 폴더에 저장되고 메모에 인용(그림 + 쪽 링크)으로 들어가요. 형광펜이 켜져 있으면 PDF에도 그 영역이 칠해지고, 우클릭으로 지울 수 있어요. Esc로 고른 것을 풀어요.
+- **노트 읽기 상태** — 논문 · 자료 메모 위쪽에서 안 읽음 · 읽는 중 · 다 읽음을 고를 수 있어요. 파일 목록 이름 앞에 색 점(읽는 중 파랑 · 다 읽음 초록)이, 타일에는 글로 보여요.
+- **그림은 노트 옆 attachments 폴더에 · 폰과도 맞춤** — 실험 사진도 이제 실험 기록 옆 attachments 폴더에 들어가요(전에 넣은 사진은 그대로 보여요). 노트 옆 그림은 폰과도 맞춰져요 — 처음 한 번 서버에 준비를 붙여 넣어야 해요(설정 → 동기화에 안내가 떠요).
+<!-- INMENTE_RELEASE:1.2.0:END -->
+
 <!-- INMENTE_RELEASE:1.1.10:START -->
 ### inMente 1.1.10
 
