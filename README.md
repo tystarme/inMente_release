@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.1.9
+## 최신 버전 · 1.1.10
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.9/inMente-Setup-1.1.9.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.9/inMente-1.1.9.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.10/inMente-Setup-1.1.10.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.10/inMente-1.1.10.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.1.10:START -->
+### inMente 1.1.10
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.1.10/inMente-Setup-1.1.10.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.1.10/inMente-1.1.10.apk)
+
+- **Workflow에서 나란한 실험이 한눈에** — 가로는 지금처럼 날짜순이고, 한 기록에서 갈라진 실험은 각자 한 줄을 차지해 그 줄을 따라 이어져요(예: 계획 → casting (1) → cycling CB가 위 줄, casting (2) → cycling LP가 아래 줄, 둘이 Phase1에서 모임). 몇 칸 건너 이어지는 화살표는 먼저 제 줄로 내려가서 들어가, 다른 카드 뒤로 숨지 않아요.
+- **목표 흐름도 같은 방식** — 일정 → 목표 [크게] → [흐름]에서 단기 목표에 이은 실험들이 위 → 아래 날짜순으로 놓이고, 이전 기록끼리 화살표로 이어지며, 갈라진 실험은 옆 칸으로 나란히 가요. 단기 목표로는 각 갈래의 마지막 실험만 이어져요.
+<!-- INMENTE_RELEASE:1.1.10:END -->
+
 <!-- INMENTE_RELEASE:1.1.9:START -->
 ### inMente 1.1.9
 
