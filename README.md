@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.3.1
+## 최신 버전 · 1.3.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.1/inMente-Setup-1.3.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.1/inMente-1.3.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.2/inMente-Setup-1.3.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.2/inMente-1.3.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.3.2:START -->
+### inMente 1.3.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.2/inMente-Setup-1.3.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.2/inMente-1.3.2.apk)
+
+- **장 제목 없는 짧은 논문도 메모가 채워져요** — Nano Letters 같은 짧은 논문은 본문에 장 제목이 없어서, 본문 전체를 Introduction 하나로만 요약하고 Results · Discussion · Conclusions는 '해당 섹션 없음'이 됐어요. 이제 그런 논문은 본문 전체에서 섹션마다 제 몫만 골라 요약해요(아래에 '장 제목이 없는 본문에서 이 부분을 요약'이라고 적혀요). 맺음 문단이 실험 방법 장 뒤에 있는 논문도 결론에 들어가요.
+- **Methods · Experimental 중 한쪽만 있으면 그렇게 알려요** — Methods는 이론 · 계산 방법, Experimental은 실험 방법 칸이에요. 실험 논문의 Methods에 '해당 섹션 없음'이라고만 적혀 빠뜨린 것처럼 보였는데, 이제 '실험 방법은 아래 Experimental에 있어요'처럼 다른 칸을 가리켜요.
+- 이미 채운 메모는 **[다시 채우기]**를 한 번 눌러 주세요 — 새 방식으로 처음부터 다시 채워요.
+<!-- INMENTE_RELEASE:1.3.2:END -->
+
 <!-- INMENTE_RELEASE:1.3.1:START -->
 ### inMente 1.3.1
 
