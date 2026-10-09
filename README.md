@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.3.0
+## 최신 버전 · 1.3.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.0/inMente-Setup-1.3.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.0/inMente-1.3.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.1/inMente-Setup-1.3.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.1/inMente-1.3.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.3.1:START -->
+### inMente 1.3.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.1/inMente-Setup-1.3.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.1/inMente-1.3.1.apk)
+
+- **이번 주 할 일이 끊기지 않고 따라가요** — 이번 주 할 일에서 날짜를 정한 뒤 할 일 쪽(고치기 창 · 폰 · inLista)에서 그 할 일의 날짜를 바꾸면 '끊김'이 떴어요. 이제 같은 제목의 할 일을 찾아 새 날짜로 다시 이어요. 같은 주면 날짜만 고치고, 다음 주나 다른 주로 옮겼으면 그 주의 할 일로 옮겨요. 엉뚱한 것과 잇지 않게, 옛 날짜 앞뒤 8주 안에 같은 제목이 딱 하나일 때만 따라가요(여럿이거나 없으면 전처럼 '끊김').
+<!-- INMENTE_RELEASE:1.3.1:END -->
+
 <!-- INMENTE_RELEASE:1.3.0:START -->
 ### inMente 1.3.0
 
