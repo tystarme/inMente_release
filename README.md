@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.2.1
+## 최신 버전 · 1.3.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.2.1/inMente-Setup-1.2.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.2.1/inMente-1.2.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.0/inMente-Setup-1.3.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.0/inMente-1.3.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.3.0:START -->
+### inMente 1.3.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.0/inMente-Setup-1.3.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.0/inMente-1.3.0.apk)
+
+- **AI 메모 채우기가 더 정확하게** — 낱말 사이 빈칸을 따로 조판한 PDF(JACS 등)에서 AI가 받는 글의 낱말이 모두 붙어 있던 것을 고쳤어요(모든 메모 채우기에 좋아져요). 문단 첫머리의 굵은 소제목(예: "Principles of the Measurement.")도 알아보고, 따로 Methods 장이 없는 논문이면 방법을 설명하는 소제목 부분을 Methods로 요약해요. 실험 방법이 보충 자료(SI)에만 있다고 적힌 논문은 '해당 섹션 없음' 대신 그렇게 알려 줘요. 예전에 채운 메모는 [다시 채우기]를 누르면 새 방식으로 처음부터 채워요.
+- **PDF 읽으며 AI에게 묻기** — PDF에서 글을 골라 [AI에게 묻기]를 누르면 PDF 위쪽에 질문 칸이 열려요. 질문을 적고 [묻기](Ctrl+Enter)를 누르면 고른 글과 그 쪽의 글을 바탕으로 짧게 답해 줘요(수식도 그려져요). 이어서 물으면 앞의 질문도 함께 보내요. 메모가 열려 있으면 답마다 [메모에 넣기]로 질문 · 답을 메모에 넣을 수 있어요. 질문 한 번에 AI를 한 번 불러요(PC · Claude Code 연결 필요).
+<!-- INMENTE_RELEASE:1.3.0:END -->
+
 <!-- INMENTE_RELEASE:1.2.1:START -->
 ### inMente 1.2.1
 
