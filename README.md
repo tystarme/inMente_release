@@ -2,14 +2,29 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.4.0
+## 최신 버전 · 1.5.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.4.0/inMente-Setup-1.4.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.4.0/inMente-1.4.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.0/inMente-Setup-1.5.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.0/inMente-1.5.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.5.0:START -->
+### inMente 1.5.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.0/inMente-Setup-1.5.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.0/inMente-1.5.0.apk)
+
+- **고침: 폰에서 '피싱 시도 감지' 경고 · 최근 앱 목록에서 다시 열리지 않던 것** — 1.4.0에 넣은 키 막기(개발 도구 · 인쇄 · 새로 고침 키)가 속이는 웹 페이지가 흔히 쓰는 짜임이라 폰의 보호 기능이 그렇게 본 것으로 보여요. 폰에서는 키 막기를 모두 뺐고, PC는 새로 고침 키(F5 · Ctrl+R)만 막아요.
+- **편집 보기가 실시간 렌더링으로** — Notion · Obsidian처럼 커서가 있는 문단만 원문으로 보이고, 나머지는 읽기 화면처럼 그려진 모양(굵게 · 수식 · 표 · 체크박스 · 콜아웃)으로 보여요. 그려진 문단을 누르면 그 자리에 커서가 가고, 체크박스와 노트 링크는 그 자리에서 눌려요. 나란히 보기는 그대로예요. 보기 설정의 '편집 보기에서 글 모양으로 보기'로 끌 수 있어요(켜 두면 줄 번호는 숨어요).
+- **안 쓰는 그림 정리** — 노트에서 그림 줄을 지우고 저장한 뒤 그 노트를 나가면, 어느 노트도 쓰지 않는 그 그림을 휴지통으로 옮기고 알려 줘요(지우지 않아요 — 휴지통에서 되살려요). 전에 남은 그림은 파일탐색기 설정 → '안 쓰는 그림' [찾기]로 목록을 보고 옮겨요. 동기화도 어느 노트가 쓰는 그림만 서버에서 받아요(휴지통으로 옮긴 그림이 되돌아오지 않게).
+- **폰 화면을 덜 답답하게** — 노트 화면: PDF를 열 수 없는 폰에서는 PDF 줄을 빼고 뒤로 단추를 제목 줄로, 단추는 한 줄([저장] · 보기 바꾸기가 앞, 나머지는 옆으로 밀어서). 실험 목록: 고르는 줄 여섯 줄 → 세 줄(종류 · 프로젝트 · 상태는 [거르기]를 누르면). 할 일: [⚙] · [+ 할 일]을 주 제목 줄로.
+- **위쪽 공간을 줄였어요(PC)** — 논문 메모 위 띠가 한 줄이 됐어요: [뒤로] · [메모 채우기] · (오른쪽) PDF 단추들. 파일 경로는 줄에서 빼고, 탭이나 노트 제목 · 📄에 마우스를 올리면 보여요.
+- **알림은 5초 뒤 저절로 사라져요** — 지웠어요 · 옮겼어요 같은 알림을 닫지 않아도 돼요. 마우스를 올려 두는 동안은 기다려요([되돌리기]를 누를 수 있게).
+- **PDF로 내보낸 뒤 [탐색기에서 보기]** — 저장한 PDF가 있는 폴더를 바로 열어요.
+<!-- INMENTE_RELEASE:1.5.0:END -->
+
 <!-- INMENTE_RELEASE:1.4.0:START -->
 ### inMente 1.4.0
 
