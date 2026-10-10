@@ -2,14 +2,34 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.3.2
+## 최신 버전 · 1.4.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.3.2/inMente-Setup-1.3.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.3.2/inMente-1.3.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.4.0/inMente-Setup-1.4.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.4.0/inMente-1.4.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.4.0:START -->
+### inMente 1.4.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.4.0/inMente-Setup-1.4.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.4.0/inMente-1.4.0.apk)
+
+- **노트 탭(PC)** — 연 노트가 위에 탭으로 쌓여요. ✕로 닫고, 끌어서 순서를 바꾸고, Ctrl+Tab으로 넘기고, Ctrl+W로 닫고, Ctrl+Shift+T로 닫은 탭을 되살려요. 저장 안 한 탭에는 ●가 붙고, 닫으려 하면 저장할지 물어요. 탭마다 편집 · 나란히 · 읽기 보기를 따로 기억하고, 다음에 켜면 탭이 그대로 열려요.
+- **편집 쪽 서식 단추 줄** — 되돌리기 · 들여쓰기 · 제목 · 굵게 · 인용 · 목록 · 체크 · 코드 · 수식 · 분수 · 표 · 노트 링크 · 그림 · 형광펜 · 글씨색 · 배경색. 수식 단추는 이미 $로 감싼 글을 겹쳐 감싸지 않아요. 표 만들기 창(줄 · 칸 수), 노트 링크 고르기 창, 색 고르기 창(즐겨찾기 · 최근 8색 · 14색 · 직접 입력)도 있어요.
+- **글을 고르고 우클릭** — 잘라내기 · 복사 · 붙여넣기 · 모두 선택 · 굵게 · 기울임 · 형광펜 · 수식 상자 · 글씨색 · 배경색.
+- **메모에 그림 넣기** — Ctrl+V로 붙여 넣거나 [그림] 단추로 골라요. 그림은 노트 옆 attachments 폴더에 들어가고 폰으로도 동기화돼요.
+- **PDF로 내보내기(PC)** — 노트 머리의 [PDF]. 노트 전체 · 고른 곳 · 줄 범위, 글자 크기, 줄 간격, 그림 넣기를 골라 A4 PDF로 저장해요.
+- **노트 이름으로 찾기(Ctrl+G)** — 파일탐색기 위 돋보기로도. ↑ · ↓ · Enter로 열어요.
+- **텍스트 파일 열기** — .txt · .csv · .json · .yaml · .xml · .html · .css · .js · .py · .log 파일도 파일탐색기에 보이고 노트처럼 고쳐요.
+- **읽기 화면을 inLoco와 똑같이** — 각주 · 참조 링크 · 표 칸 정렬 · 바깥 | 없는 표 · 번호 목록 시작 번호 · 문장 속 그림 · __굵게__ · 화살표 등. 틀린 수식은 그 수식만 빨갛게, 열리지 않는 그림 자리에는 알림, 빈 노트에는 '(빈 노트)'.
+- **표 정렬 · 열 너비** — widths= 줄이 있는 표는 머리의 ⋮로 오름 · 내림차순 정렬(숫자 · 날짜도), 열 경계를 끌어 너비를 바꿔요.
+- **보던 자리 그대로** — 편집 · 나란히 · 읽기를 바꿔도, 다른 노트를 갔다 와도 보던 자리 · 되돌리기 기록 · 고른 곳이 남아요.
+- **단축키 · 보기** — Ctrl+\로 나란히 보기 켜고 끄기, 읽기 보기에서 Ctrl+Z / Ctrl+Y로 체크박스 되돌리기. 보기 설정에 배율 밀대 · 숫자 칸과 맞춤법 밑줄 켜고 끄기, Ctrl+휠은 한 칸에 한 단계. 노트 머리의 연필로 바로 이름 바꾸기. F5 · Ctrl+R을 눌러도 화면이 새로 고쳐지지 않아요.
+- **고침: Windows 줄 끝(CRLF)으로 저장된 노트** — 한 줄만 고쳐도 파일 전체의 줄 끝이 바뀌고, 되돌려도 '저장 안 함'이 남고, 읽기 화면의 체크박스가 엉뚱한 줄을 고칠 수 있었어요. 이제 줄 끝을 그대로 지켜요.
+<!-- INMENTE_RELEASE:1.4.0:END -->
+
 <!-- INMENTE_RELEASE:1.3.2:START -->
 ### inMente 1.3.2
 
