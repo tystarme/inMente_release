@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.5.1
+## 최신 버전 · 1.5.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.1/inMente-Setup-1.5.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.1/inMente-1.5.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.2/inMente-Setup-1.5.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.2/inMente-1.5.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.5.2:START -->
+### inMente 1.5.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.2/inMente-Setup-1.5.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.2/inMente-1.5.2.apk)
+
+- **논문 연도: 처음 나온 해 (출판 해)** — 온라인에 먼저 나와 출판 해가 다른 논문은 `2018 (2019)`처럼 보여요(같으면 그 해만). 그래프 카드 · 묶음 카드 · 논문 찾기 · 서지 카드 모두. 이미 만든 메모는 [서지 다시 가져오기]를 누르면 바뀌어요.
+- **논문 그래프 화살표를 다시 손봤어요** — 1.5.1에서 바꾼 선 모양(카드 사이로 돌아가기)이 오히려 어정쩡하고 유턴하는 선도 있어 원래 곡선으로 되돌렸어요. 화살촉만 선이 들어오는 방향을 따라 기울어 들어가요.
+<!-- INMENTE_RELEASE:1.5.2:END -->
+
 <!-- INMENTE_RELEASE:1.5.1:START -->
 ### inMente 1.5.1
 
