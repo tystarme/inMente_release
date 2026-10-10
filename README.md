@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.5.0
+## 최신 버전 · 1.5.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.0/inMente-Setup-1.5.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.0/inMente-1.5.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.1/inMente-Setup-1.5.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.1/inMente-1.5.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.5.1:START -->
+### inMente 1.5.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.1/inMente-Setup-1.5.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.1/inMente-1.5.1.apk)
+
+- **고침: 편집 보기에서 커서가 제멋대로 움직이던 것** — 커서를 옮기면 위아래 문단이 글 모양 ↔ 원문으로 바뀌며 높이가 달라져 커서 줄이 밀렸어요. 이제 커서를 둔 줄은 화면에서 제자리에 있고, 나머지 글이 밀려요.
+- **고침: 논문 그래프의 화살표** — 여러 층을 건너뛰는 선이 가운데 카드 뒤로 곧게 지나가 카드 옆에서 나오는 선처럼 보였어요. 이제 선은 카드 사이로 돌아가고, 늘 위 카드의 아랫면에서 나와 아래 카드의 윗면으로 곧게 들어가요(화살촉이 한 점에 겹치지 않아요).
+- **고침: 온라인에 먼저 나온 논문의 연도** — 메모의 연도를 인쇄된 해로 적어, 2018년 논문이 '2019년' 논문을 인용한 것처럼 보였어요. 이제 처음 나온 해(가장 이른 날짜)를 적어요. 이미 만든 메모는 [서지 다시 가져오기]를 누르면 고쳐져요.
+- **라이브러리 별명에 대문자** — 별명에 영문 대문자도 쓸 수 있어요(예: SDKang-Lab). 한 글자 대문자(C · D 같은 드라이브 글자)와, 다른 라이브러리와 대소문자만 다른 별명은 안 돼요.
+<!-- INMENTE_RELEASE:1.5.1:END -->
+
 <!-- INMENTE_RELEASE:1.5.0:START -->
 ### inMente 1.5.0
 
