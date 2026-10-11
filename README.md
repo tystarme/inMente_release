@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.5.2
+## 최신 버전 · 1.5.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.2/inMente-Setup-1.5.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.2/inMente-1.5.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.3/inMente-Setup-1.5.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.3/inMente-1.5.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.5.3:START -->
+### inMente 1.5.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.3/inMente-Setup-1.5.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.3/inMente-1.5.3.apk)
+
+- **고침: 폰 최근 앱 목록에서 inMente가 다시 열리지 않던 것('앱을 열지 못했어요')** — 삼성 보안이 스토어 밖에서 설치한 inMente를 '피싱 위험 앱'으로 보고 최근 앱에서 여는 것을 가로채 다시 띄우는데, inMente의 화면 설정(늘 하나로만 열기)과 부딪혀 시스템이 거절하고 있었어요(폰 기록으로 확인). 이미 떠 있는 화면을 그대로 다시 열도록 바꿨어요. 1.5.0에서 고쳤다고 한 원인(키 막기)은 틀린 짐작이었어요.
+- **고침: 위젯 [↻]를 누르면 맞춘 뒤 홈 화면으로 돌아가요** — Android 17에서 앱이 앞에 남던 것.
+- 피싱 경고 자체는 삼성 보안이 띄우는 것이라 설치할 때 한 번은 그대로 떠요([허용]을 누르면 돼요).
+<!-- INMENTE_RELEASE:1.5.3:END -->
+
 <!-- INMENTE_RELEASE:1.5.2:START -->
 ### inMente 1.5.2
 
