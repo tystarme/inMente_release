@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.5.3
+## 최신 버전 · 1.6.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.5.3/inMente-Setup-1.5.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.5.3/inMente-1.5.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.0/inMente-Setup-1.6.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.0/inMente-1.6.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.6.0:START -->
+### inMente 1.6.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.0/inMente-Setup-1.6.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.0/inMente-1.6.0.apk)
+
+- **실험 기록에서 C-rate → 이론 전류** — 쓴 샘플 표에 [C-rate] 칸이 생겼어요. 적으면 옆에 이론 전류(= C-rate × 이론 용량, mA)가 나와요. 샘플마다 따로, 율속 시험처럼 여럿은 쉼표로(`0.1, 0.5, 1, 2`). `0.5C` · `C/10`도 돼요. 이론 용량은 샘플 탭의 계산값을 그대로 써요(활물질 질량 × 비용량).
+<!-- INMENTE_RELEASE:1.6.0:END -->
+
 <!-- INMENTE_RELEASE:1.5.3:START -->
 ### inMente 1.5.3
 
