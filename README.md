@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.6.0
+## 최신 버전 · 1.6.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.0/inMente-Setup-1.6.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.0/inMente-1.6.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.1/inMente-Setup-1.6.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.1/inMente-1.6.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.6.1:START -->
+### inMente 1.6.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.1/inMente-Setup-1.6.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.1/inMente-1.6.1.apk)
+
+- **고침: 실험 기록에서 아래 칸이 좁던 것** — 제목 · 이전 기록 · 쓴 샘플이 위에 고정되고 아래 입력 칸만 따로 굴렀어요. 이제 기록 전체가 함께 굴러요.
+- **고침: 폰에서 실험 기록 화면이 화면보다 넓어져 오른쪽이 잘리던 것** — 쓴 샘플 표 · 긴 목표 이름이 화면을 밀어냈어요(폰 글자 크기를 키웠을 때). 이제 화면 폭에 맞고, 표는 칸 안에서 옆으로 밀고, 긴 이름은 '…'로 줄여요.
+<!-- INMENTE_RELEASE:1.6.1:END -->
+
 <!-- INMENTE_RELEASE:1.6.0:START -->
 ### inMente 1.6.0
 
