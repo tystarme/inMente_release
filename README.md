@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.6.3
+## 최신 버전 · 1.6.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.3/inMente-Setup-1.6.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.3/inMente-1.6.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.4/inMente-Setup-1.6.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.4/inMente-1.6.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.6.4:START -->
+### inMente 1.6.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.4/inMente-Setup-1.6.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.4/inMente-1.6.4.apk)
+
+- **고침: 폰에서 화면이 깨지던 것** — 폰 글자 크기를 키워 두면 행정 건 화면의 글이 겹치고, 할 일 · 실험 기록 화면이 화면보다 넓어져 오른쪽이 잘렸어요. 안의 넓은 것(긴 기록 이름 · 도구 줄)에 맞춰 바깥 칸이 늘던 것을 고치고, 큰 글자에서 칩 · 달력 날짜 칸 · 시각 칸이 넘치던 것도 고쳤어요.
+- **고침: 메모에서 같은 특수문자를 여럿 치면(`.....` · `#####` · `;;;;;`) 앞 글자가 투명해지던 것** — 글꼴이 같은 글자를 이어 그리는 기능을 글 고치는 칸에서는 꺼요.
+- [이번 주 건너뛰기] 같은 글자 단추가 앱 모양으로 보여요.
+<!-- INMENTE_RELEASE:1.6.4:END -->
+
 <!-- INMENTE_RELEASE:1.6.3:START -->
 ### inMente 1.6.3
 
