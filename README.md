@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.6.1
+## 최신 버전 · 1.6.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.1/inMente-Setup-1.6.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.1/inMente-1.6.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.2/inMente-Setup-1.6.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.2/inMente-1.6.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.6.2:START -->
+### inMente 1.6.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.2/inMente-Setup-1.6.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.2/inMente-1.6.2.apk)
+
+- **고침: 지운 사진이 attachments 폴더에 남던 것** — 전에는 그 노트를 보는 동안 지운 사진만, 노트를 나갈 때만 치웠어요(나가기 전에 앱을 끄면 남았어요). 이제 노트 · 실험 기록을 열 때와 나갈 때 그 폴더의 안 쓰는 사진을 휴지통으로 옮겨요. 실험 기록 사진 칸에서 뺀 사진도요. 막 붙인 사진(10분 안)은 건드리지 않아요.
+- **PDF 영역 형광펜이 사각형 그대로** — Alt+끌기로 고른 영역의 형광펜이 양옆이 휘어진 모양이었어요. 이제 끈 사각형 크기 그대로, 꼭짓점만 살짝 둥글게 칠해요(다른 PDF 앱에서도 같아요).
+<!-- INMENTE_RELEASE:1.6.2:END -->
+
 <!-- INMENTE_RELEASE:1.6.1:START -->
 ### inMente 1.6.1
 
