@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.6.2
+## 최신 버전 · 1.6.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.2/inMente-Setup-1.6.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.2/inMente-1.6.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.3/inMente-Setup-1.6.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.3/inMente-1.6.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.6.3:START -->
+### inMente 1.6.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.3/inMente-Setup-1.6.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.3/inMente-1.6.3.apk)
+
+- **할 일 메모 사진도 정리해요** — 할 일 메모에서 지운 사진(`inLista/body/attachments`)도 메모를 열 때 · 나갈 때 휴지통으로 옮겨요. 업데이트 뒤 처음 메모를 열면, 예전에 받아 두었지만 어느 메모도 쓰지 않는 사진이 한꺼번에 휴지통으로 갈 수 있어요(휴지통에서 되살릴 수 있어요).
+- 할 일 메모 사진 동기화도 어느 메모가 쓰는 사진만 받아요 — 휴지통으로 옮긴 사진이 다시 내려오지 않게요.
+<!-- INMENTE_RELEASE:1.6.3:END -->
+
 <!-- INMENTE_RELEASE:1.6.2:START -->
 ### inMente 1.6.2
 
