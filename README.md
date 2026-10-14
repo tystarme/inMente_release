@@ -2,14 +2,29 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.6.4
+## 최신 버전 · 1.7.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.6.4/inMente-Setup-1.6.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.6.4/inMente-1.6.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.7.0/inMente-Setup-1.7.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.7.0/inMente-1.7.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.7.0:START -->
+### inMente 1.7.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.7.0/inMente-Setup-1.7.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.7.0/inMente-1.7.0.apk)
+
+- **새 기능: 필기 노트(.inote)** — 파일탐색기 새 노트 칸의 [필기]로 만들어요. A4 쪽에 2단 · 모눈(가로줄 · 빈 종이도), 가운데 노란 띠, 손글씨 느낌 글꼴(푸어스토리 — 고운돋움 · 나눔손글씨 펜 · 개구도)로 왼쪽 단 → 오른쪽 단 → 다음 쪽으로 흘러요. 속은 마크다운이라 수식 · 그림 · 표 · 각주 · 링크가 그대로 되고, 동기화 · 휴지통도 다른 노트와 같아요.
+- **쪽 위에서 바로 쓰기** — 편집 보기에서 글 · 목록 · 제목을 누르면 그 자리에서 같은 모양으로 고쳐요(누른 글자에 커서). 수식 · 표 · 그림 · 코드는 그 아래 상자에서 고치고, 더블클릭이나 Alt+Enter로 아무 블록이나 상자로 바꿔요. 빈 곳을 누르면 그 단의 마지막 글 뒤에 새 문단, Esc는 닫기, Ctrl+Enter 다음 단 · Ctrl+Shift+Enter 다음 쪽.
+- **색 펜** — Alt+1 보라 · Alt+2 빨강 · Alt+3 분홍 · Alt+4 초록 · Alt+5 노란 형광 상자 · Alt+0 기본색(서식 단추 줄에도). 고른 글은 그 색으로, 안 고르면 그 뒤로 치는 글이 그 색이에요. 펜 색은 파일탐색기 설정에서 바꿔요.
+- **나란히 보기** — 왼쪽에서 치는 블록을 오른쪽 쪽에 표시하고 따라가요. 쪽을 우클릭 → [이 위치로 이동]은 그 블록의 글로 정확히 가요.
+- **PDF** — 필기 노트는 창 없이 화면의 쪽 그대로 내보내요(쪽 하나 = 한 장, 노트의 쪽 크기, 손글씨 글꼴 포함).
+- **폰** — 필기 노트를 단 하나씩 세로로 보여요(글자가 커져 읽기 쉬워요). 쪽 위에서 바로 쓰기도 돼요.
+- 고침: 목록 아래 빈 줄 뒤에 들여 쓴 글이 코드 상자로 보이던 것 — 그 항목의 문단으로 보여요. 편집 보기 실시간 렌더링이 `$`만 있는 줄로 감싼 수식 · `:::wide`를 한 덩어리로 그려요.
+<!-- INMENTE_RELEASE:1.7.0:END -->
+
 <!-- INMENTE_RELEASE:1.6.4:START -->
 ### inMente 1.6.4
 
