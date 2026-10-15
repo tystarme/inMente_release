@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.8.0
+## 최신 버전 · 1.9.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.8.0/inMente-Setup-1.8.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.8.0/inMente-1.8.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.9.0/inMente-Setup-1.9.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.9.0/inMente-1.9.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.9.0:START -->
+### inMente 1.9.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.9.0/inMente-Setup-1.9.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.9.0/inMente-1.9.0.apk)
+
+- **새 기능: 한 필기 노트에 PDF 여럿** — 필기 노트를 연 채로 라이브러리 PDF를 오른쪽 단추로 눌러 [지금 연 필기 노트에 더하기]. 노트 위 PDF 띠에서 볼 PDF를 고르고, PDF마다 [잇기 끊기]가 따로예요. 노트를 열면 마지막에 본 PDF가 옆에 열려요.
+- **한 PDF에 필기 노트 여럿** — 같은 강의 자료로 필기 노트를 몇 개든 만들 수 있어요. PDF 메뉴에 [필기 노트 열기: 이름]이 노트마다 나와요.
+- **PDF 화면에서 바로** — 라이브러리에서 PDF를 고르면 보이는 화면에 [필기 노트 만들기] · [필기 노트 열기]가 있어요(전에는 오른쪽 단추 메뉴에만 있었어요).
+- 필기 노트에 넣는 인용 · 영역 그림의 쪽 링크에 PDF 이름이 붙고(`3주차 p. 12`), 누르면 그 PDF의 그 쪽으로 가요. PDF를 끊었다 다시 이으면 예전 쪽 링크도 다시 맞아요.
+- 라이브러리 별명을 바꾸면 필기 노트에 이은 PDF 위치도 함께 바뀌어요. 1.8.0에서 이은 필기 노트도 그대로 쓸 수 있어요.
+<!-- INMENTE_RELEASE:1.9.0:END -->
+
 <!-- INMENTE_RELEASE:1.8.0:START -->
 ### inMente 1.8.0
 
