@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.7.0
+## 최신 버전 · 1.8.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.7.0/inMente-Setup-1.7.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.7.0/inMente-1.7.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.8.0/inMente-Setup-1.8.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.8.0/inMente-1.8.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.8.0:START -->
+### inMente 1.8.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.8.0/inMente-Setup-1.8.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.8.0/inMente-1.8.0.apk)
+
+- **새 기능: 필기 노트 ↔ PDF** — 라이브러리에서 PDF를 오른쪽 단추로 눌러 [필기 노트 만들기]로 그 PDF와 이은 필기 노트를 만들어요. 이미 메모가 있는 PDF에도 따로 이을 수 있어요([메모 열기] · [필기 노트 열기]가 따로). 열어 둔 필기 노트는 PDF 메뉴의 [지금 연 필기 노트에 잇기]로 잇고, 노트 위 PDF 띠의 [잇기 끊기]로 끊어요(PDF 파일과 노트 내용은 그대로).
+- 필기 노트를 열면 이은 PDF가 옆에 같이 열려요(PC — 파일탐색기 설정에서 끌 수 있어요).
+- PDF에서 Alt+끌기로 고른 영역은 필기 노트에 단 폭 그림 + 쪽 링크로, 고른 글은 인용 + 쪽 링크로 들어가요 — 고치던 블록 한가운데가 아니라 그 뒤에 따로. PDF에는 형광펜이 칠해져요.
+- 필기 노트의 쪽 링크(p. 12)를 누르면 옆 PDF가 그 쪽으로 가요.
+<!-- INMENTE_RELEASE:1.8.0:END -->
+
 <!-- INMENTE_RELEASE:1.7.0:START -->
 ### inMente 1.7.0
 
