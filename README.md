@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.11.0
+## 최신 버전 · 1.12.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.11.0/inMente-Setup-1.11.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.11.0/inMente-1.11.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.0/inMente-Setup-1.12.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.0/inMente-1.12.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.12.0:START -->
+### inMente 1.12.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.0/inMente-Setup-1.12.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.0/inMente-1.12.0.apk)
+
+- **새 기능: 홈** — 왼쪽 메뉴 맨 위에 [홈]이 생겼어요. 처음에 [홈 노트 만들기]를 누르면 vault 맨 위에 `홈.md`가 생기고, 그 노트를 홈에서 바로 읽고 고쳐요. 자주 보는 링크는 그 노트에 표로 적으면 돼요.
+- **바로가기 카드** — 홈 맨 위에 노트 · 폴더 · 페이지 바로가기를 카드로 놓아요. [+ 바로가기]로 찾아서 더하고, 카드의 ×로 빼요. 목록은 홈 노트에 적혀 다른 기기에도 따라가요.
+- **할 일 보드 · 달력** — 홈 오른쪽에 할 일이 [보드](지난 못한 일 · 오늘 · 다가오는 7일)나 [달력]으로 보여요. 체크하면 바로 끝낸 것으로 적혀요. 더하기 · 고치기는 [일정에서 더하기]로 일정 페이지에서 해요.
+- **폰에서 할 일 더할 때 입력 칸이 화면 밖으로 넓어지던 것 고침** — 큰 글자를 쓰는 폰에서 하루 카드의 [+] 입력 칸과 [새 카테고리] 이름 칸이 화면 밖으로 밀려 닫기 단추가 안 보였어요.
+<!-- INMENTE_RELEASE:1.12.0:END -->
+
 <!-- INMENTE_RELEASE:1.11.0:START -->
 ### inMente 1.11.0
 
