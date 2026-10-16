@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.9.0
+## 최신 버전 · 1.10.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.9.0/inMente-Setup-1.9.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.9.0/inMente-1.9.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.10.0/inMente-Setup-1.10.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.10.0/inMente-1.10.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.10.0:START -->
+### inMente 1.10.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.10.0/inMente-Setup-1.10.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.10.0/inMente-1.10.0.apk)
+
+- **새 기능: 필기 노트 쪽 크기** — 필기 노트 위의 [쪽 100%] 단추(예전 '가 100%' 자리)나 Ctrl + / Ctrl − / Ctrl 0, Ctrl + 휠로 쪽을 50~300%로 키우고 줄여요. 화면보다 커지면 옆으로 밀어서 봐요. 글 노트의 글자 크기와는 따로 기억해요.
+- **앱을 켤 때 동기화가 안 돌던 것 고침** — 서버가 답하지 않는 요청을 30초 뒤에 끊어요(전에는 하나가 멈추면 그 뒤 자동 동기화가 모두 막혔어요). 설정을 다 읽기 전에 시작한 동기화 때문에 다음 동기화가 빠지던 것도 고쳤어요.
+- **실패하면 곧 다시** — 인터넷이 아직 안 잡혔을 때처럼 실패하면 5초 · 15초 · 30초 뒤에 다시 맞춰요. 창으로 돌아오면 10초만 지나도 맞춰요(전에는 2분).
+- **로그인이 풀려 있으면 알려 줘요** — 전에는 아무 표시 없이 건너뛰었어요. 설정 → 동기화의 결과 줄에 까닭이 나와요.
+- **더 빨라짐** — 바뀌지 않은 파일은 다시 읽지 않고, 노트와 할 일을 함께 맞추고, 파일 읽기가 화면을 붙잡지 않아요. 한쪽이 실패해도 다른 쪽은 끝까지 맞추고, 결과 줄에 어느 쪽이 실패했는지 적어요.
+<!-- INMENTE_RELEASE:1.10.0:END -->
+
 <!-- INMENTE_RELEASE:1.9.0:START -->
 ### inMente 1.9.0
 
