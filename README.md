@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.10.0
+## 최신 버전 · 1.11.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.10.0/inMente-Setup-1.10.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.10.0/inMente-1.10.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.11.0/inMente-Setup-1.11.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.11.0/inMente-1.11.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.11.0:START -->
+### inMente 1.11.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.11.0/inMente-Setup-1.11.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.11.0/inMente-1.11.0.apk)
+
+- **새 기능: [[ 치면 노트 고르기** — 노트를 쓰다가 `[[`를 치면 노트 목록이 떠요. 이어서 치는 글로 거르고, 고르면 `[[노트 이름]]`이 들어가요. 같은 이름이 여럿이면 폴더까지 넣어요.
+- **이 노트를 가리키는 노트** — 다른 노트가 [[링크]]로 이 노트를 가리키면 노트 위에 '이 노트를 가리키는 노트 N개'가 나와요. 눌러 펼치고 이름을 누르면 그 노트로 가요.
+- **이름을 바꾸면 링크도 따라 고쳐요** — 이름 바꾸기 · 다른 폴더로 옮기기 창에 고칠 노트가 먼저 보이고, [이 노트를 가리키는 [[링크]]도 고치기]가 켜져 있으면 그 노트들의 링크를 새 이름으로 고쳐요. 고치기 전 모습은 앱에 따로 남겨 둬요.
+- **다른 노트 끼워 보기** — 한 줄에 `![[노트 이름]]`만 쓰면 읽기 화면에 그 노트 내용이 상자로 보여요. 상자 제목을 누르면 그 노트가 열려요.
+- **폴더 [타일 | 자세히 | 보드]** — 폴더를 고르면 보이는 화면에서 바꿔요. [자세히]는 표(이름 · 종류 · 만든 날 · 고친 날 · 상태 · 태그 — 칸 이름을 누르면 정렬), [보드]는 상태마다 칸으로 나눠 보여요. 상태 · 태그는 칸에서 바로 고치고, 보드에서는 카드를 다른 칸으로 끌어 옮겨요. 논문 · 자료 메모의 상태는 읽기 상태예요.
+<!-- INMENTE_RELEASE:1.11.0:END -->
+
 <!-- INMENTE_RELEASE:1.10.0:START -->
 ### inMente 1.10.0
 
