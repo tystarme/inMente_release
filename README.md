@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.12.0
+## 최신 버전 · 1.12.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.0/inMente-Setup-1.12.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.0/inMente-1.12.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.1/inMente-Setup-1.12.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.1/inMente-1.12.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.12.1:START -->
+### inMente 1.12.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.1/inMente-Setup-1.12.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.1/inMente-1.12.1.apk)
+
+- **홈 할 일이 inMente 모양으로** — 일정 페이지와 같은 둥근 체크 · 하루 카드(오늘 칸 강조) · 카테고리 점으로 바뀌었어요. 할 일 칸은 20% 넓어졌고, 홈 노트 · 바로가기 카드도 같은 둥근 면 모양이에요.
+- **파일탐색기 나무 정렬** — 왼쪽 단추 줄 끝의 ⇅로 이름(가 → 하 · 하 → 가) · 고친 날 · 만든 날(새것 · 옛것 먼저)을 골라요. 폴더는 늘 위에 있고, 고른 것은 기억해요.
+- **이름을 바꾸면 문서 안 제목도 따라와요** — 노트 첫 줄 `# 이름` · 필기 노트 `# < 이름 >` · 맨 위 정보 title이 옛 이름과 같으면 새 이름으로 바뀌어요(손으로 다르게 적은 제목은 그대로).
+- **필기 노트의 PDF 고르기 목록이 이름 차례로** — Lecture 1 · 2 · 3 … 처럼 숫자는 숫자 차례로 나와요.
+- **라이브러리의 [이 폴더 한 번에 서지 가져오기]를 뺐어요** — 라이브러리 폴더를 누를 때마다 아래 PDF를 모두 세어 느렸어요. 그 셈과 미분류 목록도 함께 빠지고, 폴더 칸에는 별명 바꾸기 · 라이브러리에서 빼기 · 메모 자리 정하기만 남아요. 서지는 PDF를 열어 하나씩 가져와요.
+<!-- INMENTE_RELEASE:1.12.1:END -->
+
 <!-- INMENTE_RELEASE:1.12.0:START -->
 ### inMente 1.12.0
 
