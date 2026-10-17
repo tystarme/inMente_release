@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.2.0
+## 최신 버전 · 2.2.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.2.0/inMente-Setup-2.2.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.2.0/inMente-2.2.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.2.2/inMente-Setup-2.2.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.2.2/inMente-2.2.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.2.2:START -->
+### inMente 2.2.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.2.2/inMente-Setup-2.2.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.2.2/inMente-2.2.2.apk)
+
+- **필기 노트 스크롤** — 마지막 쪽 뒤로 빈 화면이 한참 더 스크롤되던 것을 고쳤어요. 편집 · 나란히 · 읽기를 바꿀 때 보던 쪽이 그대로 남아요(나란히에서 엉뚱한 쪽이나 빈 곳으로 튀던 것). (inLoco 6.3.2와 같은 고침)
+- **필기 노트 글머리 줄** — 글머리(•) 줄에서 Enter를 치면 쪽 전체를 다시 그려 느려지던 것, Enter 바로 뒤 빈 항목에서 한글이 점 앞에 들어가 안 쳐지던 것을 고쳤어요. (inLoco 6.3.2와 같은 고침)
+- **폴더 = 페이지** — 폴더 안에 폴더와 같은 이름의 노트가 있으면(노션에서 옮긴 페이지의 본문) 따로 보이지 않고, 폴더를 열면 맨 위에 그 글이 보여요. [✎ 페이지 고치기]로 고쳐요. '아이디어 정리 안에 또 아이디어 정리'처럼 보이던 것을 없앴어요(프로젝트 · 파일탐색기 모두). (2.2.1)
+<!-- INMENTE_RELEASE:2.2.2:END -->
+
 <!-- INMENTE_RELEASE:2.2.0:START -->
 ### inMente 2.2.0
 
