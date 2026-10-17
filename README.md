@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.1.0
+## 최신 버전 · 2.1.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.1.0/inMente-Setup-2.1.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.1.0/inMente-2.1.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.1.1/inMente-Setup-2.1.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.1.1/inMente-2.1.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.1.1:START -->
+### inMente 2.1.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.1.1/inMente-Setup-2.1.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.1.1/inMente-2.1.1.apk)
+
+- **기록 표로 가는 링크** — 페이지 글의 `[[연구일지 (LEA)]]`처럼 기록 표 이름으로 건 링크를 누르면 그 표가 바로 열려요(노션에서 옮긴 표 자리 노트 대신).
+- **프로젝트 부제** — 보이는 이름을 정하지 않은 프로젝트는 대표 노트 맨 위 제목(예: LEA (Lithium-Electrode Assembly))을 페이지 · 갤러리 카드의 부제로 보여요.
+<!-- INMENTE_RELEASE:2.1.1:END -->
+
 <!-- INMENTE_RELEASE:2.1.0:START -->
 ### inMente 2.1.0
 
