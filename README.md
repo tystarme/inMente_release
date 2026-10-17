@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.12.1
+## 최신 버전 · 1.12.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.1/inMente-Setup-1.12.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.1/inMente-1.12.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.2/inMente-Setup-1.12.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.2/inMente-1.12.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:1.12.2:START -->
+### inMente 1.12.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.2/inMente-Setup-1.12.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.2/inMente-1.12.2.apk)
+
+- **처음부터 들여 쓴 목록이 그만큼 깊게 보여요** — 주간 보고처럼 `**summary**` 아래 `  - …`(2칸)로 시작한 목록이 첫 깊이로 그려지던 것을 고쳤어요. 2칸(탭은 한 번)이 한 단계예요.
+- **빈 줄 뒤 들여 쓴 목록도 들여쓰기 그대로** — 전에는 빈 줄 다음에 들여 쓴 목록이 오면 들여쓰기를 지우고 맨 바깥 목록으로 그렸어요. 이제 들여 쓴 만큼 깊게 보여요(읽기 화면 · 주간 보고 · 홈 노트 모두). PDF로 내보내기는 그대로예요.
+<!-- INMENTE_RELEASE:1.12.2:END -->
+
 <!-- INMENTE_RELEASE:1.12.1:START -->
 ### inMente 1.12.1
 
