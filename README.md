@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.2.2
+## 최신 버전 · 2.3.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.2.2/inMente-Setup-2.2.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.2.2/inMente-2.2.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.3.0/inMente-Setup-2.3.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.3.0/inMente-2.3.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.3.0:START -->
+### inMente 2.3.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.3.0/inMente-Setup-2.3.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.3.0/inMente-2.3.0.apk)
+
+- **프로젝트는 이제 페이지만** — [+ 새 폴더]를 없앴어요. 어느 페이지에서든 [+ 하위 페이지]로 그 안에 페이지를 만들어요. 첫 페이지 · 하위 페이지 모두 같은 화면(표지 · 아이콘 · 제목 · 본문 · 하위 페이지 카드)이고, [✎ 페이지 고치기]로 고쳐요. 페이지마다 아이콘 · 표지를 넣을 수 있고 [페이지 지우기]로 휴지통에 옮겨요.
+- **홈도 같은 페이지 모양** — 홈 글이 프로젝트 페이지처럼 보여요(아이콘 · 표지 · [✎ 페이지 고치기]). 홈에서 프로젝트 링크를 누르면 그 글 파일이 아니라 프로젝트의 그 페이지가 열려요.
+- **기록 표는 글 속에 한 번만** — 페이지 아래에 표를 또 늘어놓던 '기록 표' 칸을 없앴어요(같은 표가 두 번 · 다른 차례로 보이던 것). [+ 기록 표]를 누르면 그 페이지 글 끝에 표가 들어가 페이지와 고치기 화면에서 같은 자리에 보여요. 글에 없는 표는 하위 페이지 카드에 📊로 보여요.
+- **실험 기록 연결 표** — 기록 표를 만들 때 [실험 기록 연결]을 고르고 프로젝트를 고르면, 그 프로젝트의 실험 기록(실험 페이지에서 쓰는 것)이 표의 줄로 그대로 보여요. 줄이나 [+ 새 기록]을 누르면 실험 페이지의 그 기록으로 가요.
+- **프로젝트 차례** — 프로젝트 창의 [↑ · ↓]로 차례를 바꿔요. 갤러리와 왼쪽 목록이 그 차례로 보여요.
+- **접는 제목 · 스크롤** — 페이지의 접는 제목이 안 열리던 것, 제목을 접고 펼 때 화면이 튀었다 돌아오던 것, 편집 · 나란히 · 읽기를 바꿀 때 보던 자리를 잃던 것, 편집 보기에서 접힌 제목 아래 그림이 '이미지 없음'으로 나오던 것을 고쳤어요.
+<!-- INMENTE_RELEASE:2.3.0:END -->
+
 <!-- INMENTE_RELEASE:2.2.2:START -->
 ### inMente 2.2.2
 
