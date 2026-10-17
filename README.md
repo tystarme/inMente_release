@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 1.12.2
+## 최신 버전 · 2.0.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v1.12.2/inMente-Setup-1.12.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v1.12.2/inMente-1.12.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.0.0/inMente-Setup-2.0.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.0.0/inMente-2.0.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.0.0:START -->
+### inMente 2.0.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.0.0/inMente-Setup-2.0.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.0.0/inMente-2.0.0.apk)
+
+- **새 페이지 '프로젝트'** — 연구 주제마다 대표 노트 · 문서 · 기록 표를 한곳에 모아 봐요. 왼쪽 메뉴의 🧭 프로젝트에서 프로젝트를 고르면 그 대표 노트가 열리고, 대표 노트는 그림 · 표 · 링크로 마음대로 꾸밀 수 있어요.
+- **프로젝트 더하기 · 관리** — [새 프로젝트]로 이름과 색을 정해 언제든 더하고, [관리]에서 색 · 이름 바꾸기 · 지우기를 해요. 이름을 바꾸면 그 프로젝트의 문서 폴더도 함께 옮겨져요. 실험 기록의 프로젝트와 같은 목록이에요.
+- **기록 표(연구일지)** — 노션의 데이터베이스처럼 표로 보고, 줄을 누르면 그 기록 한 장이 열려요(제목 · 날짜 · 끝 날 · 태그 · 본문, 저절로 저장). 날짜 · 이름 · 태그로 정렬하고 태그로 거를 수 있어요. 저장은 달마다 한 파일(`2026-10.md`)에 기록을 차례로 적고, 기록과 기록 사이는 `## ^이름표 날짜 · 제목` 줄로 갈라요 — 본문에 구분선(`---`)을 써도 섞이지 않아요.
+- **기록 지우기는 되돌릴 수 있게** — 지운 기록은 그 기록 표 폴더의 `지운 기록.md`에 원문째 남아요. 표를 지우면 폴더째 휴지통으로 가요.
+- **홈 바로가기에 프로젝트** — 홈의 바로가기 카드로 프로젝트를 바로 열 수 있어요.
+- **폰 화면** — 폰에서 글자를 크게 해 두면 아래 메뉴 줄 때문에 화면이 오른쪽으로 밀려 잘리던 것을 고쳤어요.
+<!-- INMENTE_RELEASE:2.0.0:END -->
+
 <!-- INMENTE_RELEASE:1.12.2:START -->
 ### inMente 1.12.2
 
