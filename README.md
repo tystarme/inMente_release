@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.0.0
+## 최신 버전 · 2.1.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.0.0/inMente-Setup-2.0.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.0.0/inMente-2.0.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.1.0/inMente-Setup-2.1.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.1.0/inMente-2.1.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.1.0:START -->
+### inMente 2.1.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.1.0/inMente-Setup-2.1.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.1.0/inMente-2.1.0.apk)
+
+- **프로젝트 갤러리** — 프로젝트 페이지를 열면 가운데에 프로젝트 카드가 깔려요(표지 · 아이콘 · 이름 · 문서 · 기록 표 · 실험 수). 카드를 누르면 그 프로젝트로, 마지막 카드로 새 프로젝트를 더해요.
+- **노션 같은 프로젝트 페이지** — 맨 위에 표지 · 아이콘 · 이름, 그 아래 대표 노트 내용이 읽기 모양으로 보이고, 하위 페이지 · 폴더가 카드로, 기록 표는 최근 기록 다섯 줄이 바로 보여요([+ 새 기록] · [모두 보기]). 맨 아래에는 그 프로젝트의 최근 실험 기록.
+- **페이지 꾸미기** — 아이콘을 눌러 바꾸고, [표지 넣기]로 그림을 표지로 써요(빼기도 돼요). [페이지 고치기]로 대표 노트를 고쳐요.
+- **폴더도 페이지처럼** — 폴더 카드를 누르면 그 폴더 페이지(안의 페이지 카드 · 기록 표). [+ 새 페이지] · [+ 새 폴더] · [+ 새 기록 표]는 지금 보는 페이지 안에 만들고, [폴더 지우기]는 확인 뒤 휴지통으로.
+- **왼쪽 칸은 좁게 · 접기** — 모든 프로젝트로 가기 · 프로젝트 바꾸기 · 페이지 나무만 남겼고, ‹ 단추로 접어 가운데를 넓게 쓸 수 있어요. 폰은 왼쪽 칸 없이 페이지만.
+- **고침** — 홈 화면 시험 하나가 가끔 실패하던 것.
+<!-- INMENTE_RELEASE:2.1.0:END -->
+
 <!-- INMENTE_RELEASE:2.0.0:START -->
 ### inMente 2.0.0
 
