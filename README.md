@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.3.0
+## 최신 버전 · 2.3.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.3.0/inMente-Setup-2.3.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.3.0/inMente-2.3.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.3.1/inMente-Setup-2.3.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.3.1/inMente-2.3.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.3.1:START -->
+### inMente 2.3.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.3.1/inMente-Setup-2.3.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.3.1/inMente-2.3.1.apk)
+
+- **폰 위젯 [↻]가 앱을 띄우지 않아요** — 위젯의 [↻]를 누르면 앱 화면이 잠깐 열렸다 닫히던 것을 없앴어요. 앱이 뒤에 떠 있으면 그 앱이, 꺼져 있으면 보이지 않는 곳에서 할 일만 서버와 맞추고 위젯을 새로 그려요(앱과 같은 동기화 코드). 맞추지 못하면 위젯에 까닭을 잠깐 보여요(인터넷 · 로그인 등).
+- **편집기 스크롤바 끌기** — 긴 노트에서 스크롤바를 잡고 끌면 문서가 마우스를 못 따라가던(끝까지 내려도 중간쯤에 머물던) 것을 고쳤어요. 화면 밖 내용의 높이를 미리 맞게 재 두고, 막대를 끄는 동안 마우스 움직임을 놓치지 않아요(편집 · 나란히 보기 모두). (inLoco 6.3.4와 같은 고침)
+<!-- INMENTE_RELEASE:2.3.1:END -->
+
 <!-- INMENTE_RELEASE:2.3.0:START -->
 ### inMente 2.3.0
 
