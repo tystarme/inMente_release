@@ -2,14 +2,30 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.1.1
+## 최신 버전 · 2.2.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.1.1/inMente-Setup-2.1.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.1.1/inMente-2.1.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.2.0/inMente-Setup-2.2.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.2.0/inMente-2.2.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.2.0:START -->
+### inMente 2.2.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.2.0/inMente-Setup-2.2.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.2.0/inMente-2.2.0.apk)
+
+- **표 페이지와 {{표}}** — 기록 표마다 표와 같은 이름의 '표 페이지'가 있어요. `[[표 이름]]`은 그 표 페이지로 가는 링크(누르면 표가 열려요), `{{표 이름}}`은 줄에 그것만 쓰면 그 자리에 표를 그려요(최근 기록 · [+ 새 기록] · [모두 보기] — 노션 페이지 안 표처럼). `{{`를 치면 표 목록이 떠요. 새로 만든 표도 표 페이지가 함께 생겨요.
+- **파일탐색기에서도 기록 표** — 나무에 '📊 표 이름' 한 줄로 보이고(달 파일은 숨김), 누르면 표 화면 · 기록 하나가 열려요. 표 페이지에 적은 글은 표 위에 설명으로 보이고 [✎ 표 설명 고치기]로 고쳐요.
+- **뒤로 가기는 늘 바로 앞 화면으로** — 프로젝트의 표 → 기록에 들어갔다가 마우스 뒤로 가기(폰은 뒤로 가기)를 누르면 표로, 한 번 더 누르면 그 앞 화면으로 가요. 다른 페이지에 다녀와도 보던 화면으로 돌아와요. 앞으로 가기도 같아요.
+- **프로젝트 이름 고치기** — 프로젝트 페이지 제목 옆 [✎ 이름]에서 **짧은 이름**(크게 보이는 이름 · 예: LEA)과 **본 제목**(그 아래 작게 보이는 원래 긴 제목)을 둘 다 고쳐요. 짧은 이름을 바꾸면 무엇이 함께 바뀌는지 먼저 보여 주고, 바꿔도 본 제목은 그대로 남아요. 프로젝트를 고르는 칸에는 짧은 이름이 먼저 보여요.
+- **메뉴 순서 바꾸기** — 설정 → 화면 → 메뉴 순서에서 위 · 아래로 옮겨요. 기본은 홈 · 일정 · 주간 보고 · 프로젝트 · 실험 · 행정 · 파일탐색기예요.
+- **폰 홈 화면** — 아래로 스크롤이 안 돼 달력 · 홈 노트가 잘리던 것을 고쳤고, 바로가기는 작은 한 줄 칸으로 줄였어요.
+- **동기화** — '한꺼번에 많이 지움'으로 노트 동기화가 멈춘 동안 할 일 동기화까지 저절로 멈추던 것을 고쳤어요. 이제 멈춘 쪽만 확인을 기다리고 다른 쪽은 계속 맞춰요.
+- **프로젝트 창** — 프로젝트 페이지의 [관리]가 따로 뜨는 창으로 열려요.
+<!-- INMENTE_RELEASE:2.2.0:END -->
+
 <!-- INMENTE_RELEASE:2.1.1:START -->
 ### inMente 2.1.1
 
