@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.4.1
+## 최신 버전 · 2.4.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.1/inMente-Setup-2.4.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.1/inMente-2.4.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.2/inMente-Setup-2.4.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.2/inMente-2.4.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.4.2:START -->
+### inMente 2.4.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.2/inMente-Setup-2.4.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.2/inMente-2.4.2.apk)
+
+- **필기 노트에서 찾기 칠하기** — 필기 노트 쪽 화면에는 찾은 곳이 칠해지지 않던(찾은 수만 나오던) 것을 고쳤어요. `[^`처럼 각주를 찾으면 쪽의 각주 숫자를 칠해요(`[^3]`처럼 번호까지 쓰면 그 각주만). 일반 노트 읽기 화면에서도 같아요.
+- **다음 찾기로 이동** — 필기 노트에서 다음 찾기를 눌러도 쪽이 그 자리로 가지 않거나 엉뚱한 곳으로 가던 것을 고쳤어요(편집 · 나란히 · 읽기 모두).
+- **지금 찾은 곳 표시** — 나란히 보기에서 편집 쪽의 지금 찾은 곳이 읽기 쪽에서도 주황색으로 보여요. 원문에는 있어도 화면에 안 보이는 글(링크 주소 · 감춘 기호 · 접힌 곳)이 있어 두 쪽의 찾은 수가 다를 수 있어요.
+<!-- INMENTE_RELEASE:2.4.2:END -->
+
 <!-- INMENTE_RELEASE:2.4.1:START -->
 ### inMente 2.4.1
 
