@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.3.2
+## 최신 버전 · 2.4.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.3.2/inMente-Setup-2.3.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.3.2/inMente-2.3.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.0/inMente-Setup-2.4.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.0/inMente-2.4.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.4.0:START -->
+### inMente 2.4.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.0/inMente-Setup-2.4.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.0/inMente-2.4.0.apk)
+
+- **테마** — 설정 → 화면 → 테마에서 밝기(밝게 · 어둡게 · 기기 따라) · 바탕색 · 강조색을 골라요. 바탕은 고른 것(흰색 · 따뜻한 회색 · 종이 · 하늘 · 민트 / 숯 · 검정 · 남색)이나 직접 고른 색, 강조색도 직접 고를 수 있어요. 기본 바탕은 이제 흰색이에요.
+- **노트에서 앱 화면으로 가는 링크** — `[[@주간 보고]]` · `[[@일정]]`처럼 @ 뒤에 화면 이름을 쓰면 그 화면으로 가요. `[[`를 치면 맨 앞에 앱 화면들이 보여요.
+- **[[삼성전기]]처럼 이름만 써도 프로젝트로** — 앱이 만드는 목표 파일(일정 → 목표)과 프로젝트 대표 노트의 이름이 겹쳐 경로를 다 적어야 했던 것을 고쳤어요. 이름만 쓰면 프로젝트 대표 노트로 가요.
+- **필기 노트 글머리에서 한글이 안 보이던 것** — 글머리(•) 바로 뒤 빈 항목에서 한글을 치면 조합 중인 글자가 보이지 않던(투명해지던) 것을 고쳤어요.
+- **표 이름** — 표 설명 노트 맨 위 정보 칸의 제목(title)을 고치면 표 이름도 바뀌어요.
+- **지운 폴더가 다시 생기던 것** — 노트를 다른 폴더로 옮긴 뒤 옛 폴더를 지워도, 그림 동기화가 서버에 남은 옛 자리 사본을 옛 폴더로 다시 받아 와 폴더가 되살아났어요. 이제 노트 옆 제자리 그림만 받아요. 이미 받아 온 떠돌이 사본은 설정 → 안 쓰는 그림 [찾기]에 보여요.
+<!-- INMENTE_RELEASE:2.4.0:END -->
+
 <!-- INMENTE_RELEASE:2.3.2:START -->
 ### inMente 2.3.2
 
