@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.4.2
+## 최신 버전 · 2.4.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.2/inMente-Setup-2.4.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.2/inMente-2.4.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-Setup-2.4.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-2.4.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.4.3:START -->
+### inMente 2.4.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-Setup-2.4.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-2.4.3.apk)
+
+- **필기 노트 편집 보기에서 다음 찾기 이동** — 쪽 위에서 글 덩어리를 열어 둔 채 다음 찾기를 누르면, 쪽이 찾은 곳으로 갔다가 열어 둔 덩어리 쪽으로 되돌아가곤 하던 것을 고쳤어요. 이제 늘 찾은 곳으로 가요.
+<!-- INMENTE_RELEASE:2.4.3:END -->
+
 <!-- INMENTE_RELEASE:2.4.2:START -->
 ### inMente 2.4.2
 
