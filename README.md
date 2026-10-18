@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.4.0
+## 최신 버전 · 2.4.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.0/inMente-Setup-2.4.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.0/inMente-2.4.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.1/inMente-Setup-2.4.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.1/inMente-2.4.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.4.1:START -->
+### inMente 2.4.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.1/inMente-Setup-2.4.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.1/inMente-2.4.1.apk)
+
+- **필기 노트 — 여러 덩어리에 걸쳐 고르기** — 글머리 항목 여러 개나 문단 여러 개에 걸쳐 끌어 고르면 중간에 끊기던 것을 고쳤어요. 끌다가 지금 고치는 덩어리 밖으로 나가면 같은 단의 다음 덩어리까지 묶어서 열려 고른 곳이 이어져요. Shift+↑↓ · Shift+Ctrl+Home/End로도 돼요. 단 · 쪽이 바뀌는 곳과 수식 · 표 · 그림 상자 앞에서는 멈춰요. (inLoco 6.3.5와 같은 고침)
+<!-- INMENTE_RELEASE:2.4.1:END -->
+
 <!-- INMENTE_RELEASE:2.4.0:START -->
 ### inMente 2.4.0
 
