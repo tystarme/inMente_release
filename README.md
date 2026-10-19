@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.5.0
+## 최신 버전 · 2.5.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.5.0/inMente-Setup-2.5.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.5.0/inMente-2.5.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.5.1/inMente-Setup-2.5.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.5.1/inMente-2.5.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.5.1:START -->
+### inMente 2.5.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.5.1/inMente-Setup-2.5.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.5.1/inMente-2.5.1.apk)
+
+- **동기화가 끝나지 않던 것** — PC와 폰에서 폴더 이름의 대소문자만 다르면(예: `Lecture notes` · `lecture notes`), 두 기기가 맞출 때마다 서로 상대 이름의 파일을 지우고 제 이름으로 다시 올리며 같은 파일을 휴지통에 쌓았어요. 그림도 맞출 때마다 같은 것을 다시 받았어요("맞추는 중…"이 한참 걸리던 까닭). 이제 대소문자만 다른 이름은 한 파일로 맞추고, 서버에 남은 다른 이름은 정리해요(내용이 다르면 충돌 사본으로 남긴 뒤). 이 기기 파일은 버리지 않아요.
+- **대소문자 충돌 알림** — 위 경우에 뜨던 "대소문자만 다른 이름이 둘 있어요" 알림이 더는 뜨지 않아요. 한 기기 안에 대소문자만 다른 파일이 정말 둘 있을 때만 알려요.
+- **PC와 폰을 모두 2.5.1로 올려 주세요.** 한쪽만 올려도 되풀이는 멈추지만, 둘 다 올려야 서버 정리까지 끝나요.
+<!-- INMENTE_RELEASE:2.5.1:END -->
+
 <!-- INMENTE_RELEASE:2.5.0:START -->
 ### inMente 2.5.0
 
