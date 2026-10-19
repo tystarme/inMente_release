@@ -2,14 +2,29 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.4.3
+## 최신 버전 · 2.5.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-Setup-2.4.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-2.4.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.5.0/inMente-Setup-2.5.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.5.0/inMente-2.5.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.5.0:START -->
+### inMente 2.5.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.5.0/inMente-Setup-2.5.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.5.0/inMente-2.5.0.apk)
+
+- **인용 · 콜아웃 안에서도 접기** — `> - {toggle:close} 제목`처럼 인용 · 콜아웃 안에 둔 접기가 이제 접히고, 단추로 열고 닫을 수 있어요(노션에서 가져온 콜아웃 안 토글).
+- **편집 보기에서 원문으로 바뀌는 범위** — 번호 목록 항목마다 콜아웃이 붙은 곳에서, 한 곳만 고치려 해도 절 전체가 원문으로 바뀌던 것을 고쳤어요. 이제 커서를 둔 항목이나 콜아웃만 원문으로 보여요.
+- **필기 노트** — 쪽 화면의 접기 단추를 누르면 열고 닫혀요(전에는 눌러도 그대로였어요). 인용 · 콜아웃은 쪽 위에서 바로 고치지 않고 아래 상자에서 고쳐요(고칠 때 쪽이 저절로 다시 흐르던 것).
+- **폰에서 괜히 묻던 할 일 합치기** — 위젯 [↻]로 할 일을 맞춘 뒤 PC에서 할 일을 체크하면, 폰 앱을 열었을 때 "양쪽이 다름 · 미완료 → 완료"처럼 합칠지 물었어요. 폰에서는 고친 게 없는데도요. 이제 그런 경우에는 묻지 않고 서버 쪽을 그대로 받아요.
+- **`<->`가 `<→`로 보이던 것** — 실험 기록의 표 칸 등에 `<->`를 적으면 글꼴이 `->`만 화살표로 이어 그려 `<→`처럼 보였어요. 적은 글은 그대로였어요. 이제 앱 어디서나 적은 그대로 보여요(읽기 화면은 ↔로 그려요).
+- **샘플 고르기에서 이미 쓴 샘플 구분** — 실험 기록에서 [샘플 더하기]를 누르면, 다른 기록이 이미 쓴 샘플은 샘플 탭의 '사용 완료'와 같은 색 점으로, 안 쓴 샘플은 '보관' 색 점으로 보여요.
+- **프로젝트 화면 알림이 저절로 사라져요** — "페이지를 vault 휴지통으로 옮겼어요" 같은 알림이 [닫기]를 누르기 전까지 남아 있던 것을 다른 화면처럼 잠시 뒤 걷히게 했어요(마우스를 올려 두면 기다려요).
+<!-- INMENTE_RELEASE:2.5.0:END -->
+
 <!-- INMENTE_RELEASE:2.4.3:START -->
 ### inMente 2.4.3
 
