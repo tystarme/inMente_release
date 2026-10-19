@@ -16,7 +16,8 @@
 - [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-Setup-2.4.3.exe)
 - [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.4.3/inMente-2.4.3.apk)
 
-- **필기 노트 편집 보기에서 다음 찾기 이동** — 쪽 위에서 글 덩어리를 열어 둔 채 다음 찾기를 누르면, 쪽이 찾은 곳으로 갔다가 열어 둔 덩어리 쪽으로 되돌아가곤 하던 것을 고쳤어요. 이제 늘 찾은 곳으로 가요.
+- **편집 칸에서 다음 찾기 이동** — 나란히 보기 · 편집 보기의 편집 칸에서 다음 찾기를 누르면 어떤 곳은 그 자리로 가고 어떤 곳은 맨 위나 엉뚱한 곳으로 가던 것을 고쳤어요. 긴 노트일수록 심했어요. 이제 찾은 곳이 늘 편집 칸 위쪽 40% 높이에 와요.
+- **필기 노트 편집 보기** — 쪽 위에서 글 덩어리를 열어 둔 채 다음 찾기를 누르면 열어 둔 덩어리 쪽으로 되돌아가던 것도 고쳤어요.
 <!-- INMENTE_RELEASE:2.4.3:END -->
 
 <!-- INMENTE_RELEASE:2.4.2:START -->
