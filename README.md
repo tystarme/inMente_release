@@ -2,14 +2,29 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.5.1
+## 최신 버전 · 2.6.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.5.1/inMente-Setup-2.5.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.5.1/inMente-2.5.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.6.0/inMente-Setup-2.6.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.6.0/inMente-2.6.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.6.0:START -->
+### inMente 2.6.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.6.0/inMente-Setup-2.6.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.6.0/inMente-2.6.0.apk)
+
+- **PDF에 도형 그리기** — PDF 보기에서 Ctrl+끌기로 사각형 · 둥근 사각형 · 타원 · 원 · 자유 도형을 그려요(테두리만). 놓으면 그 자리에서 PDF 파일에 적혀 다른 PDF 앱에서도 보여요. 도형 종류와 색(빨강 · 파랑 · 초록 · 주황 · 보라)은 PDF 도구 막대에서 고르고 기억해요. 지울 때는 도형 위에서 우클릭 → [도형 지우기].
+- **필기 노트 — 글머리 항목에서 한글이 안 보이던 것** — 항목 글 맨 앞(점 바로 뒤)에서 한글을 칠 때 조합 중인 글자가 보이지 않던 것을 고쳤어요.
+- **탭을 오갈 때 보던 자리 그대로** — 필기 노트(읽기 · 나란히 · 편집)와 노트 편집 보기에서 다른 탭에 갔다 오면 맨 위로 돌아가던 것을 고쳤어요. 고치지 않고 읽기만 한 노트도 그 자리로 돌아와요.
+- **탭 줄 오른쪽 끝의 스크롤바** — 노트 탭 줄 오른쪽 끝에 쓸데없는 세로 스크롤바가 보이던 것을 없앴어요.
+- **필기 노트 수식 크기(inLoco 6.4.2)** — 블록 수식(`$$…$$`)은 1.2배로 크게, 단보다 길면 본문 크기까지 줄이고 그래도 넘치면 다음 줄로(쪽에 가로 스크롤 막대 없음) · 글 속 수식은 본문 글자와 같은 크기로.
+- **필기 노트 편집(inLoco 6.4.1)** — 빈 줄에서 Enter를 치면 빈 줄 한 칸이 남아요 · 쪽 끝에서 → · ↓가 나누기 줄로 가지 않고 다음 쪽 글로 · 줄 끝 오른쪽 · 블록 사이 빈 곳을 누르면 그 줄에 커서가 가요(단 끝에 새 줄이 생기지 않게).
+- **지운 그림이 다시 생기던 것** — 노트 본문을 바꾸고 옛 그림을 지워도, 휴지통에 들어 있는 옛 노트가 그 그림을 쓴다고 보고 동기화가 서버에서 다시 받아 왔어요. 이제 휴지통 · 숨긴 폴더의 노트는 그림을 쓰는 노트로 세지 않아요(안 쓰는 그림 찾기에도 나와요 · 휴지통의 노트를 되살리면 그 그림은 다음 동기화에 다시 받아요).
+<!-- INMENTE_RELEASE:2.6.0:END -->
+
 <!-- INMENTE_RELEASE:2.5.1:START -->
 ### inMente 2.5.1
 
