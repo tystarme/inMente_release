@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.6.0
+## 최신 버전 · 2.6.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.6.0/inMente-Setup-2.6.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.6.0/inMente-2.6.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.6.1/inMente-Setup-2.6.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.6.1/inMente-2.6.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.6.1:START -->
+### inMente 2.6.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.6.1/inMente-Setup-2.6.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.6.1/inMente-2.6.1.apk)
+
+- **탭을 오갈 때 새로 불러오지 않아요** — 전에는 탭을 바꿀 때마다 노트를 처음부터 다시 읽고 그려서(필기 노트는 쪽 나누기까지) 긴 노트는 늦게 뜨고 보던 자리를 잃었어요. 이제 최근에 본 탭 5개는 그린 채 숨겨 두었다가 그대로 보여 줘요 — 탭 전환이 바로 되고, 굴린 자리 · 고른 곳 · 보기(읽기 · 나란히 · 편집)도 그대로예요. 오래 안 본 탭은 메모리를 아끼려고 지금처럼 다시 불러와요. 숨겨 둔 사이 다른 곳에서 파일이 바뀌었으면 돌아올 때 새 내용으로 바꿔요(저장 안 한 편집이 있으면 알리기만 해요).
+<!-- INMENTE_RELEASE:2.6.1:END -->
+
 <!-- INMENTE_RELEASE:2.6.0:START -->
 ### inMente 2.6.0
 
