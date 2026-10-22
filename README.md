@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.7.0
+## 최신 버전 · 2.7.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.7.0/inMente-Setup-2.7.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.7.0/inMente-2.7.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.7.1/inMente-Setup-2.7.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.7.1/inMente-2.7.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.7.1:START -->
+### inMente 2.7.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.7.1/inMente-Setup-2.7.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.7.1/inMente-2.7.1.apk)
+
+- **주간 보고 AI 초안 — 기간 밖에서도 고르기** — 목록 아래 [기간 밖에서 더하기]에 노트 · 실험 기록 이름을 치면, 보고 기간이 아닌 것도 찾아서 AI에게 보낼 것에 더해요.
+- **한꺼번에 바뀐 노트는 빼 두기** — 노션에서 옮겨 오거나 동기화로 같은 시간에 수십 개가 함께 바뀐 노트는 '고친 노트'로 세지 않고, 빼 둔 채 접어 보여 줘요(필요하면 펼쳐 골라요). 날짜는 기간 밖인데 고친 때만 기간 안인 실험 기록도 빼 둔 채로 까닭과 함께 보여요.
+<!-- INMENTE_RELEASE:2.7.1:END -->
+
 <!-- INMENTE_RELEASE:2.7.0:START -->
 ### inMente 2.7.0
 
