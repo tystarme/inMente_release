@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.10.0
+## 최신 버전 · 2.10.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.0/inMente-Setup-2.10.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.0/inMente-2.10.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.1/inMente-Setup-2.10.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.1/inMente-2.10.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.10.1:START -->
+### inMente 2.10.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.1/inMente-Setup-2.10.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.1/inMente-2.10.1.apk)
+
+- **주간 보고 AI 초안 — 기간 밖 기록이 다 뜨던 것 고침** — 2.10.0에서 기록 표의 달 파일이 이번 보고 기간에 처음 동기화 서버에 올라갔으면(노션에서 옮겨 온 것 등), 그 안의 옛 기록까지 모두 "새로 생김"으로 떴어요. 이제 날짜가 기간 밖인 기록은 이런 이유로는 뜨지 않고, 날짜가 기간 안인 기록만 "새로 생김"으로 보여요. 실험 기록도 같아요 — 날짜가 기간 밖이면 "새로 생김"으로 골라 두지 않아요.
+<!-- INMENTE_RELEASE:2.10.1:END -->
+
 <!-- INMENTE_RELEASE:2.10.0:START -->
 ### inMente 2.10.0
 
