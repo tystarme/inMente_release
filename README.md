@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.8.0
+## 최신 버전 · 2.9.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.8.0/inMente-Setup-2.8.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.8.0/inMente-2.8.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.9.0/inMente-Setup-2.9.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.9.0/inMente-2.9.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.9.0:START -->
+### inMente 2.9.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.9.0/inMente-Setup-2.9.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.9.0/inMente-2.9.0.apk)
+
+- **그림 이름 · 형식에 상관없이 폰으로** — 전에는 앱이 붙여 넣으며 지은 이름(64자리)의 png · jpg · webp만 동기화돼서, 노션에서 옮겨 오거나 탐색기로 직접 넣은 그림(예: 삼성전기 연구일지 CB1 결과 그림)과 gif는 PC에만 있었어요. 이제 vault 안의 jpg · jpeg · png · webp · gif는 이름 · 폴더에 상관없이 주고받고, 노트가 이름만 적어도(![[그림.png]]) 그 그림을 폰으로 받아요. 같은 자리에 기기마다 다른 그림이 있으면 덮지 않아요. 안 쓰는 그림 자동 정리는 지금처럼 앱이 지은 이름의 그림만 해요. ※ 서버 함수 inmente-r2를 한 번 다시 배포해야 해요.
+- **주간 보고 AI 초안이 결론을 써요** — 연구실의 주간 보고 지침(교수님의 목적 · 쓰는 법)을 AI에게 함께 주고, 그 주에 한 일을 늘어놓는 대신 결과가 뜻하는 결론을 앞에 쓰게 했어요: 요약은 핵심 메시지 1~2줄, 연구 경과는 결론과 그걸 받치는 최소한의 결과, 다음주 목표는 이번 결론에서 따라 나오는 계획. 해석이 적혀 있지 않으면 데이터가 분명히 말하는 것만 조심스럽게 쓰고, 아직 결론이 없으면 남은 물음으로 적어요.
+- **폰에서 굴리면 위쪽 칸 접기** — 노트 · 필기 노트 · 기록 표 기록 · 할 일 메모를 폰에서 아래로 굴리면 제목 줄만 남기고 보기 · 저장 단추, 날짜 · 태그 칸, 서식 단추를 접어 글을 넓게 봐요. 위로 조금 굴리면 다시 나와요.
+<!-- INMENTE_RELEASE:2.9.0:END -->
+
 <!-- INMENTE_RELEASE:2.8.0:START -->
 ### inMente 2.8.0
 
