@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.6.1
+## 최신 버전 · 2.7.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.6.1/inMente-Setup-2.6.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.6.1/inMente-2.6.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.7.0/inMente-Setup-2.7.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.7.0/inMente-2.7.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.7.0:START -->
+### inMente 2.7.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.7.0/inMente-Setup-2.7.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.7.0/inMente-2.7.0.apk)
+
+- **주간 보고 AI 초안** — 이번 주 보고를 고치는 화면 위 [AI 초안]을 누르면, 보고 기간에 쓴 실험 기록 · 고친 노트 · 필기 · 끝낸 할 일을 모아 목록으로 보여 줘요. 보낼 것만 고르고 [초안 쓰기]를 누르면 보고의 비어 있는 칸(요약 · 이번주 목표 · 연구 경과(프로젝트별) · 다음주 목표)만 채워요. 이미 쓴 칸은 그대로이고, 마음에 안 들면 Ctrl+Z로 한 번에 되돌려요. PC에서 AI 연결이 있을 때만 보여요.
+- **긴 필기 노트에서 칠 때 늦던 것** — 한 글자 칠 때마다 노트 전체를 다시 읽어 그림 · 끼운 노트를 찾고 있었어요(30쪽쯤이면 한 글자에 그 일만 절반 넘게). 이제 치다가 잠깐 멈췄을 때만 찾아요. 잰 결과 24쪽 노트에서 한 글자 시간이 약 1/5로 줄었어요. 닫혀 있는 [단축키 · 문법] 창도 더는 글자마다 다시 그리지 않아요.
+- **탭을 끌어 순서 바꾸기** — 노트 탭을 마우스로 잡아 끌면 순서가 바뀌어요(전에도 있었지만 PC 앱에서는 끌기가 먹지 않았어요).
+- **알림이 저절로 사라져요** — PDF 형광펜 · 도형 알림, 노트 위 알림(되살렸어요 · 사본으로 저장했어요 · 다른 곳에서 바뀌었어요 · 문제가 생겼어요), 주간 보고 · 행정 · 휴지통 알림도 5초 뒤 사라져요(마우스를 올려 두면 기다려요). 무엇을 할지 골라야 하는 알림은 그대로 남아요.
+<!-- INMENTE_RELEASE:2.7.0:END -->
+
 <!-- INMENTE_RELEASE:2.6.1:START -->
 ### inMente 2.6.1
 
