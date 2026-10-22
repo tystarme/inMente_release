@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.9.0
+## 최신 버전 · 2.10.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.9.0/inMente-Setup-2.9.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.9.0/inMente-2.9.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.0/inMente-Setup-2.10.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.0/inMente-2.10.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.10.0:START -->
+### inMente 2.10.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.0/inMente-Setup-2.10.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.0/inMente-2.10.0.apk)
+
+- **연구실 장비 예약을 inMente에서** — 일정 화면 위 오른쪽의 [연구실 예약](설정 → 연구실 예약에도 있어요)을 누르면 연구실 예약 웹판이 따로 뜨는 창으로 열려요. 예약 · 고치기 · 취소 · 알림 설정은 웹판에서 하던 그대로 그 창에서 해요. 처음 한 번 연구실 구성원 구글 계정으로 로그인하면, 마지막으로 쓴 날부터 30일 동안 로그인이 남아요. 창 크기 · 자리는 다음에 열 때도 그대로예요. 웹판 밖의 링크는 기본 브라우저로 열려요. 폰에서는 크롬으로 열려요(크롬 메뉴 → 홈 화면에 추가를 하면 앱처럼 열 수 있어요).
+- **주간 보고 AI 초안 — 새로 쓴 글이 이제 반영돼요** — 이번 보고 기간에 새로 만든 노트 · 기록이 [바뀐 곳]에 "+0줄"로만 보이고, 골라도 AI에게 내용이 가지 않았어요(새로 쓰고 다시 고치지 않은 노트는 목록에서 아예 빠졌어요). 이제 "새로 생김"으로 보이고 글 전체가 AI에게 가요. 자주 고쳐서 서버에 기간 시작 때의 판이 남아 있지 않은 글도 "이 기간에 고침"으로 보이고 글 전체를 보내요.
+<!-- INMENTE_RELEASE:2.10.0:END -->
+
 <!-- INMENTE_RELEASE:2.9.0:START -->
 ### inMente 2.9.0
 
