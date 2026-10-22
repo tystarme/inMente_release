@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.7.2
+## 최신 버전 · 2.8.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.7.2/inMente-Setup-2.7.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.7.2/inMente-2.7.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.8.0/inMente-Setup-2.8.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.8.0/inMente-2.8.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.8.0:START -->
+### inMente 2.8.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.8.0/inMente-Setup-2.8.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.8.0/inMente-2.8.0.apk)
+
+- **주간 보고 AI 초안 — 기록 표의 기록이 하나하나 보여요** — 전에는 기록 표(연구일지)가 달마다 파일 하나라 목록에 '2026-10'처럼 파일 이름만 나왔어요. 이제 그 안의 기록 하나하나가 제목 · 날짜 · 표 이름과 함께 보이고, 보고 기간과 날짜가 겹치는 기록과 이 기간에 새로 쓰거나 고친 기록을 모아요.
+- **쓸모없는 것은 빼요** — 기록 표의 「지운 기록」, 동기화 충돌 사본(conflicts 폴더 · '(inMente 사본 …)'), 「지운 목표」는 목록에 나오지 않아요. 글이 기간 시작 때와 똑같은 노트(앞부분 정보만 바뀐 것 포함)도 빼요.
+- **무엇이 바뀌었는지 보기** — 목록의 [바뀐 곳]을 누르면 기간이 시작할 때의 글과 지금 글을 줄마다 견주어(− 빠진 줄 · + 더한 줄) 보여 줘요. 목록에도 '+3줄 −1줄' · '새로 생김'이 붙고, AI에게는 기간 전부터 있던 글의 바뀐 곳만 보내 이번 주에 한 일에 집중해요. 옛 글은 동기화 서버가 파일마다 남겨 둔 최근 10개 판에서 읽어요 — 서버에 SQL 0006을 한 번 붙여 넣어야 해요(안 넣으면 전처럼 고친 때로만 모아요).
+<!-- INMENTE_RELEASE:2.8.0:END -->
+
 <!-- INMENTE_RELEASE:2.7.2:START -->
 ### inMente 2.7.2
 
