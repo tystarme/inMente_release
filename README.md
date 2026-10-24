@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.11.0
+## 최신 버전 · 2.12.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.11.0/inMente-Setup-2.11.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.11.0/inMente-2.11.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.0/inMente-Setup-2.12.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.0/inMente-2.12.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.12.0:START -->
+### inMente 2.12.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.0/inMente-Setup-2.12.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.0/inMente-2.12.0.apk)
+
+- **일정 탭을 하나로** — [내 일정]과 [구글 캘린더]를 [일정] 하나로 합쳤어요. 구글 일정과 inMente 일정이 한 달력 · 그날 목록에 함께 보여요(폰은 PC가 받아 둔 구글 일정을 함께 보기만).
+- **구글 캘린더 일정 고치기(PC)** — [일정]에서 구글 일정을 더하고 · 고치고 · 지울 수 있어요. 처음 한 번 설정 → 구글 캘린더에서 [다시 로그인]하고 캘린더 항목에 모두 체크해 주세요. 그사이 폰이나 구글 웹에서 바뀐 일정은 덮어쓰지 않고 알려요. 지운 일정은 구글 캘린더 휴지통으로 가고, 바로 [실행취소]할 수 있어요.
+- **장비 예약 달력** — 일정 → [장비 예약] → [달력]에서 예약을 inMente 모양으로 봐요: 한 달 달력(내 예약은 진하게)과 고른 날의 장비별 시간표(겹친 예약은 줄을 나눔 · 사용 금지 시간 · 승인 대기 · 반복 · 점검중 표시 · 지금 시각). 예약을 누르면 [예약하기](웹판)로 가요. 설정 → 연구실 예약에서 연구실 계정으로 한 번 로그인해 주세요. [폰에서도 보기]를 켜 두면 폰에서도 보여요.
+- **동기화 — 못 옮긴 그림의 까닭** — '못 옮긴 것 n개'가 무엇이고 왜인지 그림 이름과 까닭을 보여요. 서버의 그림 함수가 옛 판이면 다시 배포하라고 알려요.
+<!-- INMENTE_RELEASE:2.12.0:END -->
+
 <!-- INMENTE_RELEASE:2.11.0:START -->
 ### inMente 2.11.0
 
