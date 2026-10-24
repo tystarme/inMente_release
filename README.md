@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.10.2
+## 최신 버전 · 2.11.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.2/inMente-Setup-2.10.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.2/inMente-2.10.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.11.0/inMente-Setup-2.11.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.11.0/inMente-2.11.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.11.0:START -->
+### inMente 2.11.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.11.0/inMente-Setup-2.11.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.11.0/inMente-2.11.0.apk)
+
+- **연구실 장비 예약 — 웹판이 inMente 창 안에 그대로** — 일정 화면에 [장비 예약] 탭이 생겼어요(PC). 예약 웹판이 따로 뜨는 창이 아니라 그 칸에 그대로 떠서, 예약 · 고치기 · 취소를 inMente 안에서 해요. 처음 한 번 연구실 구글 계정으로 로그인하면 30일 동안 남고, 따로 뜨는 창과 로그인을 같이 써요. 칸 위의 [따로 창으로]를 누르면 전처럼 창으로도 열려요. 폰은 전처럼 [연구실 예약] 단추로 크롬에서 열어요.
+<!-- INMENTE_RELEASE:2.11.0:END -->
+
 <!-- INMENTE_RELEASE:2.10.2:START -->
 ### inMente 2.10.2
 
