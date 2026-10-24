@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.10.1
+## 최신 버전 · 2.10.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.1/inMente-Setup-2.10.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.1/inMente-2.10.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.2/inMente-Setup-2.10.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.2/inMente-2.10.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.10.2:START -->
+### inMente 2.10.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.10.2/inMente-Setup-2.10.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.10.2/inMente-2.10.2.apk)
+
+- **주간 보고 AI 초안 — 내가 쓴 지난 보고를 본보기로** — 바로 앞 보고 한 편만 보던 것을, 연구 경과를 쓴 지난 주간 보고 최근 6편을 함께 보내 글버릇(요약은 결론 한두 줄 · 연구 경과는 결과와 해석을 한 줄에 · 명사형 끝맺음 · 영어 용어 그대로)을 따르게 했어요. 이번주 목표는 지난 보고의 다음주 목표에서 이어 받고, 다음주 목표는 이번 결론에서 따라 나오는 다음 실험으로 적어요. 연구실 주간 보고 지침(교수님 Purpose · 선배 작성법)은 그대로 들어가요.
+<!-- INMENTE_RELEASE:2.10.2:END -->
+
 <!-- INMENTE_RELEASE:2.10.1:START -->
 ### inMente 2.10.1
 
