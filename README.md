@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.12.0
+## 최신 버전 · 2.12.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.0/inMente-Setup-2.12.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.0/inMente-2.12.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.2/inMente-Setup-2.12.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.2/inMente-2.12.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.12.2:START -->
+### inMente 2.12.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.2/inMente-Setup-2.12.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.2/inMente-2.12.2.apk)
+
+- **찾기를 새로 짰어요** — 이제 화면은 찾은 글을 따로 다시 찾지 않고, 노트 원문에서 찾은 바로 그 자리를 칠해요. 그래서 원문과 화면 모양이 다른 곳도 빠짐없이 칠해져요: 수식(예: `E_0` → 그 수식 전체) · 화살표(`->` → `→`) · `\*` 같은 기호 · 굵게 · 각주 · 링크 글. 편집 보기에서 글 모양으로 그려진 부분에도 칠하고, '3/10' 같은 수와 칠한 곳이 늘 같아요. 다음 · 이전으로 가면 칠한 그 자리가 화면 가운데로 와요(어림하지 않아요). 도구 줄 단추로 찾기를 닫아도 칠한 것이 남지 않아요.
+- **필기 노트 — 보던 자리를 지켜요** — PDF를 옆에 띄웠다 닫거나 쪽 너비 배율을 바꾸면 보던 곳이 다른 곳으로 튀었어요. 이제 화면 맨 위에 있던 글이 그대로 맨 위에 있어요.
+- **필기 노트 — 줄 앞 공백 때문에 생기던 회색 코드 상자 고침** — 한 줄 수식($$…$$) · 그림 · 제목 바로 다음 줄을 탭이나 공백 네 칸 이상으로 들여 쓰면(예: 탭 다음에 `-> …`), 그 줄이 가로 스크롤이 달린 회색 코드 상자로 보였어요. 이제 보통 노트처럼 글로 보여요.
+- **긴 필기 노트 편집이 가벼워졌어요** — 120쪽쯤 되는 필기 노트에서 치다가 잠깐 멈출 때마다 노트 전체를 다시 훑느라 화면이 잠깐씩 멈췄어요. 이제 그림 줄이 바뀔 때만 다시 찾고, 쪽을 다시 그릴지는 치다 멈췄을 때 한 번만 보고, 서식 단추 줄은 글자마다 다시 그리지 않아요(잰 값: 쉬었다 친 첫 글자 약 400ms → 약 30ms).
+<!-- INMENTE_RELEASE:2.12.2:END -->
+
 <!-- INMENTE_RELEASE:2.12.0:START -->
 ### inMente 2.12.0
 
