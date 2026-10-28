@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.12.2
+## 최신 버전 · 2.12.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.2/inMente-Setup-2.12.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.2/inMente-2.12.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.3/inMente-Setup-2.12.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.3/inMente-2.12.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.12.3:START -->
+### inMente 2.12.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.3/inMente-Setup-2.12.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.3/inMente-2.12.3.apk)
+
+- **실험 기록 — 변수 표 · 사진 설명 · 제목 칸에서도 화살표가 돼요** — 본문 같은 글 칸에서만 `->` `<-` `<->` `=>`를 치면 화살표(→ ← ↔ ⇒)로 바뀌었고, 변수 표의 변수 · 값 · 단위 칸과 표 밑 메모, 사진 설명, 기록 제목, 새 기록 제목, 기록 표 기록 제목에서는 `->` 그대로 남았어요. 이제 이 칸들에서도 치는 그 자리에서 화살표로 바뀌어요(붙여 넣은 글 · 수식 · 코드 안은 그대로).
+- **큰 메뉴를 오가도 보던 화면 그대로** — 왼쪽 메뉴로 다른 곳에 갔다 돌아오면 늘 맨 처음 화면으로 돌아갔어요(예: 프로젝트 안 하위 페이지를 보다가 일정에 다녀오면 프로젝트 첫 화면). 이제 프로젝트는 보던 페이지 · 표 · 기록으로, 실험은 열어 둔 기록 · 보관본 · 샘플 배치로, 주간 보고는 열어 둔 보고와 펴 둔 연도 · 달로, 행정은 열어 둔 건으로 돌아와요. 파일탐색기 · 일정은 전부터 기억했어요. 이 기억은 앱을 켜 둔 동안만이에요(다시 켜면 전처럼 열어요). 홈의 프로젝트 바로가기는 그 프로젝트의 첫 페이지로 열어요.
+<!-- INMENTE_RELEASE:2.12.3:END -->
+
 <!-- INMENTE_RELEASE:2.12.2:START -->
 ### inMente 2.12.2
 
