@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.12.3
+## 최신 버전 · 2.12.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.3/inMente-Setup-2.12.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.3/inMente-2.12.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.4/inMente-Setup-2.12.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.4/inMente-2.12.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.12.4:START -->
+### inMente 2.12.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.4/inMente-Setup-2.12.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.4/inMente-2.12.4.apk)
+
+- **노트 편집 화면에서도 화살표로 보여요** — 노트 · 기록 표 기록 · 할 일 메모를 고칠 때 `->` `<-` `<->` `=>` `<=` `-->` 등을 치면 그 자리에서 읽기 화면과 같은 화살표(→ ← ↔ ⇒ ⇐ ⟶)로 보여요. 파일에는 `->` 그대로 저장돼요(다른 앱 · 내보내기에서도 그대로). 커서는 화살표를 한 글자처럼 건너고, 화살표 바로 뒤에서 지우기를 누르면 `-`만 남아요(`<->`는 `<-`). 코드 · 수식 안과 `\->`처럼 막은 것은 그대로예요.
+<!-- INMENTE_RELEASE:2.12.4:END -->
+
 <!-- INMENTE_RELEASE:2.12.3:START -->
 ### inMente 2.12.3
 
