@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.12.4
+## 최신 버전 · 2.12.5
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.4/inMente-Setup-2.12.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.4/inMente-2.12.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.5/inMente-Setup-2.12.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.5/inMente-2.12.5.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.12.5:START -->
+### inMente 2.12.5
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.5/inMente-Setup-2.12.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.5/inMente-2.12.5.apk)
+
+- **Alt+→로 앞으로 가기** — 전에는 Alt+←(뒤로)만 되고 Alt+→(앞으로)는 먹지 않았어요. 이제 Alt+← · Alt+→가 마우스 뒤로 · 앞으로 단추와 똑같이 움직여요 — 파일탐색기에서는 앞서 본 노트 · 폴더로, 그 밖에서는 앞서 본 페이지로 오가요. 노트를 고치는 중에 Alt+화살표는 전처럼 커서를 옮기고, 창이 열려 있을 때 Alt+←는 전처럼 그 창을 닫아요.
+<!-- INMENTE_RELEASE:2.12.5:END -->
+
 <!-- INMENTE_RELEASE:2.12.4:START -->
 ### inMente 2.12.4
 
