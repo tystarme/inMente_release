@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.12.5
+## 최신 버전 · 2.12.6
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.5/inMente-Setup-2.12.5.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.5/inMente-2.12.5.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.6/inMente-Setup-2.12.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.6/inMente-2.12.6.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.12.6:START -->
+### inMente 2.12.6
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.6/inMente-Setup-2.12.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.6/inMente-2.12.6.apk)
+
+- **폰에서 글 맨 아래를 쓸 때 화면이 위아래로 흔들리던 것 고침** — 주간 보고처럼 긴 글의 맨 아래에서 치면 위쪽 단추 줄이 접혔다 펴졌다를 아주 빠르게 되풀이해 화면이 깜빡이며 흔들렸어요. 단추 줄을 접거나 펴면 글 칸 길이가 바뀌어 화면이 저절로 조금 움직이는데, 그걸 '위로 굴렸다'로 잘못 알아들었어요. 이제 접고 편 직후의 저절로 생긴 움직임은 무시해요 — 노트 · 기록 표 기록 · 할 일 메모에서도 같아요. 아래로 굴리면 접히고 위로 조금 굴리면 펴지는 것은 그대로예요.
+<!-- INMENTE_RELEASE:2.12.6:END -->
+
 <!-- INMENTE_RELEASE:2.12.5:START -->
 ### inMente 2.12.5
 
