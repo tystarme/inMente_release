@@ -2,14 +2,23 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.13.0
+## 최신 버전 · 2.14.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.13.0/inMente-Setup-2.13.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.13.0/inMente-2.13.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.14.0/inMente-Setup-2.14.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.14.0/inMente-2.14.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.14.0:START -->
+### inMente 2.14.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.14.0/inMente-Setup-2.14.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.14.0/inMente-2.14.0.apk)
+
+- **오탈자 밑줄을 앱 전체에서 켜고 꺼요** — 설정 › 화면 › '오탈자 밑줄'에서 [켬 · 끔]을 고르면 노트 · 주간 보고 · 프로젝트 기록 · 메모 · 입력 칸 모두에 바로 적용돼요(한글 · 영어). 전에는 파일탐색기 글 화면에만 있었고, 주간 보고 · 프로젝트 기록 · 메모 글 상자에는 밑줄이 아예 나오지 않았어요. 파일탐색기 보기 설정의 칸도 같은 설정이고, 전에 거기서 꺼 두었다면 꺼진 채로 이어져요. 폰은 키보드가 밑줄을 따로 그릴 수 있어요.
+<!-- INMENTE_RELEASE:2.14.0:END -->
+
 <!-- INMENTE_RELEASE:2.13.0:START -->
 ### inMente 2.13.0
 
