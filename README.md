@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.12.6
+## 최신 버전 · 2.13.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.12.6/inMente-Setup-2.12.6.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.12.6/inMente-2.12.6.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.13.0/inMente-Setup-2.13.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.13.0/inMente-2.13.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.13.0:START -->
+### inMente 2.13.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.13.0/inMente-Setup-2.13.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.13.0/inMente-2.13.0.apk)
+
+- **주간 보고 [복사]** — 보고를 펼친 아래([고치기] 옆)와 고치는 화면 위에 [복사] 단추가 생겼어요. 노션 · 메일 · 워드에 붙이면 글머리 · 번호 · 굵게 · 들여쓰기가 모양 그대로 들어가고, 카톡처럼 글만 받는 곳에는 `- ` 글머리와 들여쓰기가 그대로 들어가요. 고치는 중이면 저장 전 글도 그대로 복사해요.
+- **새 보고의 틀을 직접 고쳐요** — 주간 보고 설정(⚙) 아래 '새 보고의 틀'에서 [이번 주 보고]를 누를 때 들어갈 글을 고쳐 [틀 저장]을 누르면 그 틀로 만들어요. 정한 틀이 없으면 전처럼 지난 보고의 큰 번호 항목을 따라요. 어느 쪽이든 '이번주 목표' 밑이 비어 있으면 지난 보고의 '다음주 목표'를 옮겨 와요. [지난 보고 따르기로 되돌리기]로 정한 틀을 지울 수 있어요. PC와 폰이 같은 틀을 쓰니 **폰도 이 판으로 올려 주세요**(옛 판이 주간 보고 설정을 고쳐 쓰면 정한 틀이 지워질 수 있어요).
+- 주간 보고 목록을 다 읽기 전에 [이번 주 보고]를 누르면 지난 보고의 '다음주 목표'가 옮겨 오지 않던 것 — 이제 목록을 읽은 뒤에 눌러져요.
+<!-- INMENTE_RELEASE:2.13.0:END -->
+
 <!-- INMENTE_RELEASE:2.12.6:START -->
 ### inMente 2.12.6
 
