@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.14.0
+## 최신 버전 · 2.15.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.14.0/inMente-Setup-2.14.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.14.0/inMente-2.14.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.0/inMente-Setup-2.15.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.0/inMente-2.15.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.15.0:START -->
+### inMente 2.15.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.0/inMente-Setup-2.15.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.0/inMente-2.15.0.apk)
+
+- **프로젝트 — 왼쪽 위 [←]로 위 페이지에** — 페이지 안의 페이지에 들어가면 맨 위 왼쪽에 [←] 단추가 생겨요. 누르면 한 단계 위 페이지로 나와요(노션처럼). 옆의 길(LEA › 아이디어 정리 › 지금 페이지)은 지금 페이지 이름까지 보여 주고, 길의 이름을 누르면 그 페이지로 바로 가요.
+- 페이지를 연 바로 그 순간에 길을 누르면 방금 연 페이지로 되돌아가던 것 — 이제 누른 곳으로 가요.
+<!-- INMENTE_RELEASE:2.15.0:END -->
+
 <!-- INMENTE_RELEASE:2.14.0:START -->
 ### inMente 2.14.0
 
