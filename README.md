@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.15.1
+## 최신 버전 · 2.15.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.1/inMente-Setup-2.15.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.1/inMente-2.15.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.2/inMente-Setup-2.15.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.2/inMente-2.15.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.15.2:START -->
+### inMente 2.15.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.2/inMente-Setup-2.15.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.2/inMente-2.15.2.apk)
+
+- **실험 기록의 '쓴 샘플' 표가 이름 차례예요** — 전에는 넣은 차례 그대로라 #11 · #12 · #5 · #7처럼 섞여 보였어요. 이제 #5 · #7 · #11 · #12처럼 숫자는 크기대로 놓여요. 기록 파일에 적힌 차례는 그대로예요.
+- **[샘플 더하기] 목록도 배치 안은 번호 차례** — 한 배치의 샘플이 파일에 적힌 차례가 아니라 번호 차례로 나와요.
+<!-- INMENTE_RELEASE:2.15.2:END -->
+
 <!-- INMENTE_RELEASE:2.15.1:START -->
 ### inMente 2.15.1
 
