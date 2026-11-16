@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.15.0
+## 최신 버전 · 2.15.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.0/inMente-Setup-2.15.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.0/inMente-2.15.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.1/inMente-Setup-2.15.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.1/inMente-2.15.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.15.1:START -->
+### inMente 2.15.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.1/inMente-Setup-2.15.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.1/inMente-2.15.1.apk)
+
+- **폰 위젯에 구글 일정도 떠요** — 일정 화면에는 구글 캘린더 일정(PC가 받아 둔 것)이 함께 보이는데, 위젯에는 inMente에 직접 넣은 일정만 나와 오늘 구글 일정이 위젯에 안 떴어요. 이제 하루 종일 · 여러 날 · 시각 있는 일정이 시간 차례로 함께 나와요.
+- **위젯이 앱과 같게 새로 고쳐져요** — 앱에서 동기화가 끝날 때마다, 그리고 앱에서 홈 화면으로 나갈 때 위젯을 바로 새로 그려요. 전에는 받아 온 할 일이 앱에는 보여도 위젯에는 안 나올 때가 있었어요.
+- **위젯 [↻]를 앱이 뒤에 있을 때 눌러도 돼요** — 앱이 뒤에 열려 있으면 그 앱에 맡겼는데, 폰이 뒤에 있는 앱을 멈춰 두면 아무 일도 안 일어났어요. 이제 앱이 꺼져 있을 때처럼 위젯이 따로 할 일을 맞추고 새로 그려요.
+- **실험 · 주간 보고 · 행정에서도 앞으로 가기** — 기록 · 샘플 배치 · 보고 · 건을 연 뒤 뒤로 가면 목록, 앞으로 가면(Alt+→ · 마우스 앞으로 단추) 그 화면으로 다시 가요. 전에는 뒤로만 되고 앞으로는 안 됐어요. 폰 뒤로 가기도 같은 차례를 따라요.
+- **실험 기록의 [샘플 더하기]는 이름 차례** — 같은 프로젝트 배치를 먼저, 그 안은 이름 차례예요(LFP9 다음 LFP10). 전에는 최근 배치 먼저였어요.
+<!-- INMENTE_RELEASE:2.15.1:END -->
+
 <!-- INMENTE_RELEASE:2.15.0:START -->
 ### inMente 2.15.0
 
