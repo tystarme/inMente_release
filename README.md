@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.15.2
+## 최신 버전 · 2.16.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.15.2/inMente-Setup-2.15.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.15.2/inMente-2.15.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.0/inMente-Setup-2.16.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.0/inMente-2.16.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.0:START -->
+### inMente 2.16.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.0/inMente-Setup-2.16.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.0/inMente-2.16.0.apk)
+
+- **실험 기록의 파일 이름이 제목을 따라가요** — 기록의 제목 · 날짜 · 프로젝트를 바꾸면 파일 이름(`날짜_제목`)도 함께 바뀌어요. 전에는 처음 만들 때 이름에 머물러, 제목을 (3)에서 (4)로 고쳐도 파일은 (3)이었어요. 다른 노트에서 그 기록을 가리키는 [[링크]]도 함께 고쳐지고, 이전 기록과의 이어짐도 그대로예요.
+- **사진이 그 문서 옆 attachments 폴더에 자리 잡아요** — 문서가 쓰는 사진이 다른 폴더의 attachments에 들어 있으면, 그 문서를 열거나 나갈 때 문서 옆 attachments로 옮겨요(다른 문서도 쓰는 사진은 그대로). 바깥에서 넣은 사진 · 다른 문서에서 잘라 붙인 글의 사진도 제자리를 찾아가요.
+- **문서를 다른 폴더로 옮기면 사진도 옮겨져요** — 전에는 사진을 복사만 해서 옛 폴더에 사본이 남았고, 직접 이름을 지은 사진은 따라가지 않았어요. 이제 다른 문서가 쓰지 않는 사진은 함께 옮겨요.
+- **같은 이름의 사진이 두 곳에 있어도 깨지지 않아요** — 사진 이름만 적은 경우, 같은 이름의 사진이 여러 폴더에 있으면 전에는 사진이 보이지 않았어요. 이제 그 문서 옆 attachments의 사진을 보여 줘요.
+<!-- INMENTE_RELEASE:2.16.0:END -->
+
 <!-- INMENTE_RELEASE:2.15.2:START -->
 ### inMente 2.15.2
 
