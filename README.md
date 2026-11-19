@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.3
+## 최신 버전 · 2.16.4
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.3/inMente-Setup-2.16.3.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.3/inMente-2.16.3.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.4/inMente-Setup-2.16.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.4/inMente-2.16.4.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.4:START -->
+### inMente 2.16.4
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.4/inMente-Setup-2.16.4.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.4/inMente-2.16.4.apk)
+
+- **코드 정리(점검 4 · 5차 첫 판)** — 화면에서 하는 일은 그대로이고, 앱 안의 코드를 제자리로 옮기고 겹친 것을 모았어요. 다음 고침이 덜 어긋나게 하려는 정리예요.
+- **vault 가져오기에 '프로젝트'가 따로** — 새 vault에 앞 vault를 가져올 때 프로젝트 페이지 · 기록 표(연구일지 등)를 따로 고를 수 있어요. 전에는 '파일탐색기 노트'에 섞여 있었어요.
+- **휴지통 이름표** — 지운 프로젝트 페이지 · 논문 묶음이 그냥 '노트' · '파일'이 아니라 '프로젝트 페이지' · '논문 묶음'으로 보여요.
+- **새 vault의 프로젝트 목록 틀** — 예시 줄에 특정 사람 · 과제 이름 대신 일반 예시를 적어요.
+<!-- INMENTE_RELEASE:2.16.4:END -->
+
 <!-- INMENTE_RELEASE:2.16.3:START -->
 ### inMente 2.16.3
 
