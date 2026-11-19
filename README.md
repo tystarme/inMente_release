@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.0
+## 최신 버전 · 2.16.1
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.0/inMente-Setup-2.16.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.0/inMente-2.16.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.1/inMente-Setup-2.16.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.1/inMente-2.16.1.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.1:START -->
+### inMente 2.16.1
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.1/inMente-Setup-2.16.1.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.1/inMente-2.16.1.apk)
+
+- **라이브러리 폴더는 누르면 펼쳐지기만 해요** — 전에는 폴더를 누를 때마다 가운데에 폴더 설명 화면이 떴어요. 메모 자리 정하기 · 별명 바꾸기 · 라이브러리에서 빼기는 폴더를 우클릭하면 나와요.
+- **이름 차례가 Windows와 같아요** — 파일탐색기 · 라이브러리 · 프로젝트 · 목록에서 영어 이름이 한글 이름보다 앞에 와요(기호 · 숫자 → 영어 → 한글). 숫자는 값 차례 그대로예요(2 다음 10).
+- **[메모 열기]를 누르면 PDF도 함께 떠요** — 라이브러리에서 PDF의 서지를 가져온 뒤 [메모 열기]를 누르거나 PDF를 우클릭해 [메모 열기]를 고르면, 메모와 그 PDF가 나란히 열려요. 전에는 메모만 열렸어요.
+- **앱이 쓰는 폴더 안에는 새 폴더를 만들지 않아요** — 논문 묶음(`collections`) · 논문 메모(`papers`) 같은 앱의 폴더 안에서 [새 폴더]를 누르면 만들지 않고 알려 줘요. 앱 밖(Windows 탐색기)에서 그 안에 만든 폴더는 비어 있어도 보여요 — 전에는 비어 있으면 숨겨져 만든 줄 몰랐어요.
+- **다른 폴더에 남은 사진 사본도 '안 쓰는 그림 찾기'로 정리해요** — 직접 이름 지은 사진(예: `261015_fig1.png`)도 문서 옆 attachments에 같은 사진이 있으면, 다른 폴더에 남은 사본을 찾아 휴지통으로 옮길 수 있어요(파일탐색기 설정 → 안 쓰는 그림 → [찾기]). 문서의 사진은 깨지지 않아요.
+<!-- INMENTE_RELEASE:2.16.1:END -->
+
 <!-- INMENTE_RELEASE:2.16.0:START -->
 ### inMente 2.16.0
 
