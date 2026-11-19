@@ -2,14 +2,28 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.2
+## 최신 버전 · 2.16.3
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.2/inMente-Setup-2.16.2.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.2/inMente-2.16.2.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.3/inMente-Setup-2.16.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.3/inMente-2.16.3.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.3:START -->
+### inMente 2.16.3
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.3/inMente-Setup-2.16.3.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.3/inMente-2.16.3.apk)
+
+- **덜 기다리게 했어요(코드 점검 2차)** — 앱이 같은 일을 되풀이하던 곳을 줄였어요.
+- **실험 · 샘플 페이지** — 노트 하나를 저장할 때마다 모든 기록 · 배치를 다시 읽던 것을, 바뀐 파일만 다시 읽게 했어요. 실험과 상관없는 노트가 바뀌면 파일 목록만 새로 받아요.
+- **홈** — 노트를 저장할 때마다(자동 저장) vault 전체를 다시 훑던 것을 멈췄어요.
+- **사진 동기화** — 사진을 한 장씩 차례로 옮기던 것을 4장씩 함께 옮겨요(새 기기에서 처음 받을 때 훨씬 빨라요). 바뀐 게 없으면 1분마다 서버 사진 목록 전체를 받지 않고 5분에 한 번만 봐요.
+- **화면 멈춤** — 논문 색인 저장 · 라이브러리 폴더 읽기 · 구매 서류 찾기 · 보관본 만들기가 화면을 잠깐 멈추던 것을 뒤에서 하게 했어요.
+- **폰 할 일 알림** — 5분마다 기기의 알림 예약을 모두 지우고 다시 걸던 것을, 바뀐 게 있을 때만 다시 걸게 했어요(그 틈에 알림이 빠질 일이 없어요).
+<!-- INMENTE_RELEASE:2.16.3:END -->
+
 <!-- INMENTE_RELEASE:2.16.2:START -->
 ### inMente 2.16.2
 
