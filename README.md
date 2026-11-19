@@ -2,14 +2,30 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.1
+## 최신 버전 · 2.16.2
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.1/inMente-Setup-2.16.1.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.1/inMente-2.16.1.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.2/inMente-Setup-2.16.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.2/inMente-2.16.2.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.2:START -->
+### inMente 2.16.2
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.2/inMente-Setup-2.16.2.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.2/inMente-2.16.2.apk)
+
+- **코드 점검에서 찾은 버그를 고쳤어요(1차)** — 앱 전체를 점검해 찾은 작은 버그 12가지예요.
+- **PDF 형광펜** — 적는 중에 전원이 끊겨 PDF 끝에 반쯤 쓴 내용이 남으면, 다음에 형광펜을 적을 때 원래대로 되돌린 뒤 적어요.
+- **실험 기록 이름** — 하위 폴더에 둔 기록의 제목 끝 숫자(예: `Nafion-212`)가 파일 이름에서 잘리던 것을 고쳤어요.
+- **노트 열기** — 실험 기록 · 주간 보고에서 노트를 빠르게 바꿔 열 때 앞 노트 글이 새 노트 자리에 들어갈 수 있던 틈을 막았어요.
+- **사진 동기화** — 늘 실패하는 사진(20MB 넘는 사진 등)을 1분마다 끝없이 다시 보내지 않아요. 너무 큰 사진은 한 번 알리고, 실패한 사진은 점점 늦게 다시 해 봐요. 다른 사진은 밀리지 않아요.
+- **구글 일정** — 일정을 고치거나 지운 뒤 모든 달력을 다시 불러오지 않아요. 달력 숨기기를 저장하지 못하면 알려요.
+- **링크** — `[[Fig 2.1]]`처럼 이름에 점이 든 노트도 찾아가요.
+- **그 밖에** — 오류가 '[object Object]'로 보이던 곳 · 승인한 vault 목록 파일이 깨지면 목록이 사라지던 것(이제 따로 남겨 둬요) · 프로젝트를 더하면 `projects.yaml` 줄바꿈이 바뀌던 것 · 할 일 설정이 두 번 저장될 수 있던 것 · AI 요약 언어를 저장하지 못해도 바뀐 듯 보이던 것 · 구글/연구실 로그인이 한 번 꼬이면 계속 안 되던 것을 고쳤어요.
+<!-- INMENTE_RELEASE:2.16.2:END -->
+
 <!-- INMENTE_RELEASE:2.16.1:START -->
 ### inMente 2.16.1
 
