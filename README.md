@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.4
+## 최신 버전 · 2.16.5
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.4/inMente-Setup-2.16.4.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.4/inMente-2.16.4.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.5/inMente-Setup-2.16.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.5/inMente-2.16.5.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.5:START -->
+### inMente 2.16.5
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.5/inMente-Setup-2.16.5.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.5/inMente-2.16.5.apk)
+
+- **할 일 '합칠 사본'이 덜 생겨요** — PC와 폰에서 맞추기 전에 각각 할 일을 고쳐도, 서로 다른 할 일을 고쳤으면(한쪽은 날짜를 옮기고 · 다른 쪽은 새로 더하거나 끝내는 식) 사본 없이 저절로 합쳐요. 같은 할 일을 양쪽에서 다르게 고쳤을 때만 전처럼 골라 합치게 해요. 이 기능은 업데이트한 뒤 한 번 맞추고 나서부터 동작해요.
+- **날짜만 옮긴 할 일은 한 줄로** — 합칠 사본 화면에서 다른 기기가 날짜만 옮긴 할 일이 '서버 쪽에만 있음'(새 날짜)과 '이 기기에만 있음'(옛 날짜)으로 갈라져 보이던 것을, '날짜가 바뀜 · 11월 22일 → 11월 23일' 한 줄로 보여요. 처음부터 켜져 있어서 그대로 합치면 그 날로 옮겨져요(전에는 그대로 합치면 같은 할 일이 두 날짜에 겹쳤어요).
+<!-- INMENTE_RELEASE:2.16.5:END -->
+
 <!-- INMENTE_RELEASE:2.16.4:START -->
 ### inMente 2.16.4
 
