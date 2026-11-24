@@ -2,14 +2,24 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.5
+## 최신 버전 · 2.16.6
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.5/inMente-Setup-2.16.5.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.5/inMente-2.16.5.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.6/inMente-Setup-2.16.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.6/inMente-2.16.6.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.6:START -->
+### inMente 2.16.6
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.6/inMente-Setup-2.16.6.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.6/inMente-2.16.6.apk)
+
+- **보이는 것은 그대로, 속을 정리했어요** — 코드 점검에서 찾은 구조 정리를 마쳤어요. 파일탐색기 화면 · 노트 화면을 작은 조각으로 나누고, 여러 곳에 따로 있던 같은 코드(휴지통 단추 · 폰용 일정 파일 남기기 · 충돌 사본 읽기 · 이 기기 화면 기억 · 달력)를 한 곳으로 모았어요. 화면과 동작은 바뀌지 않아요.
+- 앞으로 기능끼리 서로 얽히는 코드가 새로 생기면 시험이 막도록 했어요(더 고치기 쉽고 덜 깨지게).
+<!-- INMENTE_RELEASE:2.16.6:END -->
+
 <!-- INMENTE_RELEASE:2.16.5:START -->
 ### inMente 2.16.5
 
