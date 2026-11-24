@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.6
+## 최신 버전 · 2.16.7
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.6/inMente-Setup-2.16.6.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.6/inMente-2.16.6.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.7/inMente-Setup-2.16.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.7/inMente-2.16.7.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.7:START -->
+### inMente 2.16.7
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.7/inMente-Setup-2.16.7.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.7/inMente-2.16.7.apk)
+
+- **동기화가 서버와 덜 주고받아요** — 1분마다 서버의 노트 목록 전체를 받던 것을 지난번 뒤로 바뀐 것만 받고, 새 기기에서 처음 맞출 때 노트를 여러 개씩 한 번에 받아요. 노트 그림도 주소를 여러 장씩 한 번에 받아요.
+- 서버의 옛 판 보관이 가벼워졌어요 — 자동 저장마다 쌓이던 판을 10분 단위로 합치고, 저장할 때 그 노트의 옛 판만 정리해요.
+- 서버 쪽 준비(Supabase에 SQL 0007 붙여 넣기 · 그림 서버 함수 다시 올리기)를 하기 전에도 전처럼 동작해요.
+<!-- INMENTE_RELEASE:2.16.7:END -->
+
 <!-- INMENTE_RELEASE:2.16.6:START -->
 ### inMente 2.16.6
 
