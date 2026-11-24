@@ -2,14 +2,25 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.7
+## 최신 버전 · 2.16.8
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.7/inMente-Setup-2.16.7.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.7/inMente-2.16.7.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.8/inMente-Setup-2.16.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.8/inMente-2.16.8.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.16.8:START -->
+### inMente 2.16.8
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.8/inMente-Setup-2.16.8.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.8/inMente-2.16.8.apk)
+
+- **앱을 켠 직후 첫 동기화가 빨라졌어요** — 노트마다 계산해 둔 지문을 이 기기에 적어 두어, 앱을 다시 켜도 바뀐 노트만 다시 읽어요. 동기화 한 번에 보관함 폴더(휴지통까지)를 여러 번 훑던 것도 한 번으로 줄였어요.
+- **노트 링크 · 논문 메모 · 필기 노트 색인이 가벼워졌어요** — 처음 색인할 때 노트를 한꺼번에 몰아 읽지 않고, 그 사이 동기화로 파일이 바뀌어도 읽던 것을 버리지 않아요. 링크 색인이 노트 8개마다 파일탐색기를 다시 그리던 것도 다 읽은 뒤 한 번으로 바꿨어요.
+- 보이는 것은 그대로, 속을 더 정리했어요 — 기능끼리 서로 얽힌 곳을 8쌍에서 2쌍으로 줄였어요.
+<!-- INMENTE_RELEASE:2.16.8:END -->
+
 <!-- INMENTE_RELEASE:2.16.7:START -->
 ### inMente 2.16.7
 
