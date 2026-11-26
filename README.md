@@ -2,14 +2,27 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.16.8
+## 최신 버전 · 2.17.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.16.8/inMente-Setup-2.16.8.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.16.8/inMente-2.16.8.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.17.0/inMente-Setup-2.17.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.17.0/inMente-2.17.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:2.17.0:START -->
+### inMente 2.17.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.17.0/inMente-Setup-2.17.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.17.0/inMente-2.17.0.apk)
+
+- **샘플 라벨(샘플명)을 바꿀 수 있어요** — 배치 화면 라벨 옆 연필을 누르면 그 자리에서 바꿔요. 파일 이름과, 그 라벨을 쓴 실험 기록의 '쓴 샘플'도 함께 바뀌어요.
+- **전극 일괄 입력** — 전극 목록 위 [일괄 입력]에서 칸(변수)을 고르고 값을 적으면, 고른 전극들에 한 번에 넣어요. 값을 비우고 누르면 그 칸을 지워요.
+- 주간 보고 [복사]가 화면에서 직접 긁어 복사한 것과 같게 복사돼요(전에는 원문 기호 `- ` · `**`가 그대로 붙는 곳이 있었어요).
+- 폰에서 실험 기록 · 전극 기록의 숫자를 고치면 원래 숫자로 되돌아가던 문제를 막았어요.
+- 폰 위젯에서 할 일을 체크하거나 풀면 바로 동기화해요.
+<!-- INMENTE_RELEASE:2.17.0:END -->
+
 <!-- INMENTE_RELEASE:2.16.8:START -->
 ### inMente 2.16.8
 
