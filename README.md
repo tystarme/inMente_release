@@ -2,14 +2,26 @@
 
 논문 · 일정 · 실험 · 행정을 한곳에서 관리하는 연구용 앱 inMente 의 배포 저장소입니다.
 
-## 최신 버전 · 2.17.0
+## 최신 버전 · 3.0.0
 
-- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v2.17.0/inMente-Setup-2.17.0.exe)
-- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v2.17.0/inMente-2.17.0.apk)
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v3.0.0/inMente-Setup-3.0.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v3.0.0/inMente-3.0.0.apk)
 
 ## 릴리스 기록
 
 <!-- INMENTE_RELEASES_START -->
+<!-- INMENTE_RELEASE:3.0.0:START -->
+### inMente 3.0.0
+
+- [Windows Setup](https://github.com/tystarme/inMente_release/releases/download/v3.0.0/inMente-Setup-3.0.0.exe)
+- [Android APK](https://github.com/tystarme/inMente_release/releases/download/v3.0.0/inMente-3.0.0.apk)
+
+- **실험 페이지에 '분석' 탭이 생겼어요** — [기록 · 샘플 · 분석]. 측정 결과를 분석해 그래프 · 표로 보고 실험 폴더에 저장해요. 갈래는 두 칸 그래프부터 시작하고, Cycling · XRD · XPS · SEM은 차례로 더해져요(지금은 '준비 중').
+- **두 칸 그래프** — 글로 된 측정 파일(.txt · .csv · .xy 등)을 고르면 숫자 칸을 읽어 그래프로 그려요. 가로 · 세로 칸을 고를 수 있고, 파일을 여러 개 고르면 한 그래프에 겹쳐 보여요. BioLogic EC-Lab에서 글로 내보낸 파일도 읽어요.
+- 실험 기록 화면에 '분석' 줄이 생겼어요 — [분석하기]를 누르면 그 기록에 이어 분석하고, 저장한 결과는 기록에서 바로 열어요.
+- 분석은 PC에서 해요. 저장한 결과(그래프 · 표)는 동기화로 폰에서도 볼 수 있어요. 결과를 지우면 휴지통으로 가요(실험 설정의 휴지통에서 되살리기).
+<!-- INMENTE_RELEASE:3.0.0:END -->
+
 <!-- INMENTE_RELEASE:2.17.0:START -->
 ### inMente 2.17.0
 
